@@ -236,6 +236,12 @@
     },
     "done": true
   },
+  "cartographer_custom_enchantments:other/unbreakable": {
+    "criteria": {
+      "found": "2025-05-13 03:49:50 +0000"
+    },
+    "done": true
+  },
   "cartographer_mob_abilities:root": {
     "criteria": {
       "tick": "2025-05-13 03:47:44 +0000"

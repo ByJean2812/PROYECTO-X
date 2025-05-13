@@ -236,6 +236,12 @@
     },
     "done": true
   },
+  "cartographer_custom_enchantments:other/unbreakable": {
+    "criteria": {
+      "found": "2025-05-13 03:49:48 +0000"
+    },
+    "done": true
+  },
   "cartographer_mob_abilities:root": {
     "criteria": {
       "tick": "2025-05-13 03:44:28 +0000"
@@ -293,6 +299,12 @@
   "cartographer_custom_enchantments:tree_passive": {
     "criteria": {
       "tick": "2025-05-13 03:44:28 +0000"
+    },
+    "done": true
+  },
+  "cartographer_charon:death_note/void_return": {
+    "criteria": {
+      "tick": "2025-05-13 04:00:28 +0000"
     },
     "done": true
   },
