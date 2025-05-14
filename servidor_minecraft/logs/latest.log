@@ -339,3 +339,19 @@
 [02:47:58] [Server thread/INFO]: Named entity bzc['TioSkrollex's Shade (#3)'/4949, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=47.00, y=105.74, z=-112.00] died: TioSkrollex's Shade (#3) was killed
 [02:52:21] [Server thread/INFO]: Named entity cde['Disgruntled Villager'/5160, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=121.51, y=124.54, z=-234.35] died: Disgruntled Villager was slain by TioSkrollex using [Operatic Blade]
 [02:53:28] [Server thread/INFO]: Named entity cde['Disgruntled Villager'/5184, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=130.45, y=124.59, z=-254.87] died: Disgruntled Villager was slain by Pulpleito8 using [Farmer's Scyth]
+[02:55:01] [Server thread/INFO]: Named entity cde['Disgruntled Villager'/5278, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=142.28, y=125.59, z=-232.14] died: Disgruntled Villager was burned to a crisp while fighting Pulpleito8
+[02:55:30] [Server thread/INFO]: TioSkrollex walked into fire while fighting Husk
+[02:55:30] [Server thread/ERROR]: Input is not a list of 4 elements
+[02:55:30] [Server thread/ERROR]: Display entityNot a string
+[02:56:02] [Server thread/ERROR]: Display entityNot a string
+[02:56:02] [Server thread/INFO]: Named entity bzc['TioSkrollex's Shade (#4)'/5415, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=131.00, y=131.74, z=-251.00] died: TioSkrollex's Shade (#4) was killed
+[02:56:29] [Server thread/INFO]: TioSkrollex burned to death
+[02:56:29] [Server thread/ERROR]: Input is not a list of 4 elements
+[02:56:29] [Server thread/ERROR]: Display entityNot a string
+[02:57:01] [Server thread/ERROR]: Display entityNot a string
+[02:57:01] [Server thread/INFO]: Named entity bzc['TioSkrollex's Shade (#5)'/5563, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=128.00, y=131.74, z=-246.00] died: TioSkrollex's Shade (#5) was killed
+[03:03:31] [Server thread/INFO]: Pulpleito8 lost connection: Timed out
+[03:03:31] [Server thread/INFO]: Pulpleito8 left the game
+[03:03:31] [Server thread/WARN]: handleDisconnection() called twice
+[03:03:37] [Server thread/INFO]: Pulpleito8[/127.4.210.242:60107] logged in with entity id 5849 at (122.29977545933394, 127.0, -271.7252034089459)
+[03:03:37] [Server thread/INFO]: Pulpleito8 joined the game

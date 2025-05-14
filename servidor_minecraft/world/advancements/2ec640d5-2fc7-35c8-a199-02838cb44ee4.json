@@ -356,5 +356,11 @@
     },
     "done": true
   },
+  "cartographer_charon:death_note/void_return": {
+    "criteria": {
+      "tick": "2025-05-14 03:01:42 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3700
 }

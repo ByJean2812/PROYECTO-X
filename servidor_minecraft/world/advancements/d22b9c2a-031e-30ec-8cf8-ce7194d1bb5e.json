@@ -326,27 +326,9 @@
     },
     "done": false
   },
-  "cartographer_custom_enchantments:passive/poise": {
-    "criteria": {
-      "find": "2025-05-14 02:44:42 +0000"
-    },
-    "done": true
-  },
-  "cartographer_custom_enchantments:passive/satiation": {
-    "criteria": {
-      "find": "2025-05-14 02:12:10 +0000"
-    },
-    "done": true
-  },
   "cartographer_custom_enchantments:melee/singe": {
     "criteria": {
       "find": "2025-05-14 01:17:34 +0000"
-    },
-    "done": true
-  },
-  "cartographer_custom_enchantments:passive/thorns": {
-    "criteria": {
-      "find": "2025-05-14 02:29:02 +0000"
     },
     "done": true
   },
@@ -359,6 +341,30 @@
   "cartographer_charon:death_note/root": {
     "criteria": {
       "tick": "2025-05-14 01:53:15 +0000"
+    },
+    "done": true
+  },
+  "cartographer_custom_enchantments:passive/satiation": {
+    "criteria": {
+      "find": "2025-05-14 02:12:10 +0000"
+    },
+    "done": true
+  },
+  "cartographer_custom_enchantments:passive/thorns": {
+    "criteria": {
+      "find": "2025-05-14 02:29:02 +0000"
+    },
+    "done": true
+  },
+  "cartographer_custom_enchantments:passive/poise": {
+    "criteria": {
+      "find": "2025-05-14 02:44:42 +0000"
+    },
+    "done": true
+  },
+  "cartographer_custom_enchantments:ranged/overcharge": {
+    "criteria": {
+      "find": "2025-05-14 03:00:26 +0000"
     },
     "done": true
   },
