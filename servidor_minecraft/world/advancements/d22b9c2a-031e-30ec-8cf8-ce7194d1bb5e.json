@@ -326,6 +326,12 @@
     },
     "done": false
   },
+  "cartographer_custom_enchantments:passive/poise": {
+    "criteria": {
+      "find": "2025-05-14 02:44:42 +0000"
+    },
+    "done": true
+  },
   "cartographer_custom_enchantments:passive/satiation": {
     "criteria": {
       "find": "2025-05-14 02:12:10 +0000"

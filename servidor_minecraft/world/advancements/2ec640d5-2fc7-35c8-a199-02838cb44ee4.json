@@ -314,21 +314,15 @@
     },
     "done": true
   },
-  "cartographer_custom_enchantments:load_fleetfoot_crossbow": {
+  "cartographer_custom_enchantments:melee/singe": {
     "criteria": {
-      "load_crossbow_2": "2025-05-14 01:55:38 +0000"
+      "find": "2025-05-14 01:37:52 +0000"
     },
-    "done": false
+    "done": true
   },
   "cartographer_custom_enchantments:passive/satiation": {
     "criteria": {
       "find": "2025-05-14 01:41:46 +0000"
-    },
-    "done": true
-  },
-  "cartographer_custom_enchantments:melee/singe": {
-    "criteria": {
-      "find": "2025-05-14 01:37:52 +0000"
     },
     "done": true
   },
@@ -344,9 +338,21 @@
     },
     "done": true
   },
+  "cartographer_custom_enchantments:load_fleetfoot_crossbow": {
+    "criteria": {
+      "load_crossbow_2": "2025-05-14 01:55:38 +0000"
+    },
+    "done": false
+  },
   "cartographer_custom_enchantments:curse/shattering": {
     "criteria": {
       "find": "2025-05-14 02:00:10 +0000"
+    },
+    "done": true
+  },
+  "cartographer_custom_enchantments:passive/poise": {
+    "criteria": {
+      "find": "2025-05-14 02:48:25 +0000"
     },
     "done": true
   },
