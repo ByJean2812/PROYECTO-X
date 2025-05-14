@@ -1,88 +1,61 @@
-[03:44:06] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[03:44:08] [Worker-Main-3/ERROR]: Couldn't load tag delta:no_collision as it is missing following references: minecraft:grass (from file/delta_datapack.zip)
-[03:44:10] [ServerMain/INFO]: Loaded 7 recipes
-[03:44:10] [ServerMain/ERROR]: Couldn't load tag minecraft:cartographer/events/enchantments/ranged/frost as it is missing following references: cartographer_custom_enchantments:events/debug/enchantments/ranged/frost (from file/Cartographer - Custom Enchantments.zip)
-[03:44:10] [ServerMain/INFO]: Loaded 344 advancements
-[03:44:10] [ServerMain/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:block] are present in data pack: bb:raycast
-[03:44:11] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[03:44:11] [Server thread/INFO]: Loading properties
-[03:44:11] [Server thread/INFO]: Default game type: SURVIVAL
-[03:44:11] [Server thread/INFO]: Generating keypair
-[03:44:12] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:44:12] [Server thread/INFO]: Using epoll channel type
-[03:44:12] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03:44:12] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[03:44:12] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03:44:12] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[03:44:12] [Server thread/INFO]: Preparing level "world"
-[03:44:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[03:44:14] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[03:44:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:44:14] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[03:44:14] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[03:44:14] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[03:44:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:44:15] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[03:44:15] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[03:44:16] [Worker-Main-1/INFO]: Preparing spawn area: 1%
-[03:44:16] [Worker-Main-1/INFO]: Preparing spawn area: 25%
-[03:44:18] [Server thread/INFO]: Time elapsed: 6244 ms
-[03:44:18] [Server thread/INFO]: Done (6.404s)! For help, type "help"
-[03:44:26] [Server thread/WARN]: UUID of added entity already exists: bmm['Marker'/1, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-1000.00, y=-36.00, z=-1000.00]
-[03:44:26] [Server thread/WARN]: UUID of added entity already exists: ccx['Skeleton'/96, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-1030.50, y=-0.50, z=-1030.50]
-[03:44:26] [Server thread/WARN]: UUID of added entity already exists: cbk['Armor Stand'/97, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-1030.50, y=-0.50, z=-1030.50]
-[03:44:26] [Server thread/WARN]: UUID of added entity already exists: bmm['Marker'/98, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-1030.50, y=-0.50, z=-1030.50]
-[03:44:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7928ms or 158 ticks behind
-[03:44:28] [Server thread/INFO]: Pulpleito8[/127.133.49.52:56463] logged in with entity id 184 at (-989.5, -37.0, -991.5)
-[03:44:28] [Server thread/INFO]: Pulpleito8 joined the game
-[03:44:29] [Server thread/WARN]: UUID of added entity already exists: bmm['Marker'/194, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=0.50, y=0.00, z=0.50]
-[03:44:30] [Server thread/WARN]: UUID of added entity already exists: bmm['Marker'/203, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=4206900.50, y=0.00, z=4206900.50]
-[03:44:30] [Server thread/WARN]: UUID of added entity already exists: cbk['Armor Stand'/204, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=4206900.50, y=0.00, z=4206900.50]
-[03:44:30] [Server thread/WARN]: UUID of added entity already exists: bmm['Marker'/205, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=4206900.50, y=0.00, z=4206900.50]
-[03:44:30] [Server thread/WARN]: UUID of added entity already exists: bmm['Marker'/206, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=4206900.50, y=60.00, z=4206900.50]
-[03:44:30] [Server thread/WARN]: UUID of added entity already exists: bmm['Marker'/207, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=4206900.50, y=50.00, z=4206900.50]
-[03:44:30] [Server thread/WARN]: UUID of added entity already exists: bmm['Marker'/208, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=4206900.50, y=50.00, z=4206900.50]
-[03:44:30] [Server thread/WARN]: UUID of added entity already exists: bmm['Marker'/209, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=4206900.50, y=50.00, z=4206900.50]
-[03:44:30] [Server thread/WARN]: UUID of added entity already exists: bmm['Marker'/210, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=4206900.50, y=128.00, z=4206900.50]
-[03:44:30] [Server thread/WARN]: UUID of added entity already exists: cbk['Armor Stand'/211, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=4206900.50, y=180.00, z=4206900.50]
-[03:44:30] [Server thread/WARN]: UUID of added entity already exists: cbk['Armor Stand'/212, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=4206900.50, y=180.00, z=4206900.50]
-[03:45:14] [Server thread/INFO]: [Not Secure] <Pulpleito8> hola
-[03:45:30] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[03:45:30] [Server thread/INFO]: chop Pulpleito8<--[HERE]
-[03:45:54] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[03:45:54] [Server thread/INFO]: OP Pulpleito8<--[HERE]
-[03:46:30] [Server thread/INFO]: Made Pulpleito8 a server operator
-[03:47:44] [Server thread/INFO]: TioSkrollex[/127.54.56.198:53383] logged in with entity id 228 at (-993.5, -31.0, -995.5)
-[03:47:44] [Server thread/INFO]: TioSkrollex joined the game
-[03:48:26] [Server thread/INFO]: Made TioSkrollex a server operator
-[03:49:21] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=0, y=0, z=0} hx{x=-1000, y=-36, z=-950}
-[03:50:10] [Server thread/INFO]: Named entity ccm['The Hunger'/268, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=13.62, y=-36.00, z=4.45] died: The Hunger was slain by Pulpleito8 using [Toy Sword]
-[03:50:35] [Server thread/INFO]: Named entity ccm['The Hunger'/279, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=20.13, y=-30.00, z=17.10] died: The Hunger was slain by TioSkrollex using [Toy Sword]
-[03:51:27] [Server thread/INFO]: Named entity ccm['The Hunger'/299, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=25.81, y=-17.00, z=20.48] died: The Hunger was slain by Pulpleito8 using [Toy Sword]
-[03:52:18] [Server thread/INFO]: Named entity cda['Dream Bug'/315, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=42.99, y=-7.00, z=17.57] died: Dream Bug was slain by TioSkrollex using [Toy Sword]
-[03:52:32] [Server thread/INFO]: Named entity ccm['The Hunger'/314, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=36.15, y=-8.00, z=15.04] died: The Hunger was slain by Pulpleito8 using [Toy Sword]
-[03:53:52] [Server thread/INFO]: Named entity ccm['The Hunger'/335, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=21.69, y=-3.06, z=5.07] died: The Hunger was slain by Pulpleito8 using [Toy Sword]
-[03:53:53] [Server thread/INFO]: Named entity ccm['The Hunger'/336, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=21.36, y=-4.00, z=4.37] died: The Hunger was slain by TioSkrollex using [Toy Sword]
-[03:54:38] [Server thread/INFO]: Named entity ccb['Errant Note'/369, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-5.50, y=-9.00, z=-1.56] died: Errant Note was slain by Pulpleito8 using [Toy Sword]
-[03:54:45] [Server thread/INFO]: Named entity ccm['The Hunger'/371, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-5.52, y=-9.00, z=1.39] died: The Hunger was slain by Pulpleito8 using [Toy Sword]
-[03:55:45] [Server thread/INFO]: Named entity cda['Dream Bug'/395, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=15.53, y=-8.37, z=-16.97] died: Dream Bug was slain by Pulpleito8 using [Toy Sword]
-[03:55:47] [Server thread/INFO]: Named entity cda['Dream Bug'/396, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=12.25, y=-8.60, z=-18.07] died: Dream Bug was slain by Pulpleito8 using [Toy Sword]
-[03:56:04] [Server thread/INFO]: Named entity ccb['Errant Note'/412, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=11.30, y=-8.00, z=-13.89] died: Errant Note was slain by Pulpleito8 using [Toy Sword]
-[03:56:20] [Server thread/INFO]: Named entity ccm['The Hunger'/415, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=21.30, y=-8.00, z=-15.86] died: The Hunger was slain by TioSkrollex using [Toy Sword]
-[03:56:40] [Server thread/INFO]: Named entity ccm['The Hunger'/432, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=25.67, y=1.92, z=0.88] died: The Hunger was slain by Pulpleito8 using [Toy Sword]
-[03:57:03] [Server thread/INFO]: Named entity ccm['The Hunger'/394, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=9.49, y=2.75, z=-0.70] died: The Hunger was slain by Pulpleito8 using [Toy Sword]
-[03:57:19] [Server thread/INFO]: Named entity ccm['The Hunger'/450, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-6.43, y=1.00, z=7.38] died: The Hunger was slain by Pulpleito8 using [Toy Sword]
-[03:57:36] [Server thread/INFO]: Named entity ccb['Errant Note'/461, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-6.75, y=1.00, z=8.75] died: Errant Note was slain by Pulpleito8 using [Toy Sword]
-[03:57:56] [Server thread/INFO]: Named entity cda['Dream Bug'/477, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-7.33, y=2.00, z=33.29] died: Dream Bug was slain by TioSkrollex using [Toy Sword]
-[03:58:21] [Server thread/INFO]: Named entity cda['Dream Bug'/481, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-5.30, y=0.10, z=31.79] died: Dream Bug was slain by TioSkrollex using [Toy Sword]
-[03:59:05] [Server thread/INFO]: Named entity cda['Dream Bug'/482, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-18.10, y=-3.00, z=28.91] died: Dream Bug was slain by TioSkrollex using [Toy Sword]
-[03:59:10] [Server thread/INFO]: Named entity cda['Dream Bug'/502, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-18.71, y=-4.98, z=27.66] died: Dream Bug was slain by TioSkrollex using [Toy Sword]
-[04:00:26] [Server thread/INFO]: Named entity ccx['Bastion Of Thought'/526, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=30.43, y=-4.00, z=-25.58] died: Bastion Of Thought was slain by TioSkrollex using [Toy Sword]
-[04:02:08] [Server thread/INFO]: Named entity ccx['Bastion Of Thought'/587, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=46.98, y=5.54, z=-49.50] died: Bastion Of Thought was slain by Pulpleito8 using [Toy Sword]
-[04:02:27] [Server thread/INFO]: Named entity ccm['The Hunger'/622, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=17.38, y=22.00, z=-58.94] died: The Hunger was slain by Pulpleito8 using [Toy Sword]
-[04:02:28] [Server thread/INFO]: Named entity ccm['The Hunger'/623, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=17.19, y=23.00, z=-57.84] died: The Hunger was slain by TioSkrollex using [Toy Sword]
-[04:03:21] [Server thread/INFO]: Named entity ccx['Heart Hater Harpist'/647, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=8.00, y=23.00, z=-69.30] died: Heart Hater Harpist was slain by Pulpleito8 using [Toy Sword]
-[04:03:50] [Server thread/INFO]: Named entity cda['Dream Bug'/659, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-2.70, y=25.10, z=-56.72] died: Dream Bug was slain by Pulpleito8 using [Toy Sword]
-[04:04:04] [Server thread/INFO]: Named entity ccb['Errant Note'/660, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-2.75, y=22.00, z=-53.54] died: Errant Note was slain by Pulpleito8 using [Toy Sword]
-[04:04:14] [Server thread/INFO]: Named entity cda['Dream Bug'/684, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-13.25, y=24.00, z=-66.80] died: Dream Bug was doomed to fall by TioSkrollex using [Toy Sword]
-[04:04:22] [Server thread/INFO]: Named entity ccm['The Hunger'/678, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-19.48, y=28.00, z=-67.01] died: The Hunger was slain by Pulpleito8 using [Toy Sword]
+[01:13:54] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:13:56] [Worker-Main-1/ERROR]: Couldn't load tag delta:no_collision as it is missing following references: minecraft:grass (from file/delta_datapack.zip)
+[01:13:58] [ServerMain/INFO]: Loaded 7 recipes
+[01:13:58] [ServerMain/ERROR]: Couldn't load tag minecraft:cartographer/events/enchantments/ranged/frost as it is missing following references: cartographer_custom_enchantments:events/debug/enchantments/ranged/frost (from file/Cartographer - Custom Enchantments.zip)
+[01:13:58] [ServerMain/INFO]: Loaded 344 advancements
+[01:13:58] [ServerMain/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:block] are present in data pack: bb:raycast
+[01:13:58] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[01:13:58] [Server thread/INFO]: Loading properties
+[01:13:58] [Server thread/INFO]: Default game type: SURVIVAL
+[01:13:58] [Server thread/INFO]: Generating keypair
+[01:13:58] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:13:59] [Server thread/INFO]: Using epoll channel type
+[01:13:59] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:13:59] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:13:59] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:13:59] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:13:59] [Server thread/INFO]: Preparing level "world"
+[01:13:59] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:14:02] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:14:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:14:02] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:14:02] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:14:02] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:14:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:14:02] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:14:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:14:03] [Worker-Main-3/INFO]: Preparing spawn area: 3%
+[01:14:03] [Worker-Main-1/INFO]: Preparing spawn area: 45%
+[01:14:04] [Server thread/INFO]: Time elapsed: 5161 ms
+[01:14:04] [Server thread/INFO]: Done (5.302s)! For help, type "help"
+[01:14:13] [Server thread/WARN]: UUID of added entity already exists: bmm['Marker'/1, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-1000.00, y=-36.00, z=-1000.00]
+[01:14:13] [Server thread/WARN]: UUID of added entity already exists: cbk['Armor Stand'/123, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-1030.50, y=-0.50, z=-1030.50]
+[01:14:13] [Server thread/WARN]: UUID of added entity already exists: bmm['Marker'/124, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-1030.50, y=-0.50, z=-1030.50]
+[01:14:13] [Server thread/WARN]: UUID of added entity already exists: ccx['Skeleton'/126, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-999.50, y=-33.00, z=-949.50]
+[01:14:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9378ms or 187 ticks behind
+[01:14:15] [Server thread/WARN]: UUID of added entity already exists: bmm['Marker'/201, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=0.00, y=0.00, z=-0.10]
+[01:14:15] [Server thread/WARN]: UUID of added entity already exists: bmm['Marker'/204, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=4206900.50, y=0.00, z=4206900.50]
+[01:14:15] [Server thread/WARN]: UUID of added entity already exists: cbk['Armor Stand'/205, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=4206900.50, y=0.00, z=4206900.50]
+[01:14:15] [Server thread/WARN]: UUID of added entity already exists: bmm['Marker'/206, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=4206900.50, y=50.00, z=4206900.50]
+[01:14:15] [Server thread/WARN]: UUID of added entity already exists: bmm['Marker'/207, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=4206900.50, y=50.00, z=4206900.50]
+[01:14:15] [Server thread/WARN]: UUID of added entity already exists: bmm['Marker'/208, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=4206900.50, y=50.00, z=4206900.50]
+[01:14:15] [Server thread/WARN]: UUID of added entity already exists: bmm['Marker'/209, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=4206900.50, y=60.00, z=4206900.50]
+[01:14:15] [Server thread/WARN]: UUID of added entity already exists: bmm['Marker'/210, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=4206900.50, y=128.00, z=4206900.50]
+[01:14:15] [Server thread/WARN]: UUID of added entity already exists: cbk['Armor Stand'/211, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=4206900.50, y=180.00, z=4206900.50]
+[01:14:15] [Server thread/WARN]: UUID of added entity already exists: cbk['Armor Stand'/212, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=4206900.50, y=180.00, z=4206900.50]
+[01:14:15] [Server thread/WARN]: UUID of added entity already exists: bmm['Marker'/213, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=4206900.50, y=-1.00, z=4206900.50]
+[01:16:06] [Server thread/INFO]: Pulpleito8[/127.133.49.52:34743] logged in with entity id 222 at (-93.86552575123402, 27.0, -7.699999988079071)
+[01:16:06] [Server thread/INFO]: Pulpleito8 joined the game
+[01:17:00] [Server thread/INFO]: Named entity ccx['Heart Hater Harpist'/239, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-118.93, y=22.00, z=6.73] died: Heart Hater Harpist was slain by Pulpleito8 using [Toy Sword]
+[01:17:07] [Server thread/INFO]: Named entity ccx['Bastion Of Thought'/245, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-118.78, y=22.00, z=6.23] died: Bastion Of Thought was slain by Pulpleito8 using [Toy Sword]
+[01:17:19] [Server thread/INFO]: TioSkrollex[/127.54.56.198:53309] logged in with entity id 292 at (-95.89985302244737, 26.0, -7.699999988079071)
+[01:17:19] [Server thread/INFO]: TioSkrollex joined the game
+[01:17:38] [Server thread/INFO]: Named entity cda['Dream Bug'/299, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-131.71, y=24.00, z=6.43] died: Dream Bug was slain by Pulpleito8 using [Toy Sword]
+[01:19:17] [Server thread/INFO]: Named entity ccx['Bastion Of Thought'/312, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-112.44, y=24.00, z=21.96] died: Bastion Of Thought was slain by Pulpleito8 using [Toy Sword]
+[01:21:59] [Server thread/INFO]: Named entity ccx['Bastion Of Thought'/410, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-129.63, y=38.00, z=41.83] died: Bastion Of Thought was slain by Pulpleito8
+[01:22:05] [Server thread/INFO]: Named entity ccx['Bastion Of Thought'/409, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-129.20, y=38.00, z=42.87] died: Bastion Of Thought was slain by Pulpleito8 using [Toy Sword]
+[01:22:09] [Server thread/INFO]: Named entity ccx['Bastion Of Thought'/408, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-129.24, y=38.00, z=42.60] died: Bastion Of Thought was slain by Pulpleito8 using [Toy Sword]
+[01:23:27] [Server thread/INFO]: Named entity ccb['Errant Note'/485, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-88.53, y=62.00, z=75.48] died: Errant Note was slain by TioSkrollex using [Toy Sword]
+[01:23:30] [Server thread/INFO]: Named entity cda['Dream Bug'/484, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-84.03, y=62.00, z=68.21] died: Dream Bug was slain by Pulpleito8 using [Rhythmic Rapier]
+[01:23:34] [Server thread/INFO]: Named entity ccm['The Hunger'/490, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-86.46, y=61.00, z=72.74] died: The Hunger was slain by Pulpleito8 using [Rhythmic Rapier]
+[01:23:35] [Server thread/INFO]: Named entity ccx['Heart Hater Harpist'/491, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-87.89, y=61.00, z=73.74] died: Heart Hater Harpist was slain by TioSkrollex using [Toy Sword]
