@@ -332,5 +332,17 @@
     },
     "done": true
   },
+  "cartographer_charon:death_note/death_drop": {
+    "criteria": {
+      "tick": "2025-05-14 01:53:15 +0000"
+    },
+    "done": true
+  },
+  "cartographer_charon:death_note/root": {
+    "criteria": {
+      "tick": "2025-05-14 01:53:15 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3700
 }

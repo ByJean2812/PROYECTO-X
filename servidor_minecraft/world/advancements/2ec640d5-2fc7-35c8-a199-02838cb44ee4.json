@@ -314,9 +314,33 @@
     },
     "done": true
   },
+  "cartographer_custom_enchantments:load_fleetfoot_crossbow": {
+    "criteria": {
+      "load_crossbow_2": "2025-05-14 01:55:38 +0000"
+    },
+    "done": false
+  },
+  "cartographer_custom_enchantments:passive/satiation": {
+    "criteria": {
+      "find": "2025-05-14 01:41:46 +0000"
+    },
+    "done": true
+  },
   "cartographer_custom_enchantments:melee/singe": {
     "criteria": {
       "find": "2025-05-14 01:37:52 +0000"
+    },
+    "done": true
+  },
+  "cartographer_charon:death_note/death_drop": {
+    "criteria": {
+      "tick": "2025-05-14 01:53:50 +0000"
+    },
+    "done": true
+  },
+  "cartographer_charon:death_note/root": {
+    "criteria": {
+      "tick": "2025-05-14 01:53:50 +0000"
     },
     "done": true
   },
