@@ -355,3 +355,10 @@
 [03:03:31] [Server thread/WARN]: handleDisconnection() called twice
 [03:03:37] [Server thread/INFO]: Pulpleito8[/127.4.210.242:60107] logged in with entity id 5849 at (122.29977545933394, 127.0, -271.7252034089459)
 [03:03:37] [Server thread/INFO]: Pulpleito8 joined the game
+[03:05:51] [Server thread/INFO]: Named entity cdi[''/5993, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=71.46, y=148.00, z=-232.70] died:  was slain by TioSkrollex using [Operatic Blade]
+[03:05:53] [Server thread/INFO]: Named entity cdi[''/5992, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=72.78, y=147.53, z=-229.68] died:  was slain by TioSkrollex using [Operatic Blade]
+[03:07:26] [Server thread/INFO]: Named entity cde['Disgruntled Villager'/6033, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=37.89, y=141.00, z=-250.20] died: Disgruntled Villager was shot by TioSkrollex using [Suspicious String Instrument]
+[03:10:36] [Server thread/INFO]: Named entity ccx['Pumpkin Elder'/6255, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-14.02, y=146.49, z=-210.98] died: Pumpkin Elder was slain by TioSkrollex using [Operatic Blade]
+[03:10:40] [Server thread/INFO]: Named entity ccx['Pumpkin Elder'/6256, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-14.02, y=146.49, z=-210.98] died: Pumpkin Elder was slain by TioSkrollex using [Operatic Blade]
+[03:12:27] [Server thread/INFO]: Named entity ccx['Pumpkin Elder'/6392, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-29.38, y=173.00, z=-203.04] died: Pumpkin Elder was slain by TioSkrollex using [Operatic Blade]
+[03:14:23] [Server thread/INFO]: Named entity cde['Disgruntled Villager'/6476, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-32.37, y=185.23, z=-247.35] died: Disgruntled Villager was slain by Pulpleito8
