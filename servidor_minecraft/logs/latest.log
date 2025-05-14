@@ -327,3 +327,6 @@
 [02:28:29] [Server thread/INFO]: Named entity cdi[''/4268, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=87.46, y=99.49, z=-157.52] died:  was slain by Pulpleito8
 [02:28:40] [Server thread/INFO]: Named entity cdi[''/4270, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=88.21, y=99.49, z=-156.26] died:  was slain by Pulpleito8
 [02:28:44] [Server thread/INFO]: Named entity cdi[''/4269, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=87.72, y=99.49, z=-158.06] died:  was slain by Pulpleito8
+[02:39:05] [Server thread/INFO]: Pulpleito8 hit the ground too hard
+[02:39:05] [Server thread/ERROR]: Input is not a list of 4 elements
+[02:39:05] [Server thread/ERROR]: Display entityNot a string
