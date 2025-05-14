@@ -314,5 +314,11 @@
     },
     "done": true
   },
+  "cartographer_custom_enchantments:melee/singe": {
+    "criteria": {
+      "find": "2025-05-14 01:37:52 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3700
 }
