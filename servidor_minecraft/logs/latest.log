@@ -1,364 +1,51 @@
-[01:13:54] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:13:56] [Worker-Main-1/ERROR]: Couldn't load tag delta:no_collision as it is missing following references: minecraft:grass (from file/delta_datapack.zip)
-[01:13:58] [ServerMain/INFO]: Loaded 7 recipes
-[01:13:58] [ServerMain/ERROR]: Couldn't load tag minecraft:cartographer/events/enchantments/ranged/frost as it is missing following references: cartographer_custom_enchantments:events/debug/enchantments/ranged/frost (from file/Cartographer - Custom Enchantments.zip)
-[01:13:58] [ServerMain/INFO]: Loaded 344 advancements
-[01:13:58] [ServerMain/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:block] are present in data pack: bb:raycast
-[01:13:58] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[01:13:58] [Server thread/INFO]: Loading properties
-[01:13:58] [Server thread/INFO]: Default game type: SURVIVAL
-[01:13:58] [Server thread/INFO]: Generating keypair
-[01:13:58] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:13:59] [Server thread/INFO]: Using epoll channel type
-[01:13:59] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:13:59] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:13:59] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:13:59] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:13:59] [Server thread/INFO]: Preparing level "world"
-[01:13:59] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:14:02] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[01:14:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:14:02] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:14:02] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[01:14:02] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:14:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:14:02] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:14:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:14:03] [Worker-Main-3/INFO]: Preparing spawn area: 3%
-[01:14:03] [Worker-Main-1/INFO]: Preparing spawn area: 45%
-[01:14:04] [Server thread/INFO]: Time elapsed: 5161 ms
-[01:14:04] [Server thread/INFO]: Done (5.302s)! For help, type "help"
-[01:14:13] [Server thread/WARN]: UUID of added entity already exists: bmm['Marker'/1, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-1000.00, y=-36.00, z=-1000.00]
-[01:14:13] [Server thread/WARN]: UUID of added entity already exists: cbk['Armor Stand'/123, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-1030.50, y=-0.50, z=-1030.50]
-[01:14:13] [Server thread/WARN]: UUID of added entity already exists: bmm['Marker'/124, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-1030.50, y=-0.50, z=-1030.50]
-[01:14:13] [Server thread/WARN]: UUID of added entity already exists: ccx['Skeleton'/126, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-999.50, y=-33.00, z=-949.50]
-[01:14:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9378ms or 187 ticks behind
-[01:14:15] [Server thread/WARN]: UUID of added entity already exists: bmm['Marker'/201, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=0.00, y=0.00, z=-0.10]
-[01:14:15] [Server thread/WARN]: UUID of added entity already exists: bmm['Marker'/204, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=4206900.50, y=0.00, z=4206900.50]
-[01:14:15] [Server thread/WARN]: UUID of added entity already exists: cbk['Armor Stand'/205, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=4206900.50, y=0.00, z=4206900.50]
-[01:14:15] [Server thread/WARN]: UUID of added entity already exists: bmm['Marker'/206, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=4206900.50, y=50.00, z=4206900.50]
-[01:14:15] [Server thread/WARN]: UUID of added entity already exists: bmm['Marker'/207, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=4206900.50, y=50.00, z=4206900.50]
-[01:14:15] [Server thread/WARN]: UUID of added entity already exists: bmm['Marker'/208, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=4206900.50, y=50.00, z=4206900.50]
-[01:14:15] [Server thread/WARN]: UUID of added entity already exists: bmm['Marker'/209, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=4206900.50, y=60.00, z=4206900.50]
-[01:14:15] [Server thread/WARN]: UUID of added entity already exists: bmm['Marker'/210, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=4206900.50, y=128.00, z=4206900.50]
-[01:14:15] [Server thread/WARN]: UUID of added entity already exists: cbk['Armor Stand'/211, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=4206900.50, y=180.00, z=4206900.50]
-[01:14:15] [Server thread/WARN]: UUID of added entity already exists: cbk['Armor Stand'/212, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=4206900.50, y=180.00, z=4206900.50]
-[01:14:15] [Server thread/WARN]: UUID of added entity already exists: bmm['Marker'/213, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=4206900.50, y=-1.00, z=4206900.50]
-[01:16:06] [Server thread/INFO]: Pulpleito8[/127.133.49.52:34743] logged in with entity id 222 at (-93.86552575123402, 27.0, -7.699999988079071)
-[01:16:06] [Server thread/INFO]: Pulpleito8 joined the game
-[01:17:00] [Server thread/INFO]: Named entity ccx['Heart Hater Harpist'/239, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-118.93, y=22.00, z=6.73] died: Heart Hater Harpist was slain by Pulpleito8 using [Toy Sword]
-[01:17:07] [Server thread/INFO]: Named entity ccx['Bastion Of Thought'/245, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-118.78, y=22.00, z=6.23] died: Bastion Of Thought was slain by Pulpleito8 using [Toy Sword]
-[01:17:19] [Server thread/INFO]: TioSkrollex[/127.54.56.198:53309] logged in with entity id 292 at (-95.89985302244737, 26.0, -7.699999988079071)
-[01:17:19] [Server thread/INFO]: TioSkrollex joined the game
-[01:17:38] [Server thread/INFO]: Named entity cda['Dream Bug'/299, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-131.71, y=24.00, z=6.43] died: Dream Bug was slain by Pulpleito8 using [Toy Sword]
-[01:19:17] [Server thread/INFO]: Named entity ccx['Bastion Of Thought'/312, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-112.44, y=24.00, z=21.96] died: Bastion Of Thought was slain by Pulpleito8 using [Toy Sword]
-[01:21:59] [Server thread/INFO]: Named entity ccx['Bastion Of Thought'/410, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-129.63, y=38.00, z=41.83] died: Bastion Of Thought was slain by Pulpleito8
-[01:22:05] [Server thread/INFO]: Named entity ccx['Bastion Of Thought'/409, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-129.20, y=38.00, z=42.87] died: Bastion Of Thought was slain by Pulpleito8 using [Toy Sword]
-[01:22:09] [Server thread/INFO]: Named entity ccx['Bastion Of Thought'/408, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-129.24, y=38.00, z=42.60] died: Bastion Of Thought was slain by Pulpleito8 using [Toy Sword]
-[01:23:27] [Server thread/INFO]: Named entity ccb['Errant Note'/485, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-88.53, y=62.00, z=75.48] died: Errant Note was slain by TioSkrollex using [Toy Sword]
-[01:23:30] [Server thread/INFO]: Named entity cda['Dream Bug'/484, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-84.03, y=62.00, z=68.21] died: Dream Bug was slain by Pulpleito8 using [Rhythmic Rapier]
-[01:23:34] [Server thread/INFO]: Named entity ccm['The Hunger'/490, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-86.46, y=61.00, z=72.74] died: The Hunger was slain by Pulpleito8 using [Rhythmic Rapier]
-[01:23:35] [Server thread/INFO]: Named entity ccx['Heart Hater Harpist'/491, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-87.89, y=61.00, z=73.74] died: Heart Hater Harpist was slain by TioSkrollex using [Toy Sword]
-[01:24:24] [Server thread/INFO]: Named entity ccm['The Hunger'/545, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-84.35, y=60.00, z=92.86] died: The Hunger walked into the danger zone due to Pulpleito8
-[01:24:48] [Server thread/INFO]: Named entity cda['Dream Bug'/556, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-66.82, y=62.10, z=98.29] died: Dream Bug was slain by Pulpleito8 using [Toy Sword]
-[01:24:59] [Server thread/INFO]: Named entity cda['Dream Bug'/566, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-80.78, y=64.00, z=112.07] died: Dream Bug was slain by TioSkrollex using [Toy Sword]
-[01:25:17] [Server thread/INFO]: Named entity ccm['The Hunger'/583, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-67.41, y=61.00, z=83.30] died: The Hunger was slain by Pulpleito8 using [Toy Sword]
-[01:25:19] [Server thread/INFO]: Named entity ccm['The Hunger'/582, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-68.14, y=61.00, z=84.12] died: The Hunger was slain by Pulpleito8 using [Toy Sword]
-[01:25:31] [Server thread/INFO]: Named entity ccm['The Hunger'/602, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-77.67, y=65.00, z=87.68] died: The Hunger was slain by Pulpleito8 using [Toy Sword]
-[01:25:37] [Server thread/INFO]: Named entity ccm['The Hunger'/592, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-53.08, y=62.00, z=116.47] died: The Hunger was slain by TioSkrollex using [Toy Sword]
-[01:25:40] [Server thread/INFO]: Named entity cda['Dream Bug'/593, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-52.11, y=62.00, z=113.99] died: Dream Bug was slain by TioSkrollex using [Toy Sword]
-[01:26:01] [Server thread/INFO]: Named entity cda['Dream Bug'/639, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-63.34, y=61.00, z=72.20] died: Dream Bug was slain by Pulpleito8 using [Toy Sword]
-[01:26:05] [Server thread/INFO]: Named entity cda['Dream Bug'/632, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-62.03, y=73.14, z=108.94] died: Dream Bug was slain by TioSkrollex using [Toy Sword]
-[01:26:07] [Server thread/INFO]: Named entity ccx['Heart Hater Harpist'/638, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-60.76, y=61.00, z=72.70] died: Heart Hater Harpist was slain by Pulpleito8 using [Rhythmic Rapier]
-[01:26:10] [Server thread/INFO]: Named entity ccm['The Hunger'/633, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-59.63, y=66.00, z=111.62] died: The Hunger was slain by TioSkrollex using [Toy Sword]
-[01:26:21] [Server thread/INFO]: Named entity cbz['Blazing Chord'/668, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-60.49, y=63.96, z=53.59] died: Blazing Chord was slain by Pulpleito8 using [Rhythmic Rapier]
-[01:26:33] [Server thread/INFO]: Named entity ccm['The Hunger'/676, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-35.21, y=62.00, z=95.08] died: The Hunger was slain by TioSkrollex using [Toy Sword]
-[01:26:44] [Server thread/INFO]: Named entity ccm['The Hunger'/677, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-45.59, y=62.00, z=110.50] died: The Hunger was slain by TioSkrollex using [Toy Sword]
-[01:27:02] [Server thread/INFO]: Named entity ccm['The Hunger'/719, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-46.76, y=61.00, z=88.52] died: The Hunger was slain by TioSkrollex using [Toy Sword]
-[01:27:27] [Server thread/INFO]: Named entity cda['Dream Bug'/729, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-45.42, y=61.00, z=60.66] died: Dream Bug was slain by Pulpleito8 using [Toy Sword]
-[01:27:51] [Server thread/INFO]: Named entity ccm['The Hunger For Meaning'/733, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-45.73, y=66.00, z=78.26] died: The Hunger For Meaning was slain by Pulpleito8 using [Toy Sword]
-[01:29:14] [Server thread/INFO]: Named entity ccm['The Hunger'/749, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-34.62, y=63.00, z=60.97] died: The Hunger was slain by TioSkrollex using [Toy Sword]
-[01:29:33] [Server thread/INFO]: Named entity ccm['The Hunger'/1055, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-35.62, y=61.00, z=61.34] died: The Hunger was slain by TioSkrollex using [Toy Sword]
-[01:29:44] [Server thread/INFO]: Named entity cda['Dream Bug'/1114, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-12.30, y=70.71, z=78.03] died: Dream Bug was slain by TioSkrollex using [Toy Sword]
-[01:29:55] [Server thread/INFO]: Named entity cda['Dream Bug'/1085, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-25.78, y=61.00, z=118.18] died: Dream Bug was slain by Pulpleito8 using [Rhythmic Rapier]
-[01:29:57] [Server thread/INFO]: Named entity cda['Dream Bug'/1086, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-27.30, y=61.00, z=116.95] died: Dream Bug was slain by Pulpleito8 using [Rhythmic Rapier]
-[01:30:00] [Server thread/INFO]: Named entity ccx['Heart Hater Harpist'/1092, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-19.70, y=59.00, z=116.83] died: Heart Hater Harpist discovered the floor was lava
-[01:30:06] [Server thread/INFO]: Named entity ccm['The Hunger'/1105, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-28.63, y=61.00, z=117.41] died: The Hunger was blown up by Errant Note using [Perfect Note]
-[01:30:06] [Server thread/INFO]: Named entity ccm['The Hunger'/1119, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-30.69, y=61.00, z=116.78] died: The Hunger was blown up by Errant Note using [Perfect Note]
-[01:30:06] [Server thread/INFO]: Named entity ccm['The Hunger'/1113, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-28.17, y=61.00, z=115.79] died: The Hunger was blown up by Errant Note using [Perfect Note]
-[01:30:12] [Server thread/INFO]: Named entity ccb['Errant Note'/1111, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-5.94, y=60.00, z=70.35] died: Errant Note was doomed to fall by TioSkrollex using [Toy Sword]
-[01:30:17] [Server thread/INFO]: Named entity cda['Dream Bug'/1124, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-24.75, y=62.15, z=119.07] died: Dream Bug was slain by Pulpleito8 using [Toy Sword]
-[01:30:39] [Server thread/INFO]: Named entity cda['Dream Bug'/1191, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-24.76, y=61.00, z=123.51] died: Dream Bug was slain by Pulpleito8 using [Toy Sword]
-[01:30:40] [Server thread/INFO]: Named entity cda['Dream Bug'/1192, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-26.11, y=61.00, z=120.30] died: Dream Bug was slain by Pulpleito8 using [Toy Sword]
-[01:30:43] [Server thread/INFO]: Named entity ccm['The Hunger'/1118, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-17.55, y=61.00, z=119.51] died: The Hunger was slain by Pulpleito8 using [Toy Sword]
-[01:31:05] [Server thread/INFO]: Named entity ccx['Heart Hater Harpist'/1091, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-3.70, y=60.00, z=121.77] died: Heart Hater Harpist was slain by Pulpleito8 using [Toy Sword]
-[01:31:07] [Server thread/INFO]: Named entity ccm['The Hunger'/1106, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-5.62, y=61.00, z=122.40] died: The Hunger was slain by Pulpleito8 using [Toy Sword]
-[01:31:09] [Server thread/INFO]: Named entity ccm['The Hunger'/1173, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-3.65, y=60.00, z=121.77] died: The Hunger was slain by Pulpleito8 using [Toy Sword]
-[01:31:45] [Server thread/INFO]: Named entity ccm['The Hunger For Meaning'/1254, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=12.72, y=64.00, z=115.15] died: The Hunger For Meaning was slain by TioSkrollex using [Toy Sword Two]
-[01:31:47] [Server thread/INFO]: Named entity ccm['The Hunger'/1263, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=9.25, y=63.00, z=117.50] died: The Hunger was slain by TioSkrollex using [Toy Sword Two]
-[01:31:50] [Server thread/INFO]: Named entity cda['Dream Bug'/1265, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=8.91, y=63.63, z=116.05] died: Dream Bug was slain by TioSkrollex using [Toy Sword Two]
-[01:32:14] [Server thread/INFO]: Named entity ccm['The Hunger'/1295, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=16.62, y=64.02, z=70.78] died: The Hunger was slain by Pulpleito8 using [Toy Sword]
-[01:32:36] [Server thread/INFO]: Named entity cda['Dream Bug'/1308, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-15.31, y=83.00, z=83.78] died: Dream Bug was doomed to fall by TioSkrollex using [Toy Sword Two]
-[01:32:46] [Server thread/INFO]: Named entity cda['Dream Bug'/1307, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-11.97, y=85.00, z=84.74] died: Dream Bug was doomed to fall by TioSkrollex using [Toy Sword Two]
-[01:32:52] [Server thread/INFO]: Named entity cda['Dream Bug'/1320, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=21.58, y=66.00, z=105.27] died: Dream Bug was slain by Pulpleito8 using [Toy Sword]
-[01:33:14] [Server thread/INFO]: Named entity ccm['The Hunger'/1334, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-7.54, y=65.00, z=103.89] died: The Hunger was slain by Pulpleito8 using [Toy Sword]
-[01:33:36] [Server thread/INFO]: Named entity ccm['The Hunger'/1264, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=8.92, y=65.00, z=82.09] died: The Hunger was slain by TioSkrollex using [Toy Sword Two]
-[01:36:18] [Server thread/INFO]: Named entity cbz['Blazing Chord'/1402, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=32.33, y=62.00, z=84.68] died: Blazing Chord was slain by Pulpleito8 using [Toy Sword]
-[01:36:35] [Server thread/INFO]: Named entity ccm['The Hunger For Meaning'/1409, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=37.66, y=65.00, z=72.82] died: The Hunger For Meaning was slain by TioSkrollex using [Toy Sword Two]
-[01:36:36] [Server thread/INFO]: Named entity ccm['The Hunger For Meaning'/1410, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=39.35, y=65.00, z=72.62] died: The Hunger For Meaning was slain by TioSkrollex using [Toy Sword Two]
-[01:36:42] [Server thread/INFO]: Named entity ccx['Heart Hater Harpist'/1404, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=26.53, y=65.00, z=90.36] died: Heart Hater Harpist was slain by Pulpleito8 using [Toy Sword]
-[01:37:13] [Server thread/INFO]: Named entity ccm['The Hunger'/1445, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=45.25, y=63.00, z=100.53] died: The Hunger walked into the danger zone due to Pulpleito8
-[01:37:21] [Server thread/INFO]: Named entity ccm['The Hunger For Meaning'/1461, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=55.52, y=64.00, z=92.10] died: The Hunger For Meaning was slain by TioSkrollex using [Toy Sword Two]
-[01:37:29] [Server thread/INFO]: Named entity ccx['Bastion Of Thought'/1468, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=54.54, y=65.00, z=98.08] died: Bastion Of Thought was blown up by Errant Note using [Perfect Note]
-[01:37:33] [Server thread/INFO]: Named entity ccm['The Hunger For Meaning'/1460, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=56.06, y=65.00, z=100.55] died: The Hunger For Meaning was slain by Pulpleito8 using [Toy Sword]
-[01:37:43] [Server thread/INFO]: Named entity cda['Dream Bug'/1500, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=37.88, y=66.14, z=109.81] died: Dream Bug was slain by TioSkrollex using [Toy Sword Two]
-[01:37:54] [Server thread/INFO]: Named entity ccm['The Hunger'/1511, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=46.96, y=64.00, z=128.59] died: The Hunger was slain by Pulpleito8 using [Toy Sword]
-[01:38:22] [Server thread/INFO]: Named entity ccm['The Hunger For Meaning'/1524, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=39.91, y=67.00, z=135.66] died: The Hunger For Meaning was slain by Pulpleito8 using [Rhythmic Rapier]
-[01:38:29] [Server thread/INFO]: Named entity ccm['The Hunger'/1523, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=41.76, y=67.00, z=133.45] died: The Hunger was slain by Pulpleito8 using [Rhythmic Rapier]
-[01:38:33] [Server thread/INFO]: Named entity cbz['Blazing Chord'/1522, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=38.28, y=67.00, z=146.27] died: Blazing Chord was slain by Pulpleito8 using [Rhythmic Rapier]
-[01:38:51] [Server thread/INFO]: Named entity cbz['Blazing Chord'/1521, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=35.02, y=66.90, z=149.34] died: Blazing Chord was shot by TioSkrollex using [1/10th of a Guitar]
-[01:38:58] [Server thread/INFO]: Named entity ccx['Heart Hater Harpist'/1564, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=41.88, y=64.00, z=136.37] died: Heart Hater Harpist was slain by Pulpleito8 using [Rhythmic Rapier]
-[01:39:14] [Server thread/INFO]: Named entity ccm['The Hunger'/1582, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=26.57, y=63.00, z=155.55] died: The Hunger was slain by Pulpleito8 using [Rhythmic Rapier]
-[01:39:40] [Server thread/INFO]: Named entity ccm['The Hunger'/1607, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=51.36, y=61.00, z=173.30] died: The Hunger was slain by TioSkrollex using [Toy Sword Two]
-[01:39:51] [Server thread/INFO]: Named entity cda['Dream Bug'/1622, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=38.23, y=69.14, z=182.39] died: Dream Bug was slain by TioSkrollex using [Toy Sword Two]
-[01:39:53] [Server thread/INFO]: Named entity ccx['Bastion Of Thought'/1618, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=34.50, y=61.00, z=150.13] died: Bastion Of Thought was slain by Pulpleito8 using [Rhythmic Rapier]
-[01:39:56] [Server thread/INFO]: Named entity ccm['The Hunger For Meaning'/1596, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=34.74, y=61.00, z=150.93] died: The Hunger For Meaning was slain by Pulpleito8 using [Rhythmic Rapier]
-[01:39:59] [Server thread/INFO]: Named entity ccm['The Hunger For Meaning'/1597, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=35.25, y=61.00, z=150.59] died: The Hunger For Meaning was slain by Pulpleito8 using [Rhythmic Rapier]
-[01:40:30] [Server thread/INFO]: Named entity ccx['Bastion Of Thought'/1676, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=57.42, y=64.00, z=168.27] died: Bastion Of Thought was slain by Pulpleito8 using [Rhythmic Rapier]
-[01:40:58] [Server thread/INFO]: Named entity ccm['The Hunger For Meaning'/1699, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=13.18, y=76.92, z=140.48] died: The Hunger For Meaning was blown up by Errant Note using [Perfect Note]
-[01:41:23] [Server thread/INFO]: Named entity ccx['Bastion Of Thought'/1724, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=11.23, y=75.00, z=137.61] died: Bastion Of Thought was blown up by Errant Note using [Perfect Note]
-[01:41:28] [Server thread/INFO]: Named entity ccx['Bastion Of Thought'/1723, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=16.81, y=78.02, z=143.51] died: Bastion Of Thought was slain by TioSkrollex using [Rhythmic Rapier]
-[01:41:32] [Server thread/INFO]: Named entity ccx['Bastion Of Thought'/1735, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=62.12, y=65.00, z=170.54] died: Bastion Of Thought was slain by Pulpleito8 using [Rhythmic Rapier]
-[01:41:35] [Server thread/INFO]: Named entity ccx['Bastion Of Thought'/1734, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=58.72, y=64.00, z=167.72] died: Bastion Of Thought was slain by Pulpleito8 using [Rhythmic Rapier]
-[01:44:18] [Server thread/INFO]: Named entity ccb['Errant Note'/1844, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=94.70, y=86.00, z=132.30] died: Errant Note was slain by Pulpleito8 using [Rhythmic Rapier]
-[01:45:01] [Server thread/INFO]: Named entity ccx['Bastion Of Thought'/1873, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=89.23, y=83.00, z=140.56] died: Bastion Of Thought was slain by Pulpleito8 using [Rhythmic Rapier]
-[01:46:02] [Server thread/INFO]: Named entity ccm['The Hunger For Meaning'/1912, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=119.76, y=96.00, z=112.55] died: The Hunger For Meaning was slain by TioSkrollex using [Rhythmic Rapier]
-[01:46:05] [Server thread/INFO]: Named entity cda['Dream Bug'/1913, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=110.81, y=93.00, z=120.24] died: Dream Bug was slain by TioSkrollex using [Rhythmic Rapier]
-[01:46:57] [Server thread/INFO]: Named entity ccm['The Hunger For Meaning'/1936, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=116.48, y=96.00, z=102.22] died: The Hunger For Meaning was slain by Pulpleito8 using [Rhythmic Rapier]
-[01:47:08] [Server thread/INFO]: Named entity ccm['The Hunger For Meaning'/1937, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=131.65, y=96.00, z=104.34] died: The Hunger For Meaning was slain by TioSkrollex using [Rhythmic Rapier]
-[01:47:12] [Server thread/INFO]: Named entity ccb['Errant Note'/1958, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=131.48, y=96.00, z=102.33] died: Errant Note was slain by TioSkrollex using [Rhythmic Rapier]
-[01:47:38] [Server thread/INFO]: Named entity ccm['The Hunger For Meaning'/2006, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=125.16, y=96.00, z=82.32] died: The Hunger For Meaning was slain by TioSkrollex using [Rhythmic Rapier]
-[01:47:42] [Server thread/INFO]: Named entity ccb['Errant Note'/1960, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=126.87, y=96.00, z=100.82] died: Errant Note was slain by Pulpleito8 using [Rhythmic Rapier]
-[01:47:50] [Server thread/INFO]: Named entity cbz['Blazing Chord'/1935, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=143.30, y=96.00, z=92.44] died: death.attack.magic.item
-[01:47:55] [Server thread/INFO]: Named entity cda['Dream Bug'/2035, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=141.23, y=98.94, z=90.54] died: Dream Bug was shot by Heart Hater Harpist
-[01:48:20] [Server thread/INFO]: Named entity ccx['Heart Hater Harpist'/2039, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=142.70, y=96.00, z=87.92] died: Heart Hater Harpist was slain by Pulpleito8 using [Rhythmic Rapier]
-[01:48:37] [Server thread/INFO]: Named entity ccm['The Hunger For Meaning'/2076, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=142.03, y=94.00, z=86.43] died: The Hunger For Meaning was slain by TioSkrollex using [Rhythmic Rapier]
-[01:49:18] [Server thread/INFO]: Named entity ccm['The Hunger For Meaning'/2068, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=141.44, y=96.00, z=89.71] died: The Hunger For Meaning was slain by Pulpleito8 using [Rhythmic Rapier]
-[01:49:54] [Server thread/INFO]: Named entity cda['Dream Bug'/2011, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=122.84, y=118.00, z=63.21] died: Dream Bug fell from a high place
-[01:50:06] [Server thread/INFO]: Named entity cda['Dream Bug'/2117, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=141.28, y=104.40, z=64.34] died: Dream Bug was slain by Pulpleito8 using [Rhythmic Rapier]
-[01:50:18] [Server thread/INFO]: Named entity cda['Dream Bug'/2130, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=168.18, y=107.14, z=55.63] died: Dream Bug was slain by TioSkrollex using [Rhythmic Rapier]
-[01:50:36] [Server thread/INFO]: Named entity ccm['The Hunger For Meaning'/2140, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=181.70, y=105.00, z=48.30] died: The Hunger For Meaning was slain by TioSkrollex using [Rhythmic Rapier]
-[01:51:02] [Server thread/INFO]: Named entity ccx['Bastion Of Thought'/2083, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=123.59, y=104.00, z=63.89] died: Bastion Of Thought was slain by Pulpleito8 using [Rhythmic Rapier]
-[01:51:03] [Server thread/INFO]: Named entity ccx['Bastion Of Thought'/2165, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=195.19, y=105.00, z=65.57] died: Bastion Of Thought was slain by TioSkrollex using [Rhythmic Rapier]
-[01:51:04] [Server thread/INFO]: Named entity ccx['Bastion Of Thought'/2084, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=124.25, y=104.00, z=63.30] died: Bastion Of Thought was slain by Pulpleito8 using [Rhythmic Rapier]
-[01:51:04] [Server thread/INFO]: Named entity ccx['Bastion Of Thought'/2166, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=194.50, y=105.00, z=61.65] died: Bastion Of Thought was slain by TioSkrollex using [Rhythmic Rapier]
-[01:51:07] [Server thread/INFO]: Named entity cda['Dream Bug'/2168, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=193.71, y=105.54, z=61.18] died: Dream Bug was slain by TioSkrollex using [Rhythmic Rapier]
-[01:51:12] [Server thread/INFO]: Named entity ccm['The Hunger For Meaning'/2167, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=195.17, y=105.00, z=62.63] died: The Hunger For Meaning was slain by TioSkrollex using [Rhythmic Rapier]
-[01:51:24] [Server thread/INFO]: Named entity ccb['Errant Note'/2224, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=121.42, y=105.00, z=55.44] died: Errant Note was blown up by Errant Note using [Perfect Note]
-[01:51:37] [Server thread/INFO]: Named entity ccm['The Hunger For Meaning'/2221, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=144.50, y=104.00, z=65.77] died: The Hunger For Meaning was slain by Pulpleito8 using [Rhythmic Rapier]
-[01:51:42] [Server thread/INFO]: Named entity ccm['The Hunger For Meaning'/2220, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=145.02, y=104.00, z=67.42] died: The Hunger For Meaning was slain by Pulpleito8 using [Rhythmic Rapier]
-[01:51:58] [Server thread/INFO]: Named entity cda['Dream Bug'/2261, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=237.70, y=105.71, z=58.09] died: Dream Bug was slain by TioSkrollex using [Rhythmic Rapier]
-[01:52:07] [Server thread/INFO]: Named entity ccm['The Hunger For Meaning'/2275, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=239.13, y=105.00, z=48.30] died: The Hunger For Meaning was slain by TioSkrollex using [Rhythmic Rapier]
-[01:52:40] [Server thread/INFO]: Named entity ccx['Bastion Of Thought'/2309, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=237.60, y=105.00, z=25.14] died: Bastion Of Thought was slain by TioSkrollex using [Rhythmic Rapier]
-[01:52:42] [Server thread/INFO]: Named entity cda['Dream Bug'/2313, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=235.47, y=105.71, z=26.02] died: Dream Bug was slain by TioSkrollex using [Rhythmic Rapier]
-[01:52:45] [Server thread/INFO]: Named entity ccx['Heart Hater Harpist'/2310, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=240.86, y=105.00, z=15.30] died: Heart Hater Harpist was slain by TioSkrollex using [Rhythmic Rapier]
-[01:52:47] [Server thread/INFO]: Named entity ccx['Heart Hater Harpist'/2311, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=241.31, y=105.00, z=12.70] died: Heart Hater Harpist was slain by TioSkrollex using [Rhythmic Rapier]
-[01:52:50] [Server thread/INFO]: Named entity ccb['Errant Note'/2126, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=130.42, y=105.00, z=47.50] died: Errant Note was slain by Pulpleito8 using [Rhythmic Rapier]
-[01:53:14] [Server thread/INFO]: Pulpleito8 hit the ground too hard while trying to escape Dream Bug
-[01:53:14] [Server thread/ERROR]: Input is not a list of 4 elements
-[01:53:14] [Server thread/ERROR]: Display entityNot a string
-[01:53:15] [Server thread/INFO]: Named entity cda['Dream Bug'/2312, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=232.06, y=109.71, z=-3.70] died: Dream Bug was slain by TioSkrollex using [Rhythmic Rapier]
-[01:53:23] [Server thread/INFO]: Named entity ccm['The Hunger For Meaning'/2384, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=238.20, y=105.00, z=-9.41] died: The Hunger For Meaning was slain by TioSkrollex using [Rhythmic Rapier]
-[01:53:46] [Server thread/ERROR]: Display entityNot a string
-[01:53:46] [Server thread/INFO]: Named entity bzc['Pulpleito8's Shade (#1)'/2366, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=128.00, y=103.74, z=74.00] died: Pulpleito8's Shade (#1) was killed
-[01:53:49] [Server thread/INFO]: TioSkrollex was slain by The Hunger For Meaning
-[01:53:49] [Server thread/ERROR]: Input is not a list of 4 elements
-[01:53:49] [Server thread/ERROR]: Display entityNot a string
-[01:54:22] [Server thread/ERROR]: Display entityNot a string
-[01:54:22] [Server thread/INFO]: Named entity bzc['TioSkrollex's Shade (#1)'/2421, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=225.00, y=106.74, z=-19.00] died: TioSkrollex's Shade (#1) was killed
-[01:57:05] [Server thread/INFO]: Named entity ccx['Bastion Of Thought'/2479, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=209.50, y=106.00, z=-31.83] died: Bastion Of Thought was slain by TioSkrollex using [Rhythmic Rapier]
-[01:57:29] [Server thread/INFO]: Named entity ccm['The Hunger For Meaning'/2501, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=190.07, y=105.00, z=-24.24] died: The Hunger For Meaning was slain by TioSkrollex using [Rhythmic Rapier]
-[01:57:33] [Server thread/INFO]: Named entity cda['Dream Bug'/2500, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=198.21, y=106.15, z=-22.73] died: Dream Bug was slain by TioSkrollex using [Rhythmic Rapier]
-[01:57:46] [Server thread/INFO]: Named entity ccb['Errant Note'/2526, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=139.84, y=92.00, z=35.26] died: Errant Note discovered the floor was lava
-[01:57:52] [Server thread/INFO]: Named entity cda['Dream Bug'/2534, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=164.32, y=105.94, z=-30.15] died: Dream Bug was slain by TioSkrollex using [Rhythmic Rapier]
-[01:58:01] [Server thread/INFO]: Named entity ccx['Heart Hater Harpist'/2537, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=128.17, y=92.00, z=37.54] died: Heart Hater Harpist was doomed to fall by Pulpleito8 using [Rhythmic Rapier]
-[01:58:38] [Server thread/INFO]: Named entity cbz['Blazing Chord'/2567, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=140.32, y=105.00, z=-24.41] died: death.attack.magic.item
-[01:58:54] [Server thread/INFO]: Named entity ccm['The Hunger For Meaning'/2577, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=117.31, y=105.00, z=-21.30] died: The Hunger For Meaning was slain by TioSkrollex using [Toy Sword]
-[01:59:04] [Server thread/INFO]: Named entity ccm['The Hunger For Meaning'/2557, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=117.26, y=106.25, z=-23.60] died: The Hunger For Meaning was slain by TioSkrollex using [Toy Sword]
-[01:59:05] [Server thread/INFO]: Named entity ccb['Errant Note'/2600, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=132.57, y=96.00, z=29.96] died: Errant Note was shot by Pulpleito8 using [1/10th of a Guitar]
-[01:59:07] [Server thread/INFO]: Named entity cda['Dream Bug'/2583, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=132.71, y=96.06, z=32.96] died: Dream Bug was shot by Pulpleito8 using [1/10th of a Guitar]
-[01:59:13] [Server thread/INFO]: Named entity ccx['Bastion Of Thought'/2619, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=112.63, y=105.23, z=-21.29] died: Bastion Of Thought was slain by TioSkrollex using [Toy Sword]
-[01:59:23] [Server thread/INFO]: Named entity cda['Dream Bug'/2582, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=142.97, y=96.06, z=23.99] died: Dream Bug was shot by Pulpleito8 using [1/10th of a Guitar]
-[01:59:37] [Server thread/INFO]: Named entity ccx['Bastion Of Thought'/2529, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=144.55, y=105.00, z=-27.20] died: Bastion Of Thought was slain by TioSkrollex using [Toy Sword]
-[01:59:41] [Server thread/INFO]: Named entity ccx['Bastion Of Thought'/2530, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=142.49, y=104.00, z=-35.33] died: Bastion Of Thought was slain by TioSkrollex using [Toy Sword]
-[01:59:42] [Server thread/INFO]: Named entity cda['Dream Bug'/2640, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=144.11, y=96.06, z=18.49] died: Dream Bug was slain by Pulpleito8 using [Rhythmic Rapier]
-[02:00:08] [Server thread/INFO]: Named entity ccx['Bastion Of Thought'/2630, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=143.86, y=95.55, z=12.85] died: Bastion Of Thought was slain by Pulpleito8 using [Rhythmic Rapier]
-[02:00:25] [Server thread/INFO]: Named entity ccb['Errant Note'/2593, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=126.52, y=96.00, z=13.55] died: Errant Note was shot by Pulpleito8 using [1/10th of a Guitar]
-[02:00:31] [Server thread/INFO]: Named entity cbz['Blazing Chord'/2572, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=129.68, y=103.00, z=-13.35] died: Blazing Chord was slain by TioSkrollex using [Operatic Blade]
-[02:00:36] [Server thread/INFO]: Named entity ccb['Errant Note'/2678, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=132.22, y=100.50, z=-12.30] died: Errant Note was slain by TioSkrollex using [Operatic Blade]
-[02:00:48] [Server thread/INFO]: Named entity ccm['The Hunger For Meaning'/2576, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=141.72, y=104.00, z=-36.33] died: The Hunger For Meaning was slain by TioSkrollex using [Operatic Blade]
-[02:00:51] [Server thread/INFO]: Named entity ccx['Heart Hater Harpist'/2568, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=145.70, y=104.00, z=-36.25] died: Heart Hater Harpist was slain by TioSkrollex using [Operatic Blade]
-[02:00:58] [Server thread/INFO]: Named entity ccb['Errant Note'/2724, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=147.85, y=98.00, z=-38.37] died: Errant Note fell from a high place
-[02:01:06] [Server thread/INFO]: Named entity cda['Dream Bug'/2731, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=121.97, y=96.00, z=-43.33] died: Dream Bug fell from a high place
-[02:01:18] [Server thread/INFO]: Named entity ccx['Heart Hater Harpist'/2730, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=139.70, y=96.00, z=-36.89] died: Heart Hater Harpist was slain by The Hunger For Meaning
-[02:01:21] [Server thread/INFO]: Named entity ccb['Errant Note'/2591, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=124.49, y=96.00, z=6.65] died: Errant Note was slain by Pulpleito8 using [Rhythmic Rapier]
-[02:01:22] [Server thread/INFO]: Named entity cda['Dream Bug'/2636, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=123.68, y=96.00, z=6.14] died: Dream Bug fell from a high place
-[02:01:34] [Server thread/INFO]: Named entity cda['Dream Bug'/2706, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=124.21, y=96.00, z=-4.01] died: Dream Bug fell from a high place
-[02:01:43] [Server thread/INFO]: Named entity ccm['The Hunger For Meaning'/2732, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=145.88, y=105.00, z=-33.48] died: The Hunger For Meaning was slain by TioSkrollex using [Operatic Blade]
-[02:01:51] [Server thread/INFO]: Named entity ccx['Heart Hater Harpist'/2770, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=138.71, y=96.06, z=-0.50] died: Heart Hater Harpist was slain by Pulpleito8 using [Rhythmic Rapier]
-[02:02:03] [Server thread/INFO]: Named entity ccx['Heart Hater Harpist'/2641, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=134.92, y=96.00, z=-11.70] died: Heart Hater Harpist was slain by Pulpleito8 using [Rhythmic Rapier]
-[02:02:09] [Server thread/INFO]: Named entity ccm['The Hunger For Meaning'/2737, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=122.30, y=105.38, z=-33.30] died: The Hunger For Meaning was slain by TioSkrollex using [Operatic Blade]
-[02:02:36] [Server thread/INFO]: Named entity cda['Dream Bug'/2733, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=146.30, y=101.10, z=-41.70] died: Dream Bug was slain by TioSkrollex using [Operatic Blade]
-[02:02:56] [Server thread/INFO]: Named entity cda['Dream Bug'/2734, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=122.30, y=102.10, z=-40.70] died: Dream Bug was shot by Pulpleito8 using [1/10th of a Guitar]
-[02:03:08] [Server thread/INFO]: Named entity cda['Dream Bug'/2828, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=120.90, y=97.00, z=-43.04] died: Dream Bug was slain by Pulpleito8 using [Rhythmic Rapier]
-[02:03:34] [Server thread/INFO]: Named entity ccm['The Hunger For Meaning'/2838, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=97.08, y=98.00, z=-33.77] died: The Hunger For Meaning was slain by Pulpleito8 using [Rhythmic Rapier]
-[02:04:14] [Server thread/INFO]: Named entity ccb['Errant Note'/2857, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=97.40, y=98.00, z=-32.36] died: Errant Note fell from a high place
-[02:04:20] [Server thread/INFO]: Named entity ccm['The Hunger For Meaning'/2852, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=90.10, y=98.00, z=-44.90] died: The Hunger For Meaning was slain by Pulpleito8 using [Rhythmic Rapier]
-[02:04:36] [Server thread/INFO]: Named entity ccx['Heart Hater Harpist'/2880, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=98.66, y=98.54, z=-36.40] died: Heart Hater Harpist was slain by TioSkrollex using [Operatic Blade]
-[02:04:50] [Server thread/INFO]: Named entity ccb['Errant Note'/2891, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=111.51, y=95.92, z=-63.50] died: Errant Note was fireballed by Blazing Chord
-[02:04:51] [Server thread/INFO]: Named entity ccm['The Hunger For Meaning'/2893, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=69.80, y=97.00, z=-46.70] died: The Hunger For Meaning was slain by TioSkrollex using [Operatic Blade]
-[02:04:52] [Server thread/INFO]: Named entity cda['Dream Bug'/2899, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=107.10, y=96.00, z=-62.00] died: Dream Bug was burned to a crisp while fighting Blazing Chord
-[02:04:58] [Server thread/INFO]: Named entity ccx['Heart Hater Harpist'/2839, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=109.28, y=96.00, z=-53.54] died: Heart Hater Harpist was shot by Pulpleito8 using [1/10th of a Guitar]
-[02:05:00] [Server thread/INFO]: Named entity cbz['Blazing Chord'/2889, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=104.41, y=95.49, z=-59.66] died: Blazing Chord was shot by Pulpleito8 using [1/10th of a Guitar]
-[02:05:06] [Server thread/INFO]: Named entity cda['Dream Bug'/2939, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=71.91, y=97.04, z=-30.77] died: Dream Bug was slain by TioSkrollex using [Operatic Blade]
-[02:05:10] [Server thread/INFO]: Named entity cbz['Blazing Chord'/2890, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=105.02, y=96.00, z=-55.68] died: Blazing Chord was shot by Pulpleito8 using [1/10th of a Guitar]
-[02:05:14] [Server thread/INFO]: Named entity ccm['The Hunger For Meaning'/2853, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=108.46, y=97.00, z=-45.13] died: The Hunger For Meaning was slain by Pulpleito8 using [Rhythmic Rapier]
-[02:05:31] [Server thread/INFO]: Named entity ccm['The Hunger For Meaning'/2972, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=95.17, y=96.00, z=-71.50] died: The Hunger For Meaning was slain by Pulpleito8 using [Rhythmic Rapier]
-[02:05:51] [Server thread/INFO]: Named entity cbz['Blazing Chord'/2956, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=79.31, y=106.00, z=-28.35] died: Blazing Chord was slain by TioSkrollex using [Operatic Blade]
-[02:05:54] [Server thread/INFO]: Named entity ccx['Bastion Of Thought'/2971, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=81.33, y=106.00, z=-26.53] died: Bastion Of Thought was slain by TioSkrollex using [Operatic Blade]
-[02:06:44] [Server thread/INFO]: Named entity cda['Dream Bug'/3021, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=73.78, y=96.00, z=-75.80] died: Dream Bug was slain by Pulpleito8 using [Rhythmic Rapier]
-[02:06:55] [Server thread/ERROR]: Display entityNot a string
-[02:08:00] [Server thread/INFO]: Named entity ccx['Heart Hater Harpist'/2859, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=90.94, y=119.50, z=-5.05] died: Heart Hater Harpist was slain by TioSkrollex using [Operatic Blade]
-[02:08:12] [Server thread/INFO]: Named entity cda['Dream Bug'/3045, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=87.70, y=122.18, z=-10.00] died: Dream Bug was slain by TioSkrollex using [Operatic Blade]
-[02:08:13] [Server thread/INFO]: Named entity cda['Dream Bug'/3044, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=87.70, y=122.53, z=-10.20] died: Dream Bug was slain by TioSkrollex using [Operatic Blade]
-[02:08:17] [Server thread/INFO]: Named entity ccm['The Hunger For Meaning'/3041, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=87.43, y=119.00, z=-9.81] died: The Hunger For Meaning was shot by Pulpleito8 using [1/10th of a Guitar]
-[02:08:17] [Server thread/INFO]: Named entity ccx['Bastion Of Thought'/3039, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=87.60, y=119.00, z=-9.21] died: Bastion Of Thought was shot by TioSkrollex using [1/10th of a Guitar]
-[02:08:18] [Server thread/INFO]: Named entity ccm['The Hunger For Meaning'/3042, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=88.08, y=119.00, z=-9.84] died: The Hunger For Meaning was shot by Pulpleito8 using [1/10th of a Guitar]
-[02:08:41] [Server thread/INFO]: Named entity cbz['Blazing Chord'/3090, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=85.36, y=121.36, z=17.56] died: Blazing Chord was slain by Pulpleito8 using [Rhythmic Rapier]
-[02:08:55] [Server thread/INFO]: Named entity cda['Dream Bug'/3103, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=77.90, y=106.00, z=20.25] died: Dream Bug hit the ground too hard
-[02:08:59] [Server thread/INFO]: Named entity ccm['The Hunger For Meaning'/3087, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=83.65, y=120.00, z=26.82] died: The Hunger For Meaning was slain by Pulpleito8 using [Rhythmic Rapier]
-[02:08:59] [Server thread/INFO]: Named entity ccx['Heart Hater Harpist'/3110, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=76.69, y=119.50, z=27.50] died: Heart Hater Harpist was slain by TioSkrollex using [Operatic Blade]
-[02:09:01] [Server thread/INFO]: Named entity ccm['The Hunger For Meaning'/3116, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=76.65, y=119.92, z=22.90] died: The Hunger For Meaning was slain by TioSkrollex using [Operatic Blade]
-[02:09:03] [Server thread/INFO]: Named entity ccm['The Hunger For Meaning'/3117, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=85.29, y=120.00, z=29.16] died: The Hunger For Meaning was slain by Pulpleito8 using [Rhythmic Rapier]
-[02:09:36] [Server thread/INFO]: Named entity ccm['The Hunger For Meaning'/3122, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=91.07, y=119.00, z=38.24] died: The Hunger For Meaning was slain by TioSkrollex using [Operatic Blade]
-[02:09:40] [Server thread/INFO]: Named entity ccb['Errant Note'/3120, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=92.31, y=119.00, z=36.52] died: Errant Note was shot by Pulpleito8 using [1/10th of a Guitar]
-[02:09:41] [Server thread/INFO]: Named entity cda['Dream Bug'/3172, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=83.96, y=120.00, z=34.34] died: Dream Bug was slain by TioSkrollex using [Operatic Blade]
-[02:09:46] [Server thread/INFO]: Named entity ccx['Bastion Of Thought'/3165, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=74.58, y=119.00, z=34.86] died: Bastion Of Thought was slain by TioSkrollex using [Operatic Blade]
-[02:09:53] [Server thread/INFO]: Named entity ccx['Heart Hater Harpist'/3178, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=101.39, y=119.00, z=35.03] died: Heart Hater Harpist was slain by TioSkrollex using [Operatic Blade]
-[02:09:54] [Server thread/INFO]: Named entity ccm['The Hunger For Meaning'/3168, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=101.21, y=119.00, z=34.42] died: The Hunger For Meaning was slain by TioSkrollex using [Operatic Blade]
-[02:10:10] [Server thread/INFO]: Named entity ccb['Errant Note'/3218, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=111.66, y=119.00, z=-0.38] died: Errant Note was slain by TioSkrollex using [Operatic Blade]
-[02:10:20] [Server thread/INFO]: Named entity ccm['The Hunger For Meaning'/3123, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=108.36, y=119.00, z=22.13] died: The Hunger For Meaning was slain by TioSkrollex using [Operatic Blade]
-[02:10:28] [Server thread/INFO]: Named entity ccx['Heart Hater Harpist'/3179, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=93.89, y=120.00, z=27.20] died: Heart Hater Harpist was shot by Pulpleito8 using [1/10th of a Guitar]
-[02:10:35] [Server thread/INFO]: Named entity ccx['Bastion Of Thought'/3166, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=90.51, y=119.49, z=18.03] died: Bastion Of Thought was slain by Pulpleito8 using [Rhythmic Rapier]
-[02:11:08] [Server thread/INFO]: Named entity ccx['Bastion Of Thought'/3226, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=112.57, y=119.00, z=18.43] died: Bastion Of Thought was shot by TioSkrollex using [1/10th of a Guitar]
-[02:11:11] [Server thread/INFO]: Named entity ccm['The Hunger For Meaning'/3274, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=114.27, y=119.00, z=16.30] died: The Hunger For Meaning was slain by TioSkrollex using [Operatic Blade]
-[02:11:16] [Server thread/INFO]: Named entity ccm['The Hunger For Meaning'/3281, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=115.57, y=119.53, z=-3.15] died: The Hunger For Meaning was slain by TioSkrollex using [Operatic Blade]
-[02:11:17] [Server thread/INFO]: Named entity ccm['The Hunger For Meaning'/3255, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=113.70, y=118.49, z=51.03] died: The Hunger For Meaning was slain by Pulpleito8 using [Rhythmic Rapier]
-[02:11:20] [Server thread/INFO]: Named entity ccm['The Hunger For Meaning'/3254, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=114.30, y=118.49, z=50.99] died: The Hunger For Meaning was slain by Pulpleito8 using [Rhythmic Rapier]
-[02:11:21] [Server thread/INFO]: Named entity ccx['Bastion Of Thought'/3227, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=115.50, y=119.00, z=4.91] died: Bastion Of Thought was shot by TioSkrollex using [1/10th of a Guitar]
-[02:11:27] [Server thread/INFO]: Named entity cbz['Blazing Chord'/3279, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=127.26, y=119.60, z=-7.59] died: Blazing Chord was slain by The Hunger For Meaning
-[02:11:29] [Server thread/INFO]: Named entity ccm['The Hunger For Meaning'/3273, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=125.72, y=119.00, z=-7.25] died: The Hunger For Meaning was slain by TioSkrollex using [Operatic Blade]
-[02:11:31] [Server thread/INFO]: TioSkrollex was burned to a crisp while fighting Dream Bug
-[02:11:31] [Server thread/ERROR]: Input is not a list of 4 elements
-[02:11:31] [Server thread/ERROR]: Display entityNot a string
-[02:11:46] [Server thread/INFO]: Named entity cda['Dream Bug'/3272, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=119.56, y=119.00, z=-1.98] died: Dream Bug was slain by Pulpleito8 using [Rhythmic Rapier]
-[02:12:05] [Server thread/ERROR]: Display entityNot a string
-[02:12:05] [Server thread/INFO]: Named entity bzc['TioSkrollex's Shade (#2)'/3359, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=123.00, y=119.74, z=-6.00] died: TioSkrollex's Shade (#2) was killed
-[02:12:18] [Server thread/INFO]: Named entity ccx['Heart Hater Harpist'/3414, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=119.77, y=119.00, z=-19.50] died: Heart Hater Harpist burned to death
-[02:13:13] [Server thread/INFO]: Named entity cda['Dream Bug'/3471, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=140.41, y=122.00, z=67.55] died: Dream Bug was slain by TioSkrollex using [Operatic Blade]
-[02:13:21] [Server thread/INFO]: Named entity cda['Dream Bug'/3441, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=125.06, y=120.14, z=-10.72] died: Dream Bug was fireballed by Blazing Chord
-[02:13:30] [Server thread/INFO]: Named entity cbz['Blazing Chord'/3346, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=144.99, y=121.27, z=3.21] died: Blazing Chord was shot by Pulpleito8 using [1/10th of a Guitar]
-[02:13:33] [Server thread/INFO]: Named entity ccm['The Hunger For Meaning'/3474, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=124.55, y=119.00, z=-1.81] died: The Hunger For Meaning was shot by Pulpleito8 using [1/10th of a Guitar]
-[02:13:36] [Server thread/INFO]: Named entity cbz['Blazing Chord'/3345, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=143.14, y=119.00, z=0.66] died: Blazing Chord was shot by Pulpleito8 using [1/10th of a Guitar]
-[02:13:45] [Server thread/INFO]: Named entity ccm['The Hunger For Meaning'/3475, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=128.34, y=119.00, z=-19.93] died: The Hunger For Meaning was slain by Pulpleito8 using [Rhythmic Rapier]
-[02:13:46] [Server thread/INFO]: Named entity ccm['The Hunger For Meaning'/3468, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=118.03, y=121.38, z=60.40] died: The Hunger For Meaning was slain by TioSkrollex using [Operatic Blade]
-[02:14:13] [Server thread/INFO]: Named entity cda['Dream Bug'/3541, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=155.31, y=120.31, z=59.85] died: Dream Bug was slain by TioSkrollex using [Operatic Blade]
-[02:14:14] [Server thread/INFO]: Named entity ccm['The Hunger For Meaning'/3552, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=153.33, y=119.00, z=40.51] died: The Hunger For Meaning was blown up by Errant Note using [Perfect Note]
-[02:14:14] [Server thread/INFO]: Named entity cda['Dream Bug'/3537, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=154.91, y=119.00, z=40.76] died: Dream Bug was blown up by Errant Note using [Perfect Note]
-[02:14:16] [Server thread/INFO]: Named entity cda['Dream Bug'/3536, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=157.00, y=119.63, z=50.95] died: Dream Bug was fireballed by Blazing Chord
-[02:14:23] [Server thread/INFO]: Named entity cbz['Blazing Chord'/3549, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=159.05, y=119.37, z=36.01] died: Blazing Chord was slain by TioSkrollex using [Operatic Blade]
-[02:14:25] [Server thread/INFO]: Named entity cbz['Blazing Chord'/3548, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=162.21, y=119.62, z=35.39] died: Blazing Chord was slain by TioSkrollex using [Operatic Blade]
-[02:14:25] [Server thread/INFO]: Named entity cda['Dream Bug'/3546, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=126.89, y=119.00, z=40.93] died: Dream Bug was slain by Pulpleito8 using [Rhythmic Rapier]
-[02:14:30] [Server thread/INFO]: Named entity cda['Dream Bug'/3545, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=154.34, y=119.63, z=40.17] died: Dream Bug was slain by TioSkrollex using [Operatic Blade]
-[02:14:32] [Server thread/INFO]: Named entity cda['Dream Bug'/3580, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=152.96, y=120.14, z=37.70] died: Dream Bug was shot by Heart Hater Harpist
-[02:14:34] [Server thread/INFO]: Named entity ccm['The Hunger For Meaning'/3539, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=132.90, y=118.49, z=51.02] died: The Hunger For Meaning was slain by Pulpleito8 using [Rhythmic Rapier]
-[02:14:41] [Server thread/INFO]: Named entity ccx['Heart Hater Harpist'/3538, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=157.49, y=119.00, z=33.39] died: Heart Hater Harpist was slain by TioSkrollex using [Operatic Blade]
-[02:14:56] [Server thread/INFO]: Named entity ccx['Bastion Of Thought'/3646, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=175.25, y=119.54, z=29.74] died: Bastion Of Thought was burned to a crisp while fighting Blazing Chord
-[02:15:05] [Server thread/INFO]: Pulpleito8 was burned to a crisp while fighting Blazing Chord
-[02:15:05] [Server thread/ERROR]: Input is not a list of 4 elements
-[02:15:05] [Server thread/ERROR]: Display entityNot a string
-[02:15:16] [Server thread/INFO]: Named entity ccx['Bastion Of Thought'/3672, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=171.10, y=119.00, z=-8.03] died: Bastion Of Thought was burned to a crisp while fighting Blazing Chord
-[02:15:21] [Server thread/INFO]: Named entity cbz['Blazing Chord'/3677, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=171.69, y=119.00, z=-7.33] died: Blazing Chord was slain by The Hunger For Meaning
-[02:15:37] [Server thread/ERROR]: Display entityNot a string
-[02:15:37] [Server thread/INFO]: Named entity bzc['Pulpleito8's Shade (#2)'/3691, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=138.00, y=119.74, z=-19.00] died: Pulpleito8's Shade (#2) was killed
-[02:15:42] [Server thread/INFO]: Named entity ccm['The Hunger For Meaning'/3668, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=114.84, y=119.00, z=-21.07] died: The Hunger For Meaning was shot by TioSkrollex using [Suspicious String Instrument]
-[02:15:42] [Server thread/INFO]: Named entity ccm['The Hunger For Meaning'/3661, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=116.22, y=119.00, z=-21.24] died: The Hunger For Meaning was shot by TioSkrollex using [Suspicious String Instrument]
-[02:15:45] [Server thread/INFO]: Named entity ccm['The Hunger For Meaning'/3651, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=113.79, y=119.00, z=-22.71] died: The Hunger For Meaning was slain by TioSkrollex using [Operatic Blade]
-[02:16:21] [Server thread/INFO]: Named entity cbz['Blazing Chord'/3678, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=169.41, y=123.70, z=-6.88] died: Blazing Chord was shot by TioSkrollex using [Suspicious String Instrument]
-[02:17:27] [Server thread/INFO]: Named entity cda['Dream Bug'/3776, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=165.37, y=120.09, z=-5.29] died: Dream Bug was slain by Pulpleito8 using [Rhythmic Rapier]
-[02:18:04] [Server thread/INFO]: Named entity ccm['The Hunger For Meaning'/3812, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=188.12, y=119.00, z=-11.58] died: The Hunger For Meaning was slain by Pulpleito8 using [Rhythmic Rapier]
-[02:18:16] [Server thread/INFO]: Named entity cda['Dream Bug'/3823, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=191.95, y=120.14, z=-10.25] died: Dream Bug was slain by Pulpleito8 using [Rhythmic Rapier]
-[02:18:17] [Server thread/INFO]: Named entity cda['Dream Bug'/3822, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=190.34, y=119.00, z=-10.42] died: Dream Bug was slain by Pulpleito8 using [Rhythmic Rapier]
-[02:18:40] [Server thread/INFO]: Named entity cda['Dream Bug'/3843, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=141.94, y=119.00, z=2.11] died: Dream Bug was slain by TioSkrollex using [Operatic Blade]
-[02:18:44] [Server thread/INFO]: Named entity ccm['The Hunger For Meaning'/3845, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=217.27, y=120.50, z=-5.04] died: The Hunger For Meaning was slain by Pulpleito8 using [Rhythmic Rapier]
-[02:18:47] [Server thread/INFO]: Named entity ccm['The Hunger For Meaning'/3844, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=218.12, y=120.49, z=-4.02] died: The Hunger For Meaning was slain by Pulpleito8 using [Rhythmic Rapier]
-[02:18:50] [Server thread/INFO]: Named entity ccm['The Hunger For Meaning'/3838, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=218.58, y=120.49, z=-3.63] died: The Hunger For Meaning was slain by Pulpleito8 using [Rhythmic Rapier]
-[02:19:18] [Server thread/INFO]: Named entity ccm['The Hunger For Meaning'/3885, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=176.08, y=119.00, z=41.50] died: The Hunger For Meaning was shot by Pulpleito8 using [1/10th of a Guitar]
-[02:19:24] [Server thread/INFO]: Named entity cda['Dream Bug'/3884, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=190.76, y=119.00, z=41.79] died: Dream Bug was slain by TioSkrollex using [Operatic Blade]
-[02:19:25] [Server thread/INFO]: Named entity ccm['The Hunger For Meaning'/3882, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=190.54, y=119.00, z=41.15] died: The Hunger For Meaning was slain by TioSkrollex using [Operatic Blade]
-[02:19:29] [Server thread/INFO]: Named entity ccm['The Hunger For Meaning'/3883, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=194.49, y=119.00, z=40.65] died: The Hunger For Meaning was slain by TioSkrollex using [Operatic Blade]
-[02:19:52] [Server thread/INFO]: Named entity ccm['The Hunger For Meaning'/3930, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=208.84, y=120.49, z=16.15] died: The Hunger For Meaning was slain by TioSkrollex using [Operatic Blade]
-[02:19:54] [Server thread/INFO]: Named entity ccx['Bastion Of Thought'/3928, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=209.02, y=120.49, z=16.23] died: Bastion Of Thought was slain by TioSkrollex using [Operatic Blade]
-[02:19:56] [Server thread/INFO]: Named entity ccx['Bastion Of Thought'/3939, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=209.02, y=120.49, z=16.23] died: Bastion Of Thought was slain by TioSkrollex using [Operatic Blade]
-[02:20:00] [Server thread/INFO]: Named entity ccb['Errant Note'/3941, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=210.68, y=121.00, z=17.31] died: Errant Note was slain by TioSkrollex using [Operatic Blade]
-[02:20:03] [Server thread/INFO]: Named entity ccm['The Hunger For Meaning'/3929, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=211.93, y=120.49, z=15.88] died: The Hunger For Meaning was slain by TioSkrollex using [Toy Sword]
-[02:20:03] [Server thread/INFO]: Named entity ccx['Bastion Of Thought'/3938, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=212.66, y=120.49, z=16.21] died: Bastion Of Thought was slain by Pulpleito8 using [Rhythmic Rapier]
-[02:20:23] [Server thread/INFO]: Named entity ccx['Heart Hater Harpist'/4001, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=195.72, y=129.06, z=19.03] died: Heart Hater Harpist was shot by Heart Hater Harpist
-[02:20:27] [Server thread/INFO]: Named entity ccx['Heart Hater Harpist'/4002, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=200.50, y=120.00, z=19.36] died: Heart Hater Harpist was doomed to fall by Heart Hater Harpist
-[02:20:32] [Server thread/INFO]: Named entity ccx['Bastion Of Thought'/4003, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=205.49, y=121.50, z=5.77] died: Bastion Of Thought was slain by Pulpleito8 using [Rhythmic Rapier]
-[02:21:08] [Server thread/INFO]: Named entity ccx['Bastion Of Thought'/3927, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=196.51, y=120.00, z=17.25] died: Bastion Of Thought was slain by Pulpleito8 using [Rhythmic Rapier]
-[02:21:09] [Server thread/INFO]: Named entity ccb['Errant Note'/4042, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=182.00, y=120.50, z=19.81] died: Errant Note was doomed to fall by TioSkrollex using [Operatic Blade]
-[02:21:14] [Server thread/INFO]: Named entity cbz['Blazing Chord'/4041, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=183.88, y=136.06, z=17.53] died: Blazing Chord was slain by TioSkrollex using [Operatic Blade]
-[02:21:18] [Server thread/INFO]: Named entity ccb['Errant Note'/4044, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=183.80, y=120.00, z=19.62] died: Errant Note was doomed to fall by Pulpleito8 using [Rhythmic Rapier]
-[02:22:25] [Server thread/INFO]: Named entity cda['Dream Bug'/4083, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=140.96, y=119.33, z=40.09] died: Dream Bug was slain by TioSkrollex using [Operatic Blade]
-[02:22:54] [Server thread/INFO]: Named entity cda['Dream Bug'/4082, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=91.46, y=119.00, z=40.92] died: Dream Bug was slain by TioSkrollex using [Operatic Blade]
-[02:27:19] [Server thread/INFO]: TioSkrollex lost connection: Disconnected
-[02:27:19] [Server thread/INFO]: TioSkrollex left the game
-[02:28:29] [Server thread/INFO]: Named entity cdi[''/4268, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=87.46, y=99.49, z=-157.52] died:  was slain by Pulpleito8
-[02:28:40] [Server thread/INFO]: Named entity cdi[''/4270, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=88.21, y=99.49, z=-156.26] died:  was slain by Pulpleito8
-[02:28:44] [Server thread/INFO]: Named entity cdi[''/4269, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=87.72, y=99.49, z=-158.06] died:  was slain by Pulpleito8
-[02:39:05] [Server thread/INFO]: Pulpleito8 hit the ground too hard
-[02:39:05] [Server thread/ERROR]: Input is not a list of 4 elements
-[02:39:05] [Server thread/ERROR]: Display entityNot a string
-[02:44:53] [Server thread/INFO]: TioSkrollex[/127.54.56.198:44299] logged in with entity id 4774 at (61.08905069293331, 99.0, -80.57858591111993)
-[02:44:53] [Server thread/INFO]: TioSkrollex joined the game
-[02:47:26] [Server thread/INFO]: TioSkrollex was slain by Zombie
-[02:47:26] [Server thread/ERROR]: Input is not a list of 4 elements
-[02:47:26] [Server thread/ERROR]: Display entityNot a string
-[02:47:58] [Server thread/ERROR]: Display entityNot a string
-[02:47:58] [Server thread/INFO]: Named entity bzc['TioSkrollex's Shade (#3)'/4949, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=47.00, y=105.74, z=-112.00] died: TioSkrollex's Shade (#3) was killed
-[02:52:21] [Server thread/INFO]: Named entity cde['Disgruntled Villager'/5160, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=121.51, y=124.54, z=-234.35] died: Disgruntled Villager was slain by TioSkrollex using [Operatic Blade]
-[02:53:28] [Server thread/INFO]: Named entity cde['Disgruntled Villager'/5184, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=130.45, y=124.59, z=-254.87] died: Disgruntled Villager was slain by Pulpleito8 using [Farmer's Scyth]
-[02:55:01] [Server thread/INFO]: Named entity cde['Disgruntled Villager'/5278, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=142.28, y=125.59, z=-232.14] died: Disgruntled Villager was burned to a crisp while fighting Pulpleito8
-[02:55:30] [Server thread/INFO]: TioSkrollex walked into fire while fighting Husk
-[02:55:30] [Server thread/ERROR]: Input is not a list of 4 elements
-[02:55:30] [Server thread/ERROR]: Display entityNot a string
-[02:56:02] [Server thread/ERROR]: Display entityNot a string
-[02:56:02] [Server thread/INFO]: Named entity bzc['TioSkrollex's Shade (#4)'/5415, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=131.00, y=131.74, z=-251.00] died: TioSkrollex's Shade (#4) was killed
-[02:56:29] [Server thread/INFO]: TioSkrollex burned to death
-[02:56:29] [Server thread/ERROR]: Input is not a list of 4 elements
-[02:56:29] [Server thread/ERROR]: Display entityNot a string
-[02:57:01] [Server thread/ERROR]: Display entityNot a string
-[02:57:01] [Server thread/INFO]: Named entity bzc['TioSkrollex's Shade (#5)'/5563, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=128.00, y=131.74, z=-246.00] died: TioSkrollex's Shade (#5) was killed
-[03:03:31] [Server thread/INFO]: Pulpleito8 lost connection: Timed out
-[03:03:31] [Server thread/INFO]: Pulpleito8 left the game
-[03:03:31] [Server thread/WARN]: handleDisconnection() called twice
-[03:03:37] [Server thread/INFO]: Pulpleito8[/127.4.210.242:60107] logged in with entity id 5849 at (122.29977545933394, 127.0, -271.7252034089459)
-[03:03:37] [Server thread/INFO]: Pulpleito8 joined the game
-[03:05:51] [Server thread/INFO]: Named entity cdi[''/5993, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=71.46, y=148.00, z=-232.70] died:  was slain by TioSkrollex using [Operatic Blade]
-[03:05:53] [Server thread/INFO]: Named entity cdi[''/5992, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=72.78, y=147.53, z=-229.68] died:  was slain by TioSkrollex using [Operatic Blade]
-[03:07:26] [Server thread/INFO]: Named entity cde['Disgruntled Villager'/6033, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=37.89, y=141.00, z=-250.20] died: Disgruntled Villager was shot by TioSkrollex using [Suspicious String Instrument]
-[03:10:36] [Server thread/INFO]: Named entity ccx['Pumpkin Elder'/6255, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-14.02, y=146.49, z=-210.98] died: Pumpkin Elder was slain by TioSkrollex using [Operatic Blade]
-[03:10:40] [Server thread/INFO]: Named entity ccx['Pumpkin Elder'/6256, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-14.02, y=146.49, z=-210.98] died: Pumpkin Elder was slain by TioSkrollex using [Operatic Blade]
-[03:12:27] [Server thread/INFO]: Named entity ccx['Pumpkin Elder'/6392, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-29.38, y=173.00, z=-203.04] died: Pumpkin Elder was slain by TioSkrollex using [Operatic Blade]
-[03:14:23] [Server thread/INFO]: Named entity cde['Disgruntled Villager'/6476, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-32.37, y=185.23, z=-247.35] died: Disgruntled Villager was slain by Pulpleito8
+[21:27:05] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:27:07] [Worker-Main-3/ERROR]: Couldn't load tag delta:no_collision as it is missing following references: minecraft:grass (from file/delta_datapack.zip)
+[21:27:09] [ServerMain/INFO]: Loaded 7 recipes
+[21:27:09] [ServerMain/ERROR]: Couldn't load tag minecraft:cartographer/events/enchantments/ranged/frost as it is missing following references: cartographer_custom_enchantments:events/debug/enchantments/ranged/frost (from file/Cartographer - Custom Enchantments.zip)
+[21:27:09] [ServerMain/INFO]: Loaded 344 advancements
+[21:27:09] [ServerMain/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:block] are present in data pack: bb:raycast
+[21:27:10] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[21:27:10] [Server thread/INFO]: Loading properties
+[21:27:10] [Server thread/INFO]: Default game type: SURVIVAL
+[21:27:10] [Server thread/INFO]: Generating keypair
+[21:27:11] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:27:11] [Server thread/INFO]: Using epoll channel type
+[21:27:11] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:27:11] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:27:11] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:27:11] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:27:11] [Server thread/INFO]: Preparing level "world"
+[21:27:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:27:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:27:14] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:27:14] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:27:14] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:27:14] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:27:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:27:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:27:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:27:15] [Worker-Main-1/INFO]: Preparing spawn area: 11%
+[21:27:16] [Worker-Main-2/INFO]: Preparing spawn area: 76%
+[21:27:17] [Server thread/INFO]: Time elapsed: 5860 ms
+[21:27:17] [Server thread/INFO]: Done (6.115s)! For help, type "help"
+[21:27:24] [Server thread/WARN]: UUID of added entity already exists: bmm['Marker'/1, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-1000.00, y=-36.00, z=-1000.00]
+[21:27:24] [Server thread/WARN]: UUID of added entity already exists: ccx['Skeleton'/72, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-1030.50, y=-0.50, z=-1030.50]
+[21:27:24] [Server thread/WARN]: UUID of added entity already exists: cbk['Armor Stand'/73, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-1030.50, y=-0.50, z=-1030.50]
+[21:27:24] [Server thread/WARN]: UUID of added entity already exists: bmm['Marker'/74, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-1030.50, y=-0.50, z=-1030.50]
+[21:27:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6942ms or 138 ticks behind
+[21:27:27] [Server thread/WARN]: UUID of added entity already exists: bmm['Marker'/209, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=4206900.50, y=0.00, z=4206900.50]
+[21:27:27] [Server thread/WARN]: UUID of added entity already exists: cbk['Armor Stand'/210, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=4206900.50, y=0.00, z=4206900.50]
+[21:27:27] [Server thread/WARN]: UUID of added entity already exists: bmm['Marker'/211, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=4206900.50, y=50.00, z=4206900.50]
+[21:27:27] [Server thread/WARN]: UUID of added entity already exists: bmm['Marker'/212, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=4206900.50, y=50.00, z=4206900.50]
+[21:27:27] [Server thread/WARN]: UUID of added entity already exists: bmm['Marker'/213, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=4206900.50, y=50.00, z=4206900.50]
+[21:27:27] [Server thread/WARN]: UUID of added entity already exists: bmm['Marker'/214, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=4206900.50, y=60.00, z=4206900.50]
+[21:27:27] [Server thread/WARN]: UUID of added entity already exists: bmm['Marker'/215, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=4206900.50, y=128.00, z=4206900.50]
+[21:27:27] [Server thread/WARN]: UUID of added entity already exists: cbk['Armor Stand'/216, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=4206900.50, y=180.00, z=4206900.50]
+[21:27:27] [Server thread/WARN]: UUID of added entity already exists: cbk['Armor Stand'/217, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=4206900.50, y=180.00, z=4206900.50]
+[21:27:27] [Server thread/WARN]: UUID of added entity already exists: bmm['Marker'/218, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=4206900.50, y=-1.00, z=4206900.50]
+[21:27:27] [Server thread/WARN]: UUID of added entity already exists: bmm['Marker'/219, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=0.05, y=0.06, z=0.07]
+[21:27:29] [Server thread/INFO]: Pulpleito8[/127.4.210.242:46111] logged in with entity id 232 at (-30.1512106242289, 145.0, -278.10694065345854)
+[21:27:29] [Server thread/INFO]: Pulpleito8 joined the game
+[21:27:35] [Server thread/INFO]: TioSkrollex[/127.54.56.198:37089] logged in with entity id 252 at (-26.99220211619363, 147.0, -288.19821889373185)
+[21:27:35] [Server thread/INFO]: TioSkrollex joined the game
+[21:34:40] [Server thread/INFO]: Named entity ccx['Pumpkin Elder'/542, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-7.70, y=140.00, z=-388.03] died: Pumpkin Elder was slain by TioSkrollex using [Operatic Blade]
