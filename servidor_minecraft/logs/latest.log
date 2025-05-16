@@ -60,3 +60,12 @@
 [21:42:40] [Server thread/INFO]: Named entity ccx['Pumpkin Elder'/997, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=50.90, y=126.00, z=-377.05] died: Pumpkin Elder was blown up by Creeper
 [21:44:02] [Server thread/INFO]: Named entity ccx['Pumpkin Elder'/1071, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=72.82, y=124.00, z=-387.10] died: Pumpkin Elder was slain by Pulpleito8
 [21:45:15] [Server thread/INFO]: Named entity ccx['Pumpkin Elder'/1122, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=94.72, y=120.49, z=-364.77] died: Pumpkin Elder was slain by Pulpleito8
+[21:47:15] [Server thread/INFO]: Named entity ccx['Pumpkin Elder'/1123, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=108.84, y=122.49, z=-344.13] died: Pumpkin Elder was slain by Pulpleito8 using [Gold Crusted Pumpkin Cutter]
+[21:53:11] [Server thread/INFO]: Pulpleito8 hit the ground too hard
+[21:53:11] [Server thread/ERROR]: Input is not a list of 4 elements
+[21:53:11] [Server thread/ERROR]: Display entityNot a string
+[21:53:23] [Server thread/INFO]: [Pulpleito8: Teleported Pulpleito8 to TioSkrollex]
+[21:53:43] [Server thread/ERROR]: Display entityNot a string
+[21:53:43] [Server thread/INFO]: Named entity bzc['Pulpleito8's Shade (#4)'/1543, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=63.00, y=152.74, z=-358.00] died: Pulpleito8's Shade (#4) was killed
+[21:56:02] [Server thread/INFO]: Named entity ccx['Pumpkin Elder'/1564, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=79.78, y=174.00, z=-365.29] died: Pumpkin Elder was slain by Disgruntled Villager
+[21:57:17] [Server thread/INFO]: Named entity cde['Disgruntled Villager'/1598, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=75.49, y=166.59, z=-350.67] died: Disgruntled Villager was slain by Pulpleito8
