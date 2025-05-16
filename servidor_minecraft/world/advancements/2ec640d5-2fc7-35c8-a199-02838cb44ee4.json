@@ -368,5 +368,11 @@
     },
     "done": true
   },
+  "entityid:entity_hurt_player": {
+    "criteria": {
+      "avoids_guardian_thorns": "2025-05-16 21:42:12 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3700
 }
