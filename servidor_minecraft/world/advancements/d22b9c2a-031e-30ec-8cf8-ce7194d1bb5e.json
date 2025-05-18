@@ -428,5 +428,29 @@
     },
     "done": true
   },
+  "cartographer_custom_enchantments:passive/shielding": {
+    "criteria": {
+      "find": "2025-05-18 17:44:52 +0000"
+    },
+    "done": true
+  },
+  "cartographer_custom_enchantments:passive/quake": {
+    "criteria": {
+      "find": "2025-05-18 17:45:05 +0000"
+    },
+    "done": true
+  },
+  "cartographer_mob_abilities:passive/other/summoner": {
+    "criteria": {
+      "found": "2025-05-18 17:35:11 +0000"
+    },
+    "done": true
+  },
+  "cartographer_mob_abilities:active/sniper_shot": {
+    "criteria": {
+      "found": "2025-05-18 17:23:58 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3700
 }

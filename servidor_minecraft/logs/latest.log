@@ -46,3 +46,25 @@
 [17:11:25] [Server thread/WARN]: UUID of added entity already exists: bmm['Marker'/280, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=0.07, y=-0.01, z=0.07]
 [17:12:34] [Server thread/INFO]: Pulpleito8[/127.4.210.242:43377] logged in with entity id 329 at (297.2821288617795, 195.0, -760.1496570294515)
 [17:12:34] [Server thread/INFO]: Pulpleito8 joined the game
+[17:22:36] [Server thread/INFO]: TioSkrollex[/127.54.56.198:55565] logged in with entity id 545 at (-43.76117381736694, 133.0, -749.8010638890214)
+[17:22:36] [Server thread/INFO]: TioSkrollex joined the game
+[17:22:47] [Server thread/INFO]: Pulpleito8 lost connection: Disconnected
+[17:22:47] [Server thread/INFO]: Pulpleito8 left the game
+[17:23:06] [Server thread/INFO]: Pulpleito8[/127.4.210.242:34949] logged in with entity id 593 at (-49.832866958862994, 135.0, -757.2103099407791)
+[17:23:06] [Server thread/INFO]: Pulpleito8 joined the game
+[17:25:47] [Server thread/INFO]: Named entity cdi['Temple Breaker'/810, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-85.22, y=134.00, z=-799.28] died: Temple Breaker was slain by Pulpleito8 using [Charred Edge]
+[17:26:52] [Server thread/INFO]: TioSkrollex burned to death
+[17:26:52] [Server thread/ERROR]: Input is not a list of 4 elements
+[17:26:52] [Server thread/ERROR]: Display entityNot a string
+[17:27:04] [Server thread/INFO]: [Pulpleito8: Teleported TioSkrollex to Pulpleito8]
+[17:27:24] [Server thread/ERROR]: Display entityNot a string
+[17:27:24] [Server thread/INFO]: Named entity bzc['TioSkrollex's Shade (#16)'/925, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-64.00, y=141.74, z=-816.00] died: TioSkrollex's Shade (#16) was killed
+[17:35:11] [Server thread/INFO]: Named entity cci['Crazed Spellcaster'/1410, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-91.93, y=159.00, z=-750.07] died: Crazed Spellcaster was slain by Pulpleito8
+[17:35:33] [Server thread/INFO]: Named entity cci['Crazed Spellcaster'/1447, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-111.89, y=160.00, z=-765.79] died: Crazed Spellcaster was blown up by Creeper
+[17:35:47] [Server thread/INFO]: Named entity cci['Crazed Spellcaster'/1500, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-109.70, y=159.00, z=-745.68] died: Crazed Spellcaster was slain by TioSkrollex using [Siphonsteel]
+[17:38:44] [Server thread/INFO]: Named entity cci['Crazed Spellcaster'/1754, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-119.30, y=163.00, z=-820.30] died: Crazed Spellcaster was slain by Pulpleito8 using [Charred Edge]
+[17:42:23] [Server thread/INFO]: Named entity cdi['Temple Breaker'/2144, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-146.84, y=136.00, z=-827.74] died: Temple Breaker was shot by Pulpleito8 using [Heavy Maple Bow]
+[17:46:27] [Server thread/INFO]: Named entity cdi['Temple Breaker'/2877, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-176.70, y=113.00, z=-815.30] died: Temple Breaker was slain by TioSkrollex using [Siphonsteel]
+[17:46:34] [Server thread/INFO]: Named entity cdi['Temple Breaker'/2954, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-177.67, y=112.00, z=-815.67] died: Temple Breaker was slain by TioSkrollex using [Siphonsteel]
+[17:48:46] [Server thread/INFO]: Named entity cdi['Temple Breaker'/2769, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-159.73, y=114.00, z=-832.60] died: Temple Breaker was slain by TioSkrollex using [Compressed Magma Sword]
+[17:48:57] [Server thread/INFO]: Named entity cci['Crazed Spellcaster'/2730, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-163.53, y=118.00, z=-837.36] died: Crazed Spellcaster was blown up by Creeper

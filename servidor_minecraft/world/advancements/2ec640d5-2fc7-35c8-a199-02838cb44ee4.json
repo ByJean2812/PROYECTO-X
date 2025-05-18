@@ -380,12 +380,6 @@
     },
     "done": true
   },
-  "cartographer_custom_enchantments:passive/lifesteal": {
-    "criteria": {
-      "find": "2025-05-18 01:18:18 +0000"
-    },
-    "done": true
-  },
   "dies:used_item_frame": {
     "criteria": {
       "requirement": "2025-05-18 00:35:14 +0000"
@@ -401,6 +395,36 @@
   "cartographer_mob_abilities:active/nova": {
     "criteria": {
       "found": "2025-05-18 01:14:31 +0000"
+    },
+    "done": true
+  },
+  "cartographer_custom_enchantments:passive/lifesteal": {
+    "criteria": {
+      "find": "2025-05-18 01:18:18 +0000"
+    },
+    "done": true
+  },
+  "cartographer_custom_enchantments:other/infinity": {
+    "criteria": {
+      "find": "2025-05-18 17:28:30 +0000"
+    },
+    "done": true
+  },
+  "cartographer_custom_enchantments:passive/cauterize": {
+    "criteria": {
+      "find": "2025-05-18 17:37:27 +0000"
+    },
+    "done": true
+  },
+  "cartographer_mob_abilities:passive/other/summoner": {
+    "criteria": {
+      "found": "2025-05-18 17:35:33 +0000"
+    },
+    "done": true
+  },
+  "cartographer_mob_abilities:active/sniper_shot": {
+    "criteria": {
+      "found": "2025-05-18 17:24:05 +0000"
     },
     "done": true
   },
