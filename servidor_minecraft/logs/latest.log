@@ -234,3 +234,8 @@
 [20:03:41] [Server thread/INFO]: Named entity ccm['Sanctuary Paladin'/10580, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=304.85, y=127.00, z=-1042.23] died: Sanctuary Paladin was shot by TioSkrollex using [Fiery Boltshooter]
 [20:05:17] [Server thread/INFO]: [Pulpleito8: Teleported Pulpleito8 to TioSkrollex]
 [20:10:26] [Server thread/INFO]: Named entity ccm['Sanctuary Paladin'/11378, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=370.94, y=86.49, z=-1004.64] died: Sanctuary Paladin was slain by Pulpleito8 using [Gold Crusted Pumpkin Cutter]
+[20:13:21] [Server thread/INFO]: Named entity ccm['Sanctuary Soldier'/11781, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=216.32, y=84.00, z=-1011.27] died: Sanctuary Soldier was slain by TioSkrollex using [Basic Blade]
+[20:13:26] [Server thread/INFO]: Named entity ccm['Sanctuary Keeper'/11788, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=219.72, y=84.00, z=-1014.30] died: Sanctuary Keeper was slain by TioSkrollex using [Basic Blade]
+[20:16:49] [Server thread/INFO]: Named entity ccm['Sanctuary Soldier'/12198, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=198.74, y=88.00, z=-1085.75] died: Sanctuary Soldier was slain by TioSkrollex using [Basic Blade]
+[20:20:19] [Server thread/INFO]: Named entity ccm['Sanctuary Keeper'/12532, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=228.22, y=85.00, z=-1086.55] died: Sanctuary Keeper was slain by TioSkrollex using [Basic Blade]
+[20:22:09] [Server thread/INFO]: Named entity cdb['Lost Soul'/13028, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=275.56, y=86.31, z=-1109.73] died: Lost Soul was slain by TioSkrollex using [Basic Blade]
