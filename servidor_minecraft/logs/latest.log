@@ -430,3 +430,59 @@
 [01:20:39] [Server thread/INFO]: Named entity cbz['Flickering Wisp'/3865, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=254.73, y=154.00, z=-795.35] died: Flickering Wisp was shot by TioSkrollex using [Suspicious String Instrument]
 [01:20:47] [Server thread/ERROR]: Display entityNot a string
 [01:20:47] [Server thread/INFO]: Named entity bzc['Pulpleito8's Shade (#10)'/3803, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=164.00, y=163.74, z=-854.00] died: Pulpleito8's Shade (#10) was killed
+[01:21:53] [Server thread/INFO]: Named entity ccm['Charred Husk'/3914, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=229.55, y=155.00, z=-799.13] died: Charred Husk was slain by TioSkrollex using [Crumbling Edge]
+[01:21:57] [Server thread/INFO]: Named entity cco['Molten Blob'/3908, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=224.66, y=155.00, z=-796.82] died: Molten Blob was slain by TioSkrollex using [Crumbling Edge]
+[01:22:02] [Server thread/INFO]: Named entity cda['Ash Weaver'/3926, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=228.21, y=156.15, z=-798.99] died: Ash Weaver was slain by TioSkrollex using [Crumbling Edge]
+[01:22:02] [Server thread/INFO]: Named entity cco['Molten Blob'/3932, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=225.55, y=154.00, z=-796.74] died: death.attack.magic.item
+[01:22:06] [Server thread/INFO]: Named entity cco['Molten Blob'/3931, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=224.14, y=154.00, z=-796.13] died: Molten Blob was slain by TioSkrollex using [Crumbling Edge]
+[01:22:06] [Server thread/INFO]: Named entity cco['Molten Blob'/3933, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=224.94, y=152.00, z=-795.68] died: death.attack.magic.item
+[01:22:42] [Server thread/INFO]: Named entity ccm['Charred Husk'/3954, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=227.60, y=156.00, z=-818.87] died: Charred Husk was slain by TioSkrollex using [Crumbling Edge]
+[01:22:52] [Server thread/INFO]: Named entity ccb['Cinderbomb'/3961, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=228.50, y=155.00, z=-803.92] died: Cinderbomb was slain by TioSkrollex using [Crumbling Edge]
+[01:23:06] [Server thread/INFO]: Named entity ccm['Charred Husk'/3977, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=220.38, y=159.00, z=-832.66] died: Charred Husk was slain by TioSkrollex using [Crumbling Edge]
+[01:23:22] [Server thread/INFO]: Named entity ccx['Ashen Marksman'/3791, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=178.40, y=163.49, z=-859.80] died: Ashen Marksman was shot by Pulpleito8 using [Heavy Maple Bow]
+[01:23:25] [Server thread/INFO]: Named entity ccx['Ashen Marksman'/4020, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=224.51, y=158.50, z=-830.71] died: Ashen Marksman was slain by TioSkrollex using [Crumbling Edge]
+[01:23:25] [Server thread/INFO]: Named entity ccx['Ashen Marksman'/3790, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=179.00, y=163.49, z=-859.75] died: Ashen Marksman was shot by Pulpleito8 using [Heavy Maple Bow]
+[01:23:29] [Server thread/INFO]: Named entity cda['Ash Weaver'/4045, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=168.61, y=164.00, z=-859.24] died: Ash Weaver was shot by Pulpleito8 using [Coarsened Pickaxe]
+[01:23:31] [Server thread/INFO]: TioSkrollex was slain by Ash Weaver
+[01:23:31] [Server thread/ERROR]: Input is not a list of 4 elements
+[01:23:31] [Server thread/ERROR]: Display entityNot a string
+[01:23:58] [Server thread/INFO]: Named entity cco['Molten Blob'/4096, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=181.76, y=165.00, z=-844.71] died: Molten Blob was slain by Pulpleito8
+[01:24:00] [Server thread/INFO]: Named entity cco['Molten Blob'/4113, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=182.20, y=166.55, z=-844.57] died: Molten Blob was slain by Pulpleito8
+[01:24:01] [Server thread/INFO]: Named entity cco['Molten Blob'/4112, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=181.26, y=165.00, z=-844.43] died: Molten Blob was slain by Pulpleito8
+[01:24:02] [Server thread/INFO]: Named entity cco['Molten Blob'/4114, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=180.27, y=166.00, z=-844.27] died: Molten Blob was slain by Pulpleito8
+[01:24:03] [Server thread/ERROR]: Display entityNot a string
+[01:24:03] [Server thread/INFO]: Named entity bzc['TioSkrollex's Shade (#12)'/4055, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=224.00, y=158.74, z=-831.00] died: TioSkrollex's Shade (#12) was killed
+[01:24:40] [Server thread/INFO]: Named entity ccm['Charred Husk'/4128, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=185.52, y=165.00, z=-842.46] died: Charred Husk was shot by Pulpleito8 using [Heavy Maple Bow]
+[01:24:43] [Server thread/INFO]: Named entity ccm['Charred Husk'/4131, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=203.23, y=162.00, z=-855.34] died: Charred Husk was shot by Pulpleito8 using [Heavy Maple Bow]
+[01:24:46] [Server thread/INFO]: Named entity ccj['Infernal Spirit'/4130, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=205.57, y=174.74, z=-835.08] died: Infernal Spirit was shot by Pulpleito8 using [Heavy Maple Bow]
+[01:25:12] [Server thread/INFO]: Pulpleito8 was burned to a crisp while fighting Flickering Wisp
+[01:25:12] [Server thread/ERROR]: Input is not a list of 4 elements
+[01:25:12] [Server thread/ERROR]: Display entityNot a string
+[01:25:44] [Server thread/ERROR]: Display entityNot a string
+[01:25:44] [Server thread/INFO]: Named entity bzc['Pulpleito8's Shade (#11)'/4169, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=221.00, y=160.74, z=-838.00] died: Pulpleito8's Shade (#11) was killed
+[01:25:52] [Server thread/INFO]: Named entity cbz['Flickering Wisp'/4155, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=206.66, y=163.77, z=-840.50] died: Flickering Wisp was slain by TioSkrollex using [Crumbling Edge]
+[01:26:04] [Server thread/INFO]: Named entity ccj['Infernal Spirit'/4261, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=204.18, y=177.92, z=-844.16] died: Infernal Spirit was shot by TioSkrollex using [Suspicious String Instrument]
+[01:27:11] [Server thread/INFO]: Named entity ccj['Infernal Spirit'/4285, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=204.43, y=175.11, z=-835.15] died: Infernal Spirit was shot by TioSkrollex using [Suspicious String Instrument]
+[01:27:56] [Server thread/INFO]: Named entity ccx['Ashen Marksman'/4366, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=216.16, y=174.50, z=-830.98] died: Ashen Marksman was slain by TioSkrollex using [Crumbling Edge]
+[01:28:00] [Server thread/INFO]: TioSkrollex was slain by Scorched Sentinel
+[01:28:00] [Server thread/ERROR]: Input is not a list of 4 elements
+[01:28:00] [Server thread/ERROR]: Display entityNot a string
+[01:28:10] [Server thread/INFO]: [Pulpleito8: Teleported TioSkrollex to Pulpleito8]
+[01:28:33] [Server thread/INFO]: Named entity cdg['Scorched Sentinel'/4127, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=208.31, y=172.00, z=-819.35] died: Scorched Sentinel was shot by TioSkrollex using [Suspicious String Instrument]
+[01:28:34] [Server thread/ERROR]: Display entityNot a string
+[01:28:34] [Server thread/INFO]: Named entity bzc['TioSkrollex's Shade (#13)'/4385, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=217.00, y=174.74, z=-829.00] died: TioSkrollex's Shade (#13) was killed
+[01:28:54] [Server thread/INFO]: Named entity ccm['Charred Husk'/4452, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=216.58, y=175.49, z=-846.38] died: Charred Husk was slain by TioSkrollex using [Crumbling Edge]
+[01:28:55] [Server thread/INFO]: Named entity ccm['Charred Husk'/4453, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=216.29, y=175.49, z=-846.91] died: Charred Husk was slain by TioSkrollex using [Crumbling Edge]
+[01:29:07] [Server thread/INFO]: Named entity cco['Molten Blob'/4301, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=198.55, y=180.00, z=-853.35] died: Molten Blob was slain by TioSkrollex using [Crumbling Edge]
+[01:29:23] [Server thread/INFO]: Named entity cdg['Scorched Sentinel'/4485, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=205.84, y=179.00, z=-851.70] died: Scorched Sentinel was shot by TioSkrollex using [Suspicious String Instrument]
+[01:29:23] [Server thread/INFO]: Named entity cco['Molten Blob'/4495, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=202.26, y=180.55, z=-853.02] died: Molten Blob was shot by TioSkrollex using [Suspicious String Instrument]
+[01:29:27] [Server thread/INFO]: Named entity cco['Molten Blob'/4494, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=200.02, y=180.95, z=-852.77] died: Molten Blob was slain by TioSkrollex using [Crumbling Edge]
+[01:29:41] [Server thread/INFO]: Named entity cco['Molten Blob'/4536, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=185.52, y=183.00, z=-834.68] died: Molten Blob was slain by Pulpleito8
+[01:29:44] [Server thread/INFO]: Named entity cco['Molten Blob'/4547, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=184.27, y=183.00, z=-835.34] died: Molten Blob was slain by TioSkrollex using [Crumbling Edge]
+[01:29:44] [Server thread/INFO]: Named entity cco['Molten Blob'/4548, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=184.84, y=184.00, z=-833.73] died: death.attack.magic.item
+[01:29:44] [Server thread/INFO]: Named entity cco['Molten Blob'/4549, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=185.75, y=183.00, z=-834.29] died: death.attack.magic.item
+[01:29:46] [Server thread/INFO]: Named entity ccm['Charred Husk'/4540, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=186.57, y=183.00, z=-834.56] died: Charred Husk was slain by TioSkrollex using [Crumbling Edge]
+[01:29:56] [Server thread/INFO]: Named entity cda['Ash Weaver'/4576, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=186.99, y=184.00, z=-833.91] died: Ash Weaver was shot by Pulpleito8 using [Heavy Maple Bow]
+[01:30:06] [Server thread/INFO]: Named entity ccb['Cinderbomb'/4593, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=189.51, y=187.00, z=-820.14] died: Cinderbomb was slain by Pulpleito8
+[01:30:24] [Server thread/INFO]: Named entity ccm['Charred Husk'/4602, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=198.79, y=187.00, z=-806.87] died: Charred Husk was slain by Pulpleito8
+[01:31:12] [Server thread/INFO]: Named entity cda['Ash Weaver'/4616, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=105.64, y=173.00, z=-778.81] died: Ash Weaver was slain by TioSkrollex using [Crumbling Edge]
