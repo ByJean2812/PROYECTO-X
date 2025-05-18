@@ -386,21 +386,15 @@
     },
     "done": true
   },
+  "dies:used_item_frame": {
+    "criteria": {
+      "requirement": "2025-05-18 00:34:25 +0000"
+    },
+    "done": true
+  },
   "cartographer_mob_abilities:trait/hit/blazing": {
     "criteria": {
       "found": "2025-05-18 00:58:17 +0000"
-    },
-    "done": true
-  },
-  "cartographer_custom_enchantments:passive/frenzy": {
-    "criteria": {
-      "find": "2025-05-18 01:27:53 +0000"
-    },
-    "done": true
-  },
-  "cartographer_mob_abilities:active/smash": {
-    "criteria": {
-      "found": "2025-05-18 01:03:50 +0000"
     },
     "done": true
   },
@@ -410,15 +404,21 @@
     },
     "done": true
   },
-  "dies:used_item_frame": {
+  "cartographer_mob_abilities:active/smash": {
     "criteria": {
-      "requirement": "2025-05-18 00:34:25 +0000"
+      "found": "2025-05-18 01:03:50 +0000"
     },
     "done": true
   },
   "cartographer_mob_abilities:passive/other/breaker": {
     "criteria": {
       "found": "2025-05-18 01:03:50 +0000"
+    },
+    "done": true
+  },
+  "cartographer_custom_enchantments:passive/frenzy": {
+    "criteria": {
+      "find": "2025-05-18 01:27:53 +0000"
     },
     "done": true
   },
