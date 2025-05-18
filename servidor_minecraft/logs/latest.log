@@ -93,3 +93,27 @@
 [18:12:19] [Server thread/ERROR]: Display entityNot a string
 [18:12:19] [Server thread/INFO]: Named entity bzc['Pulpleito8's Shade (#14)'/5385, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-118.00, y=130.74, z=-766.00] died: Pulpleito8's Shade (#14) was killed
 [18:16:27] [Server thread/INFO]: Named entity ccb[''/5458, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-91.12, y=63.00, z=-718.34] died:  was doomed to fall
+[18:34:06] [Server thread/INFO]: [Pulpleito8: Teleported Pulpleito8 to TioSkrollex]
+[18:36:12] [Server thread/INFO]: [Pulpleito8: Teleported Pulpleito8 to TioSkrollex]
+[18:37:46] [Server thread/INFO]: Pulpleito8 was shot by TioSkrollex using [Duplishot]
+[18:37:46] [Server thread/ERROR]: Input is not a list of 4 elements
+[18:37:46] [Server thread/ERROR]: Display entityNot a string
+[18:37:49] [Server thread/INFO]: [Pulpleito8: Teleported Pulpleito8 to TioSkrollex]
+[18:38:18] [Server thread/ERROR]: Display entityNot a string
+[18:38:18] [Server thread/INFO]: Named entity bzc['Pulpleito8's Shade (#15)'/5680, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=54.00, y=172.74, z=-776.00] died: Pulpleito8's Shade (#15) was killed
+[18:38:40] [Server thread/INFO]: [Pulpleito8: Teleported Pulpleito8 to TioSkrollex]
+[18:38:58] [Server thread/INFO]: TioSkrollex hit the ground too hard
+[18:38:58] [Server thread/ERROR]: Input is not a list of 4 elements
+[18:38:58] [Server thread/ERROR]: Display entityNot a string
+[18:39:08] [Server thread/INFO]: Pulpleito8 hit the ground too hard
+[18:39:08] [Server thread/ERROR]: Input is not a list of 4 elements
+[18:39:08] [Server thread/ERROR]: Display entityNot a string
+[18:39:34] [Server thread/ERROR]: Display entityNot a string
+[18:39:34] [Server thread/INFO]: Named entity bzc['TioSkrollex's Shade (#17)'/5749, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=99.00, y=181.74, z=-747.00] died: TioSkrollex's Shade (#17) was killed
+[18:39:40] [Server thread/ERROR]: Display entityNot a string
+[18:39:40] [Server thread/INFO]: Named entity bzc['Pulpleito8's Shade (#16)'/5760, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=101.00, y=163.74, z=-752.00] died: Pulpleito8's Shade (#16) was killed
+[18:39:50] [Server thread/INFO]: [TioSkrollex: Teleported Pulpleito8 to TioSkrollex]
+[18:40:41] [Server thread/INFO]: TioSkrollex lost connection: Disconnected
+[18:40:41] [Server thread/INFO]: TioSkrollex left the game
+[18:40:42] [Server thread/INFO]: Pulpleito8 lost connection: Disconnected
+[18:40:42] [Server thread/INFO]: Pulpleito8 left the game
