@@ -123,3 +123,10 @@
 [19:19:59] [Server thread/INFO]: TioSkrollex joined the game
 [19:20:07] [Server thread/INFO]: Named entity ccm['Sanctuary Keeper'/6088, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=344.52, y=172.00, z=-899.10] died: Sanctuary Keeper was slain by Pulpleito8 using [Retaliatory Blade]
 [19:20:26] [Server thread/INFO]: [Pulpleito8: Teleported TioSkrollex to Pulpleito8]
+[19:23:29] [Server thread/INFO]: [Pulpleito8: Teleported TioSkrollex to Pulpleito8]
+[19:28:06] [Server thread/INFO]: Pulpleito8 hit the ground too hard
+[19:28:06] [Server thread/ERROR]: Input is not a list of 4 elements
+[19:28:06] [Server thread/ERROR]: Display entityNot a string
+[19:28:25] [Server thread/INFO]: [Pulpleito8: Teleported TioSkrollex to Pulpleito8]
+[19:28:38] [Server thread/ERROR]: Display entityNot a string
+[19:28:38] [Server thread/INFO]: Named entity bzc['Pulpleito8's Shade (#17)'/6404, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=319.00, y=156.74, z=-989.00] died: Pulpleito8's Shade (#17) was killed
