@@ -130,3 +130,32 @@
 [19:28:25] [Server thread/INFO]: [Pulpleito8: Teleported TioSkrollex to Pulpleito8]
 [19:28:38] [Server thread/ERROR]: Display entityNot a string
 [19:28:38] [Server thread/INFO]: Named entity bzc['Pulpleito8's Shade (#17)'/6404, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=319.00, y=156.74, z=-989.00] died: Pulpleito8's Shade (#17) was killed
+[19:33:41] [Server thread/INFO]: TioSkrollex was shot by Skeleton
+[19:33:41] [Server thread/ERROR]: Input is not a list of 4 elements
+[19:33:41] [Server thread/ERROR]: Display entityNot a string
+[19:33:43] [Server thread/INFO]: [Pulpleito8: Teleported TioSkrollex to Pulpleito8]
+[19:33:48] [Server thread/INFO]: [Pulpleito8: Teleported TioSkrollex to Pulpleito8]
+[19:34:16] [Server thread/ERROR]: Display entityNot a string
+[19:34:16] [Server thread/INFO]: Named entity bzc['TioSkrollex's Shade (#18)'/7121, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=263.00, y=144.74, z=-1047.00] died: TioSkrollex's Shade (#18) was killed
+[19:35:21] [Server thread/INFO]: TioSkrollex hit the ground too hard
+[19:35:22] [Server thread/ERROR]: Input is not a list of 4 elements
+[19:35:22] [Server thread/ERROR]: Display entityNot a string
+[19:35:23] [Server thread/INFO]: [Pulpleito8: Teleported TioSkrollex to Pulpleito8]
+[19:35:30] [Server thread/INFO]: [Pulpleito8: Teleported TioSkrollex to Pulpleito8]
+[19:35:55] [Server thread/ERROR]: Display entityNot a string
+[19:35:55] [Server thread/INFO]: Named entity bzc['TioSkrollex's Shade (#19)'/7330, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=262.00, y=146.74, z=-1047.00] died: TioSkrollex's Shade (#19) was killed
+[19:38:07] [Server thread/INFO]: TioSkrollex burned to death
+[19:38:07] [Server thread/ERROR]: Input is not a list of 4 elements
+[19:38:07] [Server thread/ERROR]: Display entityNot a string
+[19:38:26] [Server thread/INFO]: [Pulpleito8: Teleported TioSkrollex to Pulpleito8]
+[19:38:39] [Server thread/ERROR]: Display entityNot a string
+[19:38:39] [Server thread/INFO]: Named entity bzc['TioSkrollex's Shade (#20)'/7746, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=209.00, y=136.74, z=-1055.00] died: TioSkrollex's Shade (#20) was killed
+[19:39:54] [Server thread/INFO]: TioSkrollex hit the ground too hard while trying to escape Skeleton
+[19:39:54] [Server thread/ERROR]: Input is not a list of 4 elements
+[19:39:54] [Server thread/ERROR]: Display entityNot a string
+[19:40:16] [Server thread/INFO]: [Pulpleito8: Teleported TioSkrollex to Pulpleito8]
+[19:40:22] [Server thread/INFO]: [Pulpleito8: Teleported TioSkrollex to Pulpleito8]
+[19:40:30] [Server thread/INFO]: [Pulpleito8: Teleported TioSkrollex to Pulpleito8]
+[19:40:48] [Server thread/ERROR]: Display entityNot a string
+[19:40:48] [Server thread/INFO]: Named entity bzc['TioSkrollex's Shade (#21)'/8032, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=174.00, y=131.74, z=-1052.00] died: TioSkrollex's Shade (#21) was killed
+[19:42:40] [Server thread/INFO]: Named entity cdg['Flamewalker'/8270, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=175.41, y=131.00, z=-1050.66] died: Flamewalker was shot by TioSkrollex using [Duplishot]
