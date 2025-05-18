@@ -386,6 +386,18 @@
     },
     "done": true
   },
+  "cartographer_mob_abilities:trait/hit/blazing": {
+    "criteria": {
+      "found": "2025-05-18 00:58:17 +0000"
+    },
+    "done": true
+  },
+  "cartographer_mob_abilities:passive/other/touch": {
+    "criteria": {
+      "found": "2025-05-18 00:58:17 +0000"
+    },
+    "done": true
+  },
   "dies:used_item_frame": {
     "criteria": {
       "requirement": "2025-05-18 00:34:25 +0000"
