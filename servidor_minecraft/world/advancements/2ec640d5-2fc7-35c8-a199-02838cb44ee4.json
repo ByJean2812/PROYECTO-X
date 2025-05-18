@@ -422,6 +422,12 @@
     },
     "done": true
   },
+  "cartographer_mob_abilities:passive/other/breaker": {
+    "criteria": {
+      "found": "2025-05-18 17:46:27 +0000"
+    },
+    "done": true
+  },
   "cartographer_mob_abilities:active/sniper_shot": {
     "criteria": {
       "found": "2025-05-18 17:24:05 +0000"
