@@ -46,3 +46,78 @@
 [00:26:03] [Server thread/INFO]: TioSkrollex joined the game
 [00:26:12] [Server thread/INFO]: Pulpleito8[/127.4.210.242:53579] logged in with entity id 264 at (-18.54382398747149, 160.0, -300.2844116619576)
 [00:26:12] [Server thread/INFO]: Pulpleito8 joined the game
+[00:32:35] [Server thread/INFO]: [Pulpleito8: The difficulty has been set to Hard]
+[00:33:58] [Server thread/ERROR]: Display entityNot a string
+[00:33:58] [Server thread/ERROR]: Display entityNot a string
+[00:33:58] [Server thread/ERROR]: Display entityNot a string
+[00:34:03] [Server thread/INFO]: Named entity ccm['Charred Husk'/428, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=75.20, y=93.00, z=-540.80] died: Charred Husk was slain by Pulpleito8 using [Sharpened Twig]
+[00:34:20] [Server thread/INFO]: Named entity ccm['Charred Husk'/451, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=76.67, y=96.00, z=-554.31] died: Charred Husk was slain by Pulpleito8 using [Sharpened Twig]
+[00:34:50] [Server thread/INFO]: Named entity cda['Ash Weaver'/465, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=77.76, y=94.09, z=-539.66] died: Ash Weaver was shot by Pulpleito8 using [Heavy Maple Bow]
+[00:34:54] [Server thread/INFO]: Named entity cda['Ash Weaver'/464, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=78.76, y=93.00, z=-539.91] died: Ash Weaver was slain by Pulpleito8 using [Sharpened Twig]
+[00:35:05] [Server thread/INFO]: Named entity ccm['Charred Husk'/463, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=80.45, y=93.00, z=-546.54] died: Charred Husk was slain by Pulpleito8 using [Sharpened Twig]
+[00:35:06] [Server thread/INFO]: Named entity ccm['Charred Husk'/462, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=80.58, y=92.49, z=-544.59] died: Charred Husk was slain by Pulpleito8 using [Sharpened Twig]
+[00:35:48] [Server thread/INFO]: Named entity cco['Molten Blob'/503, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=54.41, y=95.15, z=-559.96] died: Molten Blob was slain by TioSkrollex using [Operatic Blade]
+[00:35:55] [Server thread/INFO]: Named entity cda['Ash Weaver'/507, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=57.53, y=94.00, z=-558.10] died: Ash Weaver was shot by Pulpleito8 using [Heavy Maple Bow]
+[00:35:56] [Server thread/INFO]: Named entity cda['Ash Weaver'/508, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=57.18, y=94.31, z=-556.25] died: Ash Weaver was slain by TioSkrollex using [Operatic Blade]
+[00:36:03] [Server thread/INFO]: Named entity cco['Molten Blob'/512, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=53.56, y=94.00, z=-560.96] died: Molten Blob was slain by TioSkrollex using [Operatic Blade]
+[00:36:05] [Server thread/INFO]: Named entity cco['Molten Blob'/514, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=53.08, y=94.00, z=-560.29] died: Molten Blob was slain by TioSkrollex using [Operatic Blade]
+[00:36:05] [Server thread/INFO]: Named entity cco['Molten Blob'/513, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=54.04, y=94.00, z=-560.53] died: Molten Blob was slain by TioSkrollex using [Operatic Blade]
+[00:36:08] [Server thread/INFO]: Named entity cco['Molten Blob'/511, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=51.21, y=94.00, z=-561.21] died: Molten Blob was slain by TioSkrollex using [Operatic Blade]
+[00:36:19] [Server thread/INFO]: Named entity cbz['Flickering Wisp'/549, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=71.61, y=96.13, z=-571.47] died: Flickering Wisp was shot by Pulpleito8 using [Heavy Maple Bow]
+[00:36:21] [Server thread/INFO]: Named entity cbz['Flickering Wisp'/550, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=77.39, y=96.00, z=-574.78] died: Flickering Wisp was shot by Pulpleito8 using [Heavy Maple Bow]
+[00:36:45] [Server thread/INFO]: Named entity cco['Molten Blob'/565, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=102.80, y=93.00, z=-576.31] died: Molten Blob was slain by Pulpleito8 using [Sharpened Twig]
+[00:36:49] [Server thread/INFO]: Named entity ccm['Charred Husk'/571, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=91.69, y=94.00, z=-587.79] died: Charred Husk was slain by TioSkrollex using [Operatic Blade]
+[00:36:53] [Server thread/INFO]: Named entity cco['Molten Blob'/566, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=98.82, y=93.00, z=-578.08] died: Molten Blob was slain by Pulpleito8 using [Sharpened Twig]
+[00:36:53] [Server thread/INFO]: TioSkrollex was shot by Ashen Marksman
+[00:36:53] [Server thread/ERROR]: Input is not a list of 4 elements
+[00:36:53] [Server thread/ERROR]: Display entityNot a string
+[00:37:08] [Server thread/INFO]: Named entity ccx['Ashen Marksman'/584, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=92.49, y=94.00, z=-589.18] died: Ashen Marksman was slain by TioSkrollex using [Operatic Blade]
+[00:37:14] [Server thread/INFO]: Named entity ccx['Ashen Marksman'/585, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=88.78, y=95.00, z=-590.38] died: Ashen Marksman was slain by TioSkrollex using [Operatic Blade]
+[00:37:15] [Server thread/INFO]: Named entity cco['Molten Blob'/580, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=100.91, y=93.00, z=-577.94] died: Molten Blob was slain by Pulpleito8 using [Sharpened Twig]
+[00:37:16] [Server thread/INFO]: Named entity cco['Molten Blob'/582, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=101.89, y=93.00, z=-575.50] died: Molten Blob was slain by Pulpleito8 using [Sharpened Twig]
+[00:37:16] [Server thread/INFO]: Named entity cco['Molten Blob'/567, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=105.86, y=92.00, z=-575.87] died: Molten Blob was slain by Pulpleito8 using [Sharpened Twig]
+[00:37:17] [Server thread/INFO]: Named entity cco['Molten Blob'/581, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=105.87, y=92.00, z=-577.53] died: Molten Blob was slain by Pulpleito8 using [Sharpened Twig]
+[00:37:19] [Server thread/INFO]: Named entity cco['Molten Blob'/612, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=100.27, y=93.00, z=-580.67] died: Molten Blob was slain by Pulpleito8 using [Sharpened Twig]
+[00:37:21] [Server thread/INFO]: Named entity cco['Molten Blob'/611, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=99.26, y=93.00, z=-581.96] died: Molten Blob was slain by Pulpleito8 using [Sharpened Twig]
+[00:37:23] [Server thread/INFO]: Named entity cco['Molten Blob'/610, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=102.00, y=93.00, z=-582.53] died: Molten Blob was slain by Pulpleito8 using [Coarsened Pickaxe]
+[00:37:24] [Server thread/INFO]: TioSkrollex was slain by Charred Husk
+[00:37:24] [Server thread/ERROR]: Input is not a list of 4 elements
+[00:37:24] [Server thread/ERROR]: Display entityNot a string
+[00:37:25] [Server thread/INFO]: Named entity cco['Molten Blob'/609, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=98.74, y=93.00, z=-583.01] died: Molten Blob was slain by Pulpleito8 using [Coarsened Pickaxe]
+[00:37:28] [Server thread/INFO]: Named entity cbz['Flickering Wisp'/595, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=102.47, y=92.31, z=-591.22] died: Flickering Wisp was shot by Pulpleito8 using [Heavy Maple Bow]
+[00:37:29] [Server thread/ERROR]: Display entityNot a string
+[00:37:29] [Server thread/INFO]: Named entity bzc['TioSkrollex's Shade (#7)'/605, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=92.00, y=94.74, z=-589.00] died: TioSkrollex's Shade (#7) was killed
+[00:37:30] [Server thread/INFO]: Named entity cbz['Flickering Wisp'/597, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=100.22, y=95.06, z=-594.26] died: Flickering Wisp was shot by Pulpleito8 using [Heavy Maple Bow]
+[00:37:31] [Server thread/INFO]: Named entity cbz['Flickering Wisp'/596, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=105.83, y=94.09, z=-594.30] died: Flickering Wisp was shot by Pulpleito8 using [Heavy Maple Bow]
+[00:37:42] [Server thread/INFO]: Named entity ccm['Charred Husk'/675, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=92.29, y=94.00, z=-589.73] died: Charred Husk was slain by TioSkrollex using [Blackstone Sword]
+[00:37:56] [Server thread/ERROR]: Display entityNot a string
+[00:37:56] [Server thread/INFO]: Named entity bzc['TioSkrollex's Shade (#8)'/683, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=93.00, y=94.74, z=-590.00] died: TioSkrollex's Shade (#8) was killed
+[00:38:34] [Server thread/INFO]: Named entity ccm['Charred Husk'/785, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=121.86, y=94.00, z=-607.01] died: Charred Husk was slain by TioSkrollex using [Operatic Blade]
+[00:38:36] [Server thread/INFO]: Named entity ccm['Charred Husk'/784, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=123.04, y=94.00, z=-607.07] died: Charred Husk was slain by TioSkrollex using [Operatic Blade]
+[00:38:41] [Server thread/INFO]: Named entity cco['Molten Blob'/786, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=125.32, y=95.00, z=-617.54] died: Molten Blob was slain by Pulpleito8 using [Sharpened Twig]
+[00:38:45] [Server thread/INFO]: Named entity cco['Molten Blob'/806, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=124.81, y=95.00, z=-618.74] died: Molten Blob was slain by Pulpleito8 using [Sharpened Twig]
+[00:38:46] [Server thread/INFO]: Named entity cco['Molten Blob'/807, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=125.74, y=95.00, z=-618.67] died: Molten Blob was slain by Pulpleito8 using [Sharpened Twig]
+[00:39:11] [Server thread/INFO]: Named entity cda['Ash Weaver'/814, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=125.36, y=94.94, z=-626.63] died: Ash Weaver was slain by Pulpleito8 using [Sharpened Twig]
+[00:39:14] [Server thread/INFO]: Named entity ccm['Charred Husk'/815, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=123.65, y=93.49, z=-632.34] died: Charred Husk was slain by Pulpleito8 using [Sharpened Twig]
+[00:39:33] [Server thread/INFO]: Named entity cco['Molten Blob'/847, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=124.41, y=96.00, z=-652.32] died: Molten Blob was slain by Pulpleito8 using [Sharpened Twig]
+[00:39:36] [Server thread/INFO]: Named entity ccm['Charred Husk'/842, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=49.51, y=96.00, z=-581.86] died: Charred Husk was shot by TioSkrollex using [Suspicious String Instrument]
+[00:39:42] [Server thread/INFO]: Named entity cco['Molten Blob'/844, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=52.84, y=96.00, z=-589.78] died: Molten Blob was slain by TioSkrollex using [Operatic Blade]
+[00:39:47] [Server thread/INFO]: Named entity cbz['Flickering Wisp'/856, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=118.50, y=96.00, z=-657.81] died: Flickering Wisp was shot by Pulpleito8 using [Heavy Maple Bow]
+[00:39:51] [Server thread/INFO]: Pulpleito8 was burned to a crisp while fighting Flickering Wisp
+[00:39:51] [Server thread/INFO]: Named entity cco['Molten Blob'/846, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=51.80, y=96.00, z=-588.50] died: Molten Blob was slain by TioSkrollex using [Operatic Blade]
+[00:39:51] [Server thread/ERROR]: Input is not a list of 4 elements
+[00:39:51] [Server thread/ERROR]: Display entityNot a string
+[00:39:52] [Server thread/INFO]: Named entity cco['Molten Blob'/905, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=54.08, y=96.04, z=-589.45] died: Molten Blob was slain by TioSkrollex using [Operatic Blade]
+[00:39:52] [Server thread/INFO]: Named entity cco['Molten Blob'/877, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=54.28, y=96.00, z=-588.17] died: Molten Blob was slain by TioSkrollex using [Operatic Blade]
+[00:39:52] [Server thread/INFO]: Named entity cco['Molten Blob'/878, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=54.63, y=96.00, z=-589.36] died: Molten Blob was slain by TioSkrollex using [Operatic Blade]
+[00:39:52] [Server thread/INFO]: Named entity cco['Molten Blob'/904, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=53.33, y=96.04, z=-589.56] died: Molten Blob was slain by TioSkrollex using [Operatic Blade]
+[00:39:52] [Server thread/INFO]: Named entity cco['Molten Blob'/906, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=53.45, y=96.04, z=-588.76] died: Molten Blob was slain by TioSkrollex using [Operatic Blade]
+[00:39:52] [Server thread/INFO]: Named entity cco['Molten Blob'/907, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=54.28, y=96.04, z=-588.75] died: Molten Blob was slain by TioSkrollex using [Operatic Blade]
+[00:39:52] [Server thread/ERROR]: Display entityNot a string
+[00:39:52] [Server thread/ERROR]: Display entityNot a string
+[00:39:53] [Server thread/INFO]: Named entity cco['Molten Blob'/879, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=54.16, y=98.84, z=-587.97] died: Molten Blob was slain by TioSkrollex using [Operatic Blade]
+[00:39:55] [Server thread/INFO]: Named entity cco['Molten Blob'/845, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=50.68, y=96.00, z=-589.03] died: Molten Blob was slain by TioSkrollex using [Operatic Blade]
+[00:39:59] [Server thread/INFO]: Named entity cco['Molten Blob'/968, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=49.42, y=96.00, z=-590.21] died: Molten Blob was slain by TioSkrollex using [Operatic Blade]
+[00:40:01] [Server thread/INFO]: Named entity cco['Molten Blob'/967, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=48.53, y=96.00, z=-590.45] died: Molten Blob was slain by TioSkrollex using [Operatic Blade]
+[00:40:24] [Server thread/ERROR]: Display entityNot a string
+[00:40:24] [Server thread/INFO]: Named entity bzc['Pulpleito8's Shade (#6)'/900, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=127.00, y=94.74, z=-633.00] died: Pulpleito8's Shade (#6) was killed
