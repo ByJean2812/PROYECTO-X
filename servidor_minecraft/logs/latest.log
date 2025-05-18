@@ -87,3 +87,9 @@
 [18:06:04] [Server thread/INFO]: Named entity cci['Crazed Spellcaster'/5147, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-169.30, y=126.00, z=-818.70] died: Crazed Spellcaster was shot by Pulpleito8 using [Darkened Bow]
 [18:06:48] [Server thread/INFO]: Named entity cci['Crazed Spellcaster'/5173, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-169.30, y=124.00, z=-814.70] died: Crazed Spellcaster was shot by Pulpleito8 using [Darkened Bow]
 [18:07:07] [Server thread/INFO]: Named entity cci['Crazed Spellcaster'/5191, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-172.70, y=126.00, z=-812.30] died: Crazed Spellcaster was shot by Pulpleito8 using [Darkened Bow]
+[18:11:47] [Server thread/INFO]: Pulpleito8 was slain by Spider
+[18:11:47] [Server thread/ERROR]: Input is not a list of 4 elements
+[18:11:47] [Server thread/ERROR]: Display entityNot a string
+[18:12:19] [Server thread/ERROR]: Display entityNot a string
+[18:12:19] [Server thread/INFO]: Named entity bzc['Pulpleito8's Shade (#14)'/5385, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-118.00, y=130.74, z=-766.00] died: Pulpleito8's Shade (#14) was killed
+[18:16:27] [Server thread/INFO]: Named entity ccb[''/5458, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-91.12, y=63.00, z=-718.34] died:  was doomed to fall
