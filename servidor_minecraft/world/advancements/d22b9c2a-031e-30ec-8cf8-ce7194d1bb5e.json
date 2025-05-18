@@ -422,5 +422,11 @@
     },
     "done": true
   },
+  "cartographer_mob_abilities:active/nova": {
+    "criteria": {
+      "found": "2025-05-18 01:34:55 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3700
 }
