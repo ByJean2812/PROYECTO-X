@@ -380,9 +380,31 @@
     },
     "done": true
   },
+  "entityid:entity_hurt_player": {
+    "criteria": {
+      "bypasses_armor": "2025-05-18 00:50:35 +0000",
+      "burns_armor_stands": "2025-05-18 00:50:35 +0000",
+      "bypasses_shield": "2025-05-18 00:50:35 +0000",
+      "is_fire": "2025-05-18 00:50:35 +0000",
+      "entity": "2025-05-18 00:50:35 +0000"
+    },
+    "done": false
+  },
   "dies:used_item_frame": {
     "criteria": {
       "requirement": "2025-05-18 00:35:14 +0000"
+    },
+    "done": true
+  },
+  "cartographer_custom_enchantments:second_wind_projectile": {
+    "criteria": {
+      "requirement": "2025-05-18 00:50:35 +0000"
+    },
+    "done": true
+  },
+  "cartographer_custom_enchantments:second_wind_explosion": {
+    "criteria": {
+      "requirement": "2025-05-18 00:50:35 +0000"
     },
     "done": true
   },
