@@ -143,3 +143,6 @@
 [03:15:29] [Server thread/INFO]: Named entity ccx['Froggy Mutant'/4191, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=502.32, y=95.00, z=-1038.46] died: Froggy Mutant was slain by Pulpleito8 using [Hunting Machete]
 [03:15:36] [Server thread/INFO]: [Pulpleito8: Teleported Pulpleito8 to TioSkrollex]
 [03:15:47] [Server thread/INFO]: [Pulpleito8: Teleported Pulpleito8 to TioSkrollex]
+[03:25:46] [Server thread/INFO]: TioSkrollex hit the ground too hard
+[03:25:46] [Server thread/ERROR]: Input is not a list of 4 elements
+[03:25:46] [Server thread/ERROR]: Display entityNot a string
