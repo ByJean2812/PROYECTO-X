@@ -488,12 +488,6 @@
     },
     "done": true
   },
-  "entityid:entity_hurt_player": {
-    "criteria": {
-      "avoids_guardian_thorns": "2025-05-20 04:05:17 +0000"
-    },
-    "done": false
-  },
   "cartographer_mob_abilities:active/duplicator": {
     "criteria": {
       "found": "2025-05-20 03:43:10 +0000"
@@ -522,6 +516,12 @@
   "cartographer_mob_abilities:active/spin_shot": {
     "criteria": {
       "found": "2025-05-20 03:44:28 +0000"
+    },
+    "done": true
+  },
+  "cartographer_mob_abilities:active/volley": {
+    "criteria": {
+      "found": "2025-05-20 04:13:46 +0000"
     },
     "done": true
   },
