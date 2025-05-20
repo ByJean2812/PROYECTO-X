@@ -81,3 +81,65 @@
 [02:49:00] [Server thread/INFO]: [Pulpleito8: Teleported Pulpleito8 to TioSkrollex]
 [02:52:48] [Server thread/INFO]: Named entity ccm['Sanctuary Soldier'/2242, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=287.38, y=108.00, z=-1210.51] died: Sanctuary Soldier was slain by Pulpleito8 using [Big Bonk]
 [02:55:25] [Server thread/INFO]: Named entity ccm['Sanctuary Paladin'/2525, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=295.22, y=118.00, z=-1165.75] died: Sanctuary Paladin was slain by Pulpleito8 using [Hunting Machete]
+[02:59:22] [Server thread/INFO]: Named entity ccm['Sanctuary Paladin'/2907, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=300.72, y=140.92, z=-1173.99] died: Sanctuary Paladin was slain by TioSkrollex using [Shimmering Blade]
+[03:00:56] [Server thread/INFO]: Pulpleito8 hit the ground too hard
+[03:00:56] [Server thread/ERROR]: Input is not a list of 4 elements
+[03:00:56] [Server thread/ERROR]: Display entityNot a string
+[03:01:08] [Server thread/INFO]: [Pulpleito8: Teleported Pulpleito8 to TioSkrollex]
+[03:01:21] [Server thread/INFO]: TioSkrollex hit the ground too hard
+[03:01:21] [Server thread/ERROR]: Input is not a list of 4 elements
+[03:01:21] [Server thread/ERROR]: Display entityNot a string
+[03:01:26] [Server thread/INFO]: [Pulpleito8: Teleported TioSkrollex to Pulpleito8]
+[03:01:30] [Server thread/ERROR]: Display entityNot a string
+[03:01:30] [Server thread/INFO]: Named entity bzc['Pulpleito8's Shade (#20)'/3151, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=282.00, y=166.74, z=-1227.00] died: Pulpleito8's Shade (#20) was killed
+[03:01:53] [Server thread/ERROR]: Display entityNot a string
+[03:01:53] [Server thread/INFO]: Named entity bzc['TioSkrollex's Shade (#30)'/3265, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=279.00, y=166.74, z=-1231.00] died: TioSkrollex's Shade (#30) was killed
+[03:04:30] [Server thread/INFO]: Named entity cdb['Lost Soul'/3442, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=311.65, y=84.00, z=-978.30] died: Lost Soul was slain by Pulpleito8 using [Hunting Machete]
+[03:07:37] [Server thread/INFO]: [Pulpleito8: Teleported Pulpleito8 to TioSkrollex]
+[03:09:08] [Server thread/INFO]: [Pulpleito8: Teleported TioSkrollex to Pulpleito8]
+[03:09:47] [Server thread/INFO]: Named entity ccx['Froggy Mutant'/3732, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=513.64, y=132.00, z=-1063.09] died: Froggy Mutant was slain by Pulpleito8 using [Hunting Machete]
+[03:10:00] [Server thread/INFO]: Named entity ccm['Sanctuary Keeper'/3731, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=494.35, y=134.00, z=-1043.49] died: Sanctuary Keeper was blown up by Creeper
+[03:10:06] [Server thread/INFO]: Named entity ccx['Froggy Mutant'/3755, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=487.21, y=134.00, z=-1037.34] died: Froggy Mutant was blown up by Creeper
+[03:10:06] [Server thread/INFO]: Named entity ccx['Froggy Mutant'/3754, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=485.66, y=133.00, z=-1039.00] died: Froggy Mutant was blown up by Creeper
+[03:10:06] [Server thread/INFO]: Named entity ccx['Froggy Mutant'/3753, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=486.35, y=133.42, z=-1038.30] died: Froggy Mutant was blown up by Creeper
+[03:10:09] [Server thread/INFO]: Named entity ccx['Froggy Mutant'/3764, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=509.49, y=133.53, z=-1061.54] died: Froggy Mutant was slain by Pulpleito8 using [Hunting Machete]
+[03:10:11] [Server thread/INFO]: Named entity ccx['Froggy Mutant'/3766, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=508.25, y=133.95, z=-1057.07] died: Froggy Mutant was slain by Pulpleito8 using [Hunting Machete]
+[03:10:14] [Server thread/INFO]: Named entity ccx['Froggy Mutant'/3763, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=509.83, y=133.00, z=-1060.50] died: Froggy Mutant was slain by Pulpleito8 using [Hunting Machete]
+[03:10:42] [Server thread/INFO]: Named entity ccx['Froggy Mutant'/3765, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=501.99, y=131.00, z=-1035.95] died: Froggy Mutant was slain by Pulpleito8 using [Hunting Machete]
+[03:10:52] [Server thread/INFO]: Named entity ccx['Froggy Mutant'/3752, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=505.98, y=133.00, z=-1023.35] died: Froggy Mutant was slain by Pulpleito8 using [Hunting Machete]
+[03:11:00] [Server thread/INFO]: Named entity ccx['Froggy Mutant'/3874, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=502.84, y=133.00, z=-1028.43] died: Froggy Mutant was slain by Pulpleito8 using [Hunting Machete]
+[03:11:18] [Server thread/INFO]: TioSkrollex hit the ground too hard
+[03:11:18] [Server thread/ERROR]: Input is not a list of 4 elements
+[03:11:18] [Server thread/ERROR]: Display entityNot a string
+[03:11:25] [Server thread/INFO]: [Pulpleito8: Teleported TioSkrollex to Pulpleito8]
+[03:11:50] [Server thread/ERROR]: Display entityNot a string
+[03:11:50] [Server thread/INFO]: Named entity bzc['TioSkrollex's Shade (#31)'/3899, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=523.00, y=133.74, z=-1041.00] died: TioSkrollex's Shade (#31) was killed
+[03:12:05] [Server thread/INFO]: Named entity ccx['Froggy Mutant'/3890, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=517.23, y=86.00, z=-1035.30] died: Froggy Mutant fell from a high place
+[03:12:34] [Server thread/INFO]: Named entity ccx['Froggy Mutant'/3891, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=518.81, y=84.00, z=-1035.75] died: Froggy Mutant fell from a high place
+[03:12:36] [Server thread/INFO]: Named entity ccx['Froggy Mutant'/3893, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=521.69, y=87.00, z=-1035.38] died: Froggy Mutant fell from a high place
+[03:13:20] [Server thread/INFO]: Named entity ccx['Froggy Mutant'/4160, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=500.44, y=95.00, z=-1049.24] died: Froggy Mutant was burned to a crisp while fighting TioSkrollex
+[03:13:20] [Server thread/INFO]: Named entity ccx['Froggy Mutant'/4159, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=503.08, y=95.00, z=-1050.37] died: Froggy Mutant was slain by TioSkrollex using [Shimmering Blade]
+[03:13:41] [Server thread/INFO]: Named entity ccx['Froggy Mutant'/4134, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=516.68, y=86.00, z=-1036.55] died: Froggy Mutant was slain by Froggy Mutant
+[03:13:45] [Server thread/INFO]: [Pulpleito8: Teleported TioSkrollex to Pulpleito8]
+[03:13:50] [Server thread/INFO]: Named entity ccx['Froggy Mutant'/4209, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=505.83, y=84.00, z=-1048.94] died: Froggy Mutant was slain by TioSkrollex using [Shimmering Blade]
+[03:13:52] [Server thread/INFO]: Named entity ccx['Froggy Mutant'/4210, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=509.39, y=84.00, z=-1044.96] died: Froggy Mutant was shot by Froggy Mutant
+[03:14:01] [Server thread/INFO]: Pulpleito8 was slain by Froggy Mutant
+[03:14:01] [Server thread/ERROR]: Input is not a list of 4 elements
+[03:14:01] [Server thread/ERROR]: Display entityNot a string
+[03:14:05] [Server thread/INFO]: [Pulpleito8: Teleported Pulpleito8 to TioSkrollex]
+[03:14:11] [Server thread/INFO]: Named entity ccx['Froggy Mutant'/4208, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=504.30, y=85.00, z=-1052.70] died: Froggy Mutant was shot by Froggy Mutant
+[03:14:11] [Server thread/INFO]: Named entity ccx['Froggy Mutant'/4218, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=509.58, y=83.00, z=-1047.66] died: death.attack.magic.item
+[03:14:11] [Server thread/INFO]: Named entity ccx['Froggy Mutant'/4135, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=504.30, y=85.00, z=-1051.97] died: Froggy Mutant was slain by Pulpleito8 using [Hunting Machete]
+[03:14:18] [Server thread/INFO]: Named entity ccx['Froggy Mutant'/4278, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=508.20, y=84.00, z=-1052.47] died: Froggy Mutant was slain by TioSkrollex using [Shimmering Blade]
+[03:14:20] [Server thread/INFO]: Named entity ccx['Froggy Mutant'/4285, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=519.89, y=84.00, z=-1045.12] died: Froggy Mutant was shot by Froggy Mutant
+[03:14:21] [Server thread/INFO]: Named entity ccx['Froggy Mutant'/4277, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=508.78, y=84.00, z=-1050.73] died: Froggy Mutant was burned to a crisp while fighting TioSkrollex
+[03:14:30] [Server thread/INFO]: Named entity ccx['Froggy Mutant'/4283, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=520.86, y=84.00, z=-1046.70] died: Froggy Mutant was slain by TioSkrollex using [Shimmering Blade]
+[03:14:32] [Server thread/INFO]: Named entity ccx['Froggy Mutant'/4323, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=520.33, y=84.00, z=-1049.85] died: Froggy Mutant was shot by Pulpleito8 using [Darkened Bow]
+[03:14:33] [Server thread/ERROR]: Display entityNot a string
+[03:14:33] [Server thread/INFO]: Named entity bzc['Pulpleito8's Shade (#21)'/4242, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=503.00, y=96.74, z=-1038.00] died: Pulpleito8's Shade (#21) was killed
+[03:14:34] [Server thread/INFO]: Named entity ccx['Froggy Mutant'/4161, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=521.26, y=84.00, z=-1046.70] died: Froggy Mutant was slain by TioSkrollex using [Shimmering Blade]
+[03:14:43] [Server thread/INFO]: Named entity ccx['Froggy Mutant'/4284, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=518.54, y=84.00, z=-1051.70] died: Froggy Mutant was slain by TioSkrollex using [Shimmering Blade]
+[03:15:28] [Server thread/INFO]: Named entity ccx['Froggy Mutant'/4190, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=500.88, y=95.00, z=-1039.02] died: Froggy Mutant was slain by Pulpleito8 using [Hunting Machete]
+[03:15:29] [Server thread/INFO]: Named entity ccx['Froggy Mutant'/4191, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=502.32, y=95.00, z=-1038.46] died: Froggy Mutant was slain by Pulpleito8 using [Hunting Machete]
+[03:15:36] [Server thread/INFO]: [Pulpleito8: Teleported Pulpleito8 to TioSkrollex]
+[03:15:47] [Server thread/INFO]: [Pulpleito8: Teleported Pulpleito8 to TioSkrollex]
