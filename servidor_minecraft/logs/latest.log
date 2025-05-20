@@ -1,241 +1,55 @@
-[17:11:05] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[17:11:08] [Worker-Main-3/ERROR]: Couldn't load tag delta:no_collision as it is missing following references: minecraft:grass (from file/delta_datapack.zip)
-[17:11:10] [ServerMain/INFO]: Loaded 7 recipes
-[17:11:10] [ServerMain/ERROR]: Couldn't load tag minecraft:cartographer/events/enchantments/ranged/frost as it is missing following references: cartographer_custom_enchantments:events/debug/enchantments/ranged/frost (from file/Cartographer - Custom Enchantments.zip)
-[17:11:10] [ServerMain/INFO]: Loaded 344 advancements
-[17:11:10] [ServerMain/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:block] are present in data pack: bb:raycast
-[17:11:11] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[17:11:11] [Server thread/INFO]: Loading properties
-[17:11:11] [Server thread/INFO]: Default game type: SURVIVAL
-[17:11:11] [Server thread/INFO]: Generating keypair
-[17:11:11] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:11:11] [Server thread/INFO]: Using epoll channel type
-[17:11:11] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:11:11] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:11:11] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:11:11] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:11:11] [Server thread/INFO]: Preparing level "world"
-[17:11:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:11:14] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[17:11:14] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[17:11:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:11:14] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[17:11:14] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[17:11:14] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[17:11:14] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[17:11:15] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[17:11:15] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[17:11:16] [Worker-Main-2/INFO]: Preparing spawn area: 24%
-[17:11:16] [Server thread/INFO]: Time elapsed: 4985 ms
-[17:11:16] [Server thread/INFO]: Done (5.147s)! For help, type "help"
-[17:11:23] [Server thread/WARN]: UUID of added entity already exists: ccx['Skeleton'/112, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-1030.50, y=-0.50, z=-1030.50]
-[17:11:23] [Server thread/WARN]: UUID of added entity already exists: cbk['Armor Stand'/113, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-1030.50, y=-0.50, z=-1030.50]
-[17:11:23] [Server thread/WARN]: UUID of added entity already exists: bmm['Marker'/114, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-1030.50, y=-0.50, z=-1030.50]
-[17:11:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6629ms or 132 ticks behind
-[17:11:25] [Server thread/WARN]: UUID of added entity already exists: bmm['Marker'/247, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=4206900.50, y=0.00, z=4206900.50]
-[17:11:25] [Server thread/WARN]: UUID of added entity already exists: cbk['Armor Stand'/248, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=4206900.50, y=0.00, z=4206900.50]
-[17:11:25] [Server thread/WARN]: UUID of added entity already exists: bmm['Marker'/249, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=4206900.50, y=50.00, z=4206900.50]
-[17:11:25] [Server thread/WARN]: UUID of added entity already exists: bmm['Marker'/250, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=4206900.50, y=50.00, z=4206900.50]
-[17:11:25] [Server thread/WARN]: UUID of added entity already exists: bmm['Marker'/251, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=4206900.50, y=50.00, z=4206900.50]
-[17:11:25] [Server thread/WARN]: UUID of added entity already exists: bmm['Marker'/252, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=4206900.50, y=60.00, z=4206900.50]
-[17:11:25] [Server thread/WARN]: UUID of added entity already exists: bmm['Marker'/253, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=4206900.50, y=128.00, z=4206900.50]
-[17:11:25] [Server thread/WARN]: UUID of added entity already exists: cbk['Armor Stand'/254, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=4206900.50, y=180.00, z=4206900.50]
-[17:11:25] [Server thread/WARN]: UUID of added entity already exists: cbk['Armor Stand'/255, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=4206900.50, y=180.00, z=4206900.50]
-[17:11:25] [Server thread/WARN]: UUID of added entity already exists: bmm['Marker'/256, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=4206900.50, y=-1.00, z=4206900.50]
-[17:11:25] [Server thread/WARN]: UUID of added entity already exists: bmm['Marker'/278, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=0.00, y=0.00, z=0.00]
-[17:11:25] [Server thread/WARN]: UUID of added entity already exists: bmm['Marker'/280, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=0.07, y=-0.01, z=0.07]
-[17:12:34] [Server thread/INFO]: Pulpleito8[/127.4.210.242:43377] logged in with entity id 329 at (297.2821288617795, 195.0, -760.1496570294515)
-[17:12:34] [Server thread/INFO]: Pulpleito8 joined the game
-[17:22:36] [Server thread/INFO]: TioSkrollex[/127.54.56.198:55565] logged in with entity id 545 at (-43.76117381736694, 133.0, -749.8010638890214)
-[17:22:36] [Server thread/INFO]: TioSkrollex joined the game
-[17:22:47] [Server thread/INFO]: Pulpleito8 lost connection: Disconnected
-[17:22:47] [Server thread/INFO]: Pulpleito8 left the game
-[17:23:06] [Server thread/INFO]: Pulpleito8[/127.4.210.242:34949] logged in with entity id 593 at (-49.832866958862994, 135.0, -757.2103099407791)
-[17:23:06] [Server thread/INFO]: Pulpleito8 joined the game
-[17:25:47] [Server thread/INFO]: Named entity cdi['Temple Breaker'/810, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-85.22, y=134.00, z=-799.28] died: Temple Breaker was slain by Pulpleito8 using [Charred Edge]
-[17:26:52] [Server thread/INFO]: TioSkrollex burned to death
-[17:26:52] [Server thread/ERROR]: Input is not a list of 4 elements
-[17:26:52] [Server thread/ERROR]: Display entityNot a string
-[17:27:04] [Server thread/INFO]: [Pulpleito8: Teleported TioSkrollex to Pulpleito8]
-[17:27:24] [Server thread/ERROR]: Display entityNot a string
-[17:27:24] [Server thread/INFO]: Named entity bzc['TioSkrollex's Shade (#16)'/925, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-64.00, y=141.74, z=-816.00] died: TioSkrollex's Shade (#16) was killed
-[17:35:11] [Server thread/INFO]: Named entity cci['Crazed Spellcaster'/1410, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-91.93, y=159.00, z=-750.07] died: Crazed Spellcaster was slain by Pulpleito8
-[17:35:33] [Server thread/INFO]: Named entity cci['Crazed Spellcaster'/1447, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-111.89, y=160.00, z=-765.79] died: Crazed Spellcaster was blown up by Creeper
-[17:35:47] [Server thread/INFO]: Named entity cci['Crazed Spellcaster'/1500, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-109.70, y=159.00, z=-745.68] died: Crazed Spellcaster was slain by TioSkrollex using [Siphonsteel]
-[17:38:44] [Server thread/INFO]: Named entity cci['Crazed Spellcaster'/1754, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-119.30, y=163.00, z=-820.30] died: Crazed Spellcaster was slain by Pulpleito8 using [Charred Edge]
-[17:42:23] [Server thread/INFO]: Named entity cdi['Temple Breaker'/2144, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-146.84, y=136.00, z=-827.74] died: Temple Breaker was shot by Pulpleito8 using [Heavy Maple Bow]
-[17:46:27] [Server thread/INFO]: Named entity cdi['Temple Breaker'/2877, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-176.70, y=113.00, z=-815.30] died: Temple Breaker was slain by TioSkrollex using [Siphonsteel]
-[17:46:34] [Server thread/INFO]: Named entity cdi['Temple Breaker'/2954, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-177.67, y=112.00, z=-815.67] died: Temple Breaker was slain by TioSkrollex using [Siphonsteel]
-[17:48:46] [Server thread/INFO]: Named entity cdi['Temple Breaker'/2769, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-159.73, y=114.00, z=-832.60] died: Temple Breaker was slain by TioSkrollex using [Compressed Magma Sword]
-[17:48:57] [Server thread/INFO]: Named entity cci['Crazed Spellcaster'/2730, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-163.53, y=118.00, z=-837.36] died: Crazed Spellcaster was blown up by Creeper
-[17:51:23] [Server thread/INFO]: Named entity cdi['Temple Breaker'/3651, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-165.73, y=142.00, z=-853.40] died: Temple Breaker was slain by TioSkrollex using [Compressed Magma Sword]
-[17:51:25] [Server thread/INFO]: Named entity cdi['Temple Breaker'/3661, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-169.59, y=140.00, z=-857.27] died: Temple Breaker was slain by Pulpleito8 using [Fire-Infused Cobble Sword]
-[17:51:26] [Server thread/INFO]: Named entity cdi['Temple Breaker'/3662, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-168.30, y=142.00, z=-852.34] died: Temple Breaker was slain by TioSkrollex using [Compressed Magma Sword]
-[17:51:29] [Server thread/INFO]: Named entity cdi['Temple Breaker'/3549, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-166.58, y=142.00, z=-851.62] died: Temple Breaker was slain by Pulpleito8 using [Fire-Infused Cobble Sword]
-[17:53:15] [Server thread/INFO]: Named entity cdi['Temple Breaker'/3919, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-159.63, y=150.00, z=-843.49] died: Temple Breaker was slain by TioSkrollex using [Compressed Magma Sword]
-[17:53:31] [Server thread/INFO]: Named entity cdi['Temple Breaker'/4032, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-165.97, y=150.00, z=-841.64] died: Temple Breaker was slain by TioSkrollex using [Compressed Magma Sword]
-[17:53:31] [Server thread/INFO]: Named entity cdi['Temple Breaker'/4033, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-167.28, y=151.00, z=-841.73] died: Temple Breaker was slain by TioSkrollex using [Compressed Magma Sword]
-[17:56:54] [Server thread/INFO]: Named entity cdi['Temple Breaker'/4437, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-171.59, y=134.00, z=-818.06] died: Temple Breaker was slain by TioSkrollex using [Compressed Magma Sword]
-[17:57:00] [Server thread/INFO]: Named entity cdi['Temple Breaker'/4155, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-167.83, y=134.00, z=-817.58] died: Temple Breaker was slain by TioSkrollex using [Compressed Magma Sword]
-[17:57:04] [Server thread/INFO]: Named entity cdi['Temple Breaker'/4436, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-170.67, y=134.00, z=-817.01] died: Temple Breaker was slain by TioSkrollex using [Compressed Magma Sword]
-[17:57:07] [Server thread/INFO]: Named entity cdi['Temple Breaker'/4156, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-164.43, y=134.00, z=-811.51] died: Temple Breaker was slain by TioSkrollex using [Compressed Magma Sword]
-[17:59:53] [Server thread/INFO]: Named entity cci['Crazed Spellcaster'/4659, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-170.59, y=128.00, z=-818.70] died: Crazed Spellcaster was blown up by Creeper
-[18:00:08] [Server thread/INFO]: Named entity cci['Crazed Spellcaster'/4746, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-173.04, y=128.00, z=-817.98] died: Crazed Spellcaster was blown up by Creeper
-[18:00:08] [Server thread/INFO]: Named entity cci['Crazed Spellcaster'/4652, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-172.26, y=127.00, z=-815.06] died: Crazed Spellcaster was blown up by Creeper
-[18:00:44] [Server thread/INFO]: [Pulpleito8: Teleported TioSkrollex to Pulpleito8]
-[18:01:01] [Server thread/INFO]: [Pulpleito8: Teleported TioSkrollex to Pulpleito8]
-[18:06:04] [Server thread/INFO]: Named entity cci['Crazed Spellcaster'/5147, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-169.30, y=126.00, z=-818.70] died: Crazed Spellcaster was shot by Pulpleito8 using [Darkened Bow]
-[18:06:48] [Server thread/INFO]: Named entity cci['Crazed Spellcaster'/5173, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-169.30, y=124.00, z=-814.70] died: Crazed Spellcaster was shot by Pulpleito8 using [Darkened Bow]
-[18:07:07] [Server thread/INFO]: Named entity cci['Crazed Spellcaster'/5191, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-172.70, y=126.00, z=-812.30] died: Crazed Spellcaster was shot by Pulpleito8 using [Darkened Bow]
-[18:11:47] [Server thread/INFO]: Pulpleito8 was slain by Spider
-[18:11:47] [Server thread/ERROR]: Input is not a list of 4 elements
-[18:11:47] [Server thread/ERROR]: Display entityNot a string
-[18:12:19] [Server thread/ERROR]: Display entityNot a string
-[18:12:19] [Server thread/INFO]: Named entity bzc['Pulpleito8's Shade (#14)'/5385, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-118.00, y=130.74, z=-766.00] died: Pulpleito8's Shade (#14) was killed
-[18:16:27] [Server thread/INFO]: Named entity ccb[''/5458, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-91.12, y=63.00, z=-718.34] died:  was doomed to fall
-[18:34:06] [Server thread/INFO]: [Pulpleito8: Teleported Pulpleito8 to TioSkrollex]
-[18:36:12] [Server thread/INFO]: [Pulpleito8: Teleported Pulpleito8 to TioSkrollex]
-[18:37:46] [Server thread/INFO]: Pulpleito8 was shot by TioSkrollex using [Duplishot]
-[18:37:46] [Server thread/ERROR]: Input is not a list of 4 elements
-[18:37:46] [Server thread/ERROR]: Display entityNot a string
-[18:37:49] [Server thread/INFO]: [Pulpleito8: Teleported Pulpleito8 to TioSkrollex]
-[18:38:18] [Server thread/ERROR]: Display entityNot a string
-[18:38:18] [Server thread/INFO]: Named entity bzc['Pulpleito8's Shade (#15)'/5680, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=54.00, y=172.74, z=-776.00] died: Pulpleito8's Shade (#15) was killed
-[18:38:40] [Server thread/INFO]: [Pulpleito8: Teleported Pulpleito8 to TioSkrollex]
-[18:38:58] [Server thread/INFO]: TioSkrollex hit the ground too hard
-[18:38:58] [Server thread/ERROR]: Input is not a list of 4 elements
-[18:38:58] [Server thread/ERROR]: Display entityNot a string
-[18:39:08] [Server thread/INFO]: Pulpleito8 hit the ground too hard
-[18:39:08] [Server thread/ERROR]: Input is not a list of 4 elements
-[18:39:08] [Server thread/ERROR]: Display entityNot a string
-[18:39:34] [Server thread/ERROR]: Display entityNot a string
-[18:39:34] [Server thread/INFO]: Named entity bzc['TioSkrollex's Shade (#17)'/5749, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=99.00, y=181.74, z=-747.00] died: TioSkrollex's Shade (#17) was killed
-[18:39:40] [Server thread/ERROR]: Display entityNot a string
-[18:39:40] [Server thread/INFO]: Named entity bzc['Pulpleito8's Shade (#16)'/5760, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=101.00, y=163.74, z=-752.00] died: Pulpleito8's Shade (#16) was killed
-[18:39:50] [Server thread/INFO]: [TioSkrollex: Teleported Pulpleito8 to TioSkrollex]
-[18:40:41] [Server thread/INFO]: TioSkrollex lost connection: Disconnected
-[18:40:41] [Server thread/INFO]: TioSkrollex left the game
-[18:40:42] [Server thread/INFO]: Pulpleito8 lost connection: Disconnected
-[18:40:42] [Server thread/INFO]: Pulpleito8 left the game
-[19:11:56] [Server thread/INFO]: Pulpleito8[/127.4.210.242:35023] logged in with entity id 5852 at (-126.48750001192093, 163.0390514370972, -833.3000000119209)
-[19:11:56] [Server thread/INFO]: Pulpleito8 joined the game
-[19:19:59] [Server thread/INFO]: TioSkrollex[/127.54.56.198:38027] logged in with entity id 6136 at (-155.65515511640496, 159.0, -844.0234700892967)
-[19:19:59] [Server thread/INFO]: TioSkrollex joined the game
-[19:20:07] [Server thread/INFO]: Named entity ccm['Sanctuary Keeper'/6088, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=344.52, y=172.00, z=-899.10] died: Sanctuary Keeper was slain by Pulpleito8 using [Retaliatory Blade]
-[19:20:26] [Server thread/INFO]: [Pulpleito8: Teleported TioSkrollex to Pulpleito8]
-[19:23:29] [Server thread/INFO]: [Pulpleito8: Teleported TioSkrollex to Pulpleito8]
-[19:28:06] [Server thread/INFO]: Pulpleito8 hit the ground too hard
-[19:28:06] [Server thread/ERROR]: Input is not a list of 4 elements
-[19:28:06] [Server thread/ERROR]: Display entityNot a string
-[19:28:25] [Server thread/INFO]: [Pulpleito8: Teleported TioSkrollex to Pulpleito8]
-[19:28:38] [Server thread/ERROR]: Display entityNot a string
-[19:28:38] [Server thread/INFO]: Named entity bzc['Pulpleito8's Shade (#17)'/6404, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=319.00, y=156.74, z=-989.00] died: Pulpleito8's Shade (#17) was killed
-[19:33:41] [Server thread/INFO]: TioSkrollex was shot by Skeleton
-[19:33:41] [Server thread/ERROR]: Input is not a list of 4 elements
-[19:33:41] [Server thread/ERROR]: Display entityNot a string
-[19:33:43] [Server thread/INFO]: [Pulpleito8: Teleported TioSkrollex to Pulpleito8]
-[19:33:48] [Server thread/INFO]: [Pulpleito8: Teleported TioSkrollex to Pulpleito8]
-[19:34:16] [Server thread/ERROR]: Display entityNot a string
-[19:34:16] [Server thread/INFO]: Named entity bzc['TioSkrollex's Shade (#18)'/7121, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=263.00, y=144.74, z=-1047.00] died: TioSkrollex's Shade (#18) was killed
-[19:35:21] [Server thread/INFO]: TioSkrollex hit the ground too hard
-[19:35:22] [Server thread/ERROR]: Input is not a list of 4 elements
-[19:35:22] [Server thread/ERROR]: Display entityNot a string
-[19:35:23] [Server thread/INFO]: [Pulpleito8: Teleported TioSkrollex to Pulpleito8]
-[19:35:30] [Server thread/INFO]: [Pulpleito8: Teleported TioSkrollex to Pulpleito8]
-[19:35:55] [Server thread/ERROR]: Display entityNot a string
-[19:35:55] [Server thread/INFO]: Named entity bzc['TioSkrollex's Shade (#19)'/7330, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=262.00, y=146.74, z=-1047.00] died: TioSkrollex's Shade (#19) was killed
-[19:38:07] [Server thread/INFO]: TioSkrollex burned to death
-[19:38:07] [Server thread/ERROR]: Input is not a list of 4 elements
-[19:38:07] [Server thread/ERROR]: Display entityNot a string
-[19:38:26] [Server thread/INFO]: [Pulpleito8: Teleported TioSkrollex to Pulpleito8]
-[19:38:39] [Server thread/ERROR]: Display entityNot a string
-[19:38:39] [Server thread/INFO]: Named entity bzc['TioSkrollex's Shade (#20)'/7746, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=209.00, y=136.74, z=-1055.00] died: TioSkrollex's Shade (#20) was killed
-[19:39:54] [Server thread/INFO]: TioSkrollex hit the ground too hard while trying to escape Skeleton
-[19:39:54] [Server thread/ERROR]: Input is not a list of 4 elements
-[19:39:54] [Server thread/ERROR]: Display entityNot a string
-[19:40:16] [Server thread/INFO]: [Pulpleito8: Teleported TioSkrollex to Pulpleito8]
-[19:40:22] [Server thread/INFO]: [Pulpleito8: Teleported TioSkrollex to Pulpleito8]
-[19:40:30] [Server thread/INFO]: [Pulpleito8: Teleported TioSkrollex to Pulpleito8]
-[19:40:48] [Server thread/ERROR]: Display entityNot a string
-[19:40:48] [Server thread/INFO]: Named entity bzc['TioSkrollex's Shade (#21)'/8032, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=174.00, y=131.74, z=-1052.00] died: TioSkrollex's Shade (#21) was killed
-[19:42:40] [Server thread/INFO]: Named entity cdg['Flamewalker'/8270, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=175.41, y=131.00, z=-1050.66] died: Flamewalker was shot by TioSkrollex using [Duplishot]
-[19:43:01] [Server thread/INFO]: [Pulpleito8: Teleported Pulpleito8 to TioSkrollex]
-[19:43:04] [Server thread/INFO]: Named entity ccx['Flamewalker'/8320, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=135.70, y=128.00, z=-1044.20] died: Flamewalker was slain by Flamewalker
-[19:43:21] [Server thread/INFO]: Named entity cdg['Flamewalker'/8271, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=146.50, y=127.31, z=-1052.56] died: Flamewalker was shot by TioSkrollex using [Duplishot]
-[19:43:21] [Server thread/INFO]: Named entity cdg['Flamewalker'/8269, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=145.91, y=127.31, z=-1052.02] died: Flamewalker was slain by Pulpleito8 using [Basic Blade]
-[19:43:26] [Server thread/INFO]: Named entity ccx['Flamewalker'/8322, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=147.29, y=128.00, z=-1057.70] died: Flamewalker was slain by Neptunian
-[19:43:26] [Server thread/INFO]: TioSkrollex burned to death
-[19:43:26] [Server thread/ERROR]: Input is not a list of 4 elements
-[19:43:26] [Server thread/ERROR]: Display entityNot a string
-[19:43:27] [Server thread/INFO]: Named entity ccx['Flamewalker'/8319, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=127.52, y=128.00, z=-1063.70] died: Flamewalker was shot by Flamewalker
-[19:43:27] [Server thread/INFO]: Named entity ccx['Flamewalker'/8321, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=125.26, y=128.50, z=-1063.79] died: Flamewalker was shot by Flamewalker
-[19:43:28] [Server thread/INFO]: Pulpleito8 was slain by Neptunian
-[19:43:28] [Server thread/ERROR]: Input is not a list of 4 elements
-[19:43:28] [Server thread/ERROR]: Display entityNot a string
-[19:44:01] [Server thread/ERROR]: Display entityNot a string
-[19:44:01] [Server thread/INFO]: Named entity bzc['TioSkrollex's Shade (#22)'/8428, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=168.00, y=130.74, z=-1055.00] died: TioSkrollex's Shade (#22) was killed
-[19:44:01] [Server thread/ERROR]: Display entityNot a string
-[19:44:01] [Server thread/INFO]: Named entity bzc['Pulpleito8's Shade (#18)'/8455, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=150.00, y=126.74, z=-1054.00] died: Pulpleito8's Shade (#18) was killed
-[19:44:10] [Server thread/INFO]: Named entity ccd['Neptunian'/8356, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=170.41, y=130.00, z=-1054.33] died: Neptunian was shot by TioSkrollex using [Duplishot]
-[19:44:10] [Server thread/INFO]: Named entity ccd['Neptunian'/8358, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=169.37, y=130.00, z=-1054.50] died: Neptunian was shot by TioSkrollex using [Duplishot]
-[19:44:10] [Server thread/INFO]: Named entity ccd['Neptunian'/8354, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=166.62, y=130.31, z=-1053.52] died: Neptunian was shot by TioSkrollex using [Duplishot]
-[19:44:14] [Server thread/INFO]: Named entity ccd['Neptunian'/8352, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=169.87, y=130.00, z=-1054.51] died: Neptunian was slain by TioSkrollex using [Duplishot]
-[19:45:25] [Server thread/INFO]: [Pulpleito8: Teleported Pulpleito8 to TioSkrollex]
-[19:45:41] [Server thread/INFO]: Named entity ccm['Sanctuary Soldier'/8580, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=132.49, y=128.00, z=-1050.00] died: Sanctuary Soldier was shot by TioSkrollex using [Duplishot]
-[19:46:20] [Server thread/INFO]: Named entity ccx['Flamewalker'/8671, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=122.30, y=128.00, z=-1044.67] died: Flamewalker was slain by Pulpleito8 using [Basic Blade]
-[19:46:22] [Server thread/INFO]: Named entity ccx['Flamewalker'/8670, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=132.70, y=128.00, z=-1037.80] died: Flamewalker was shot by TioSkrollex using [Duplishot]
-[19:46:51] [Server thread/INFO]: Named entity cdg['Flamewalker'/8677, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=135.52, y=127.31, z=-1019.03] died: Flamewalker was slain by Pulpleito8 using [Basic Blade]
-[19:46:58] [Server thread/INFO]: Named entity cdg['Flamewalker'/8678, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=135.52, y=127.31, z=-1019.03] died: Flamewalker was slain by Pulpleito8 using [Basic Blade]
-[19:47:00] [Server thread/INFO]: Named entity cdg['Flamewalker'/8676, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=136.11, y=127.31, z=-1019.13] died: Flamewalker was slain by Pulpleito8 using [Basic Blade]
-[19:47:49] [Server thread/INFO]: Named entity ccx['Flamewalker'/8940, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=95.69, y=128.00, z=-1010.61] died: Flamewalker was slain by Sanctuary Keeper
-[19:47:50] [Server thread/INFO]: Named entity ccm['Sanctuary Keeper'/8952, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=101.08, y=128.00, z=-1017.32] died: Sanctuary Keeper was shot by TioSkrollex using [Duplishot]
-[19:47:56] [Server thread/INFO]: Named entity ccx['Flamewalker'/8939, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=86.05, y=128.06, z=-1016.78] died: Flamewalker was shot by Flamewalker
-[19:48:03] [Server thread/INFO]: Named entity ccm['Sanctuary Keeper'/8951, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=85.82, y=128.00, z=-1013.92] died: Sanctuary Keeper was shot by Flamewalker
-[19:48:04] [Server thread/INFO]: Named entity ccx['Flamewalker'/8949, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=93.24, y=128.00, z=-1011.27] died: Flamewalker was slain by Pulpleito8 using [Basic Blade]
-[19:48:06] [Server thread/INFO]: Named entity ccx['Flamewalker'/8938, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=87.24, y=128.00, z=-1011.18] died: Flamewalker was slain by Pulpleito8 using [Basic Blade]
-[19:48:08] [Server thread/INFO]: Named entity ccx['Flamewalker'/8947, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=82.63, y=128.00, z=-1014.06] died: Flamewalker was slain by Pulpleito8 using [Basic Blade]
-[19:48:19] [Server thread/INFO]: Named entity ccm['Sanctuary Soldier'/8943, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=81.85, y=128.00, z=-1026.04] died: Sanctuary Soldier was slain by Pulpleito8 using [Basic Blade]
-[19:48:31] [Server thread/INFO]: Named entity ccx['Flamewalker'/8948, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=64.73, y=128.00, z=-1021.59] died: Flamewalker was slain by Flamewalker
-[19:48:57] [Server thread/INFO]: TioSkrollex burned to death
-[19:48:57] [Server thread/ERROR]: Input is not a list of 4 elements
-[19:48:57] [Server thread/ERROR]: Display entityNot a string
-[19:49:07] [Server thread/INFO]: [Pulpleito8: Teleported TioSkrollex to Pulpleito8]
-[19:49:29] [Server thread/ERROR]: Display entityNot a string
-[19:49:29] [Server thread/INFO]: Named entity bzc['TioSkrollex's Shade (#23)'/9110, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=79.00, y=128.74, z=-1033.00] died: TioSkrollex's Shade (#23) was killed
-[19:49:46] [Server thread/INFO]: TioSkrollex was burned to a crisp while fighting Flamewalker
-[19:49:46] [Server thread/ERROR]: Input is not a list of 4 elements
-[19:49:46] [Server thread/ERROR]: Display entityNot a string
-[19:49:59] [Server thread/INFO]: Named entity cdg['Flamewalker'/9089, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=86.45, y=128.00, z=-1052.32] died: Flamewalker was shot by Pulpleito8 using [Darkened Bow]
-[19:50:03] [Server thread/INFO]: Named entity cdg['Flamewalker'/9083, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=86.16, y=128.00, z=-1052.53] died: Flamewalker was shot by Pulpleito8 using [Darkened Bow]
-[19:50:06] [Server thread/INFO]: Named entity cdg['Flamewalker'/9082, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=85.55, y=128.00, z=-1052.15] died: Flamewalker was shot by Pulpleito8 using [Darkened Bow]
-[19:50:16] [Server thread/INFO]: TioSkrollex burned to death
-[19:50:16] [Server thread/ERROR]: Input is not a list of 4 elements
-[19:50:16] [Server thread/ERROR]: Display entityNot a string
-[19:50:20] [Server thread/ERROR]: Display entityNot a string
-[19:50:20] [Server thread/INFO]: Named entity bzc['TioSkrollex's Shade (#24)'/9226, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=67.00, y=132.74, z=-1052.00] died: TioSkrollex's Shade (#24) was killed
-[19:50:23] [Server thread/INFO]: Named entity cdg['Flamewalker'/9028, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=86.30, y=128.00, z=-1052.34] died: Flamewalker was shot by Pulpleito8 using [Darkened Bow]
-[19:50:29] [Server thread/INFO]: Named entity ccm['Sanctuary Paladin'/9046, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=85.86, y=128.00, z=-1052.55] died: Sanctuary Paladin was shot by Pulpleito8 using [Darkened Bow]
-[19:50:32] [Server thread/INFO]: Named entity cdg['Flamewalker'/9080, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=85.27, y=128.00, z=-1052.65] died: Flamewalker was shot by Pulpleito8 using [Darkened Bow]
-[19:50:34] [Server thread/INFO]: Named entity cdg['Flamewalker'/9081, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=85.52, y=128.00, z=-1052.40] died: Flamewalker was shot by Pulpleito8 using [Darkened Bow]
-[19:50:36] [Server thread/INFO]: Named entity ccm['Sanctuary Paladin'/9060, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=86.56, y=128.00, z=-1048.19] died: Sanctuary Paladin was shot by Pulpleito8 using [Darkened Bow]
-[19:50:48] [Server thread/ERROR]: Display entityNot a string
-[19:50:48] [Server thread/INFO]: Named entity bzc['TioSkrollex's Shade (#25)'/9265, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=90.00, y=128.74, z=-1022.00] died: TioSkrollex's Shade (#25) was killed
-[19:51:20] [Server thread/INFO]: Named entity cdg['Flamewalker'/9033, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=132.50, y=128.00, z=-1036.48] died: Flamewalker was shot by TioSkrollex using [Duplishot]
-[19:51:25] [Server thread/INFO]: Named entity cdg['Flamewalker'/9034, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=131.55, y=128.00, z=-1050.42] died: Flamewalker was shot by TioSkrollex using [Duplishot]
-[19:51:46] [Server thread/INFO]: Named entity cdg['Flamewalker'/9029, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=137.38, y=127.31, z=-1019.01] died: Flamewalker was slain by Pulpleito8 using [Basic Blade]
-[19:51:47] [Server thread/INFO]: Named entity cdg['Flamewalker'/9030, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=137.94, y=127.31, z=-1018.80] died: Flamewalker was slain by Pulpleito8 using [Basic Blade]
-[19:52:33] [Server thread/INFO]: Named entity cdg['Flamewalker'/9090, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=84.17, y=127.31, z=-1014.41] died: Flamewalker was slain by Pulpleito8 using [Basic Blade]
-[19:58:13] [Server thread/INFO]: Pulpleito8 hit the ground too hard while trying to escape Ghast
-[19:58:13] [Server thread/ERROR]: Input is not a list of 4 elements
-[19:58:13] [Server thread/ERROR]: Display entityNot a string
-[19:58:20] [Server thread/INFO]: [Pulpleito8: Teleported Pulpleito8 to TioSkrollex]
-[19:58:45] [Server thread/ERROR]: Display entityNot a string
-[19:58:45] [Server thread/INFO]: Named entity bzc['Pulpleito8's Shade (#19)'/10029, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=312.00, y=189.74, z=-1029.00] died: Pulpleito8's Shade (#19) was killed
-[20:03:41] [Server thread/INFO]: Named entity ccm['Sanctuary Paladin'/10580, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=304.85, y=127.00, z=-1042.23] died: Sanctuary Paladin was shot by TioSkrollex using [Fiery Boltshooter]
-[20:05:17] [Server thread/INFO]: [Pulpleito8: Teleported Pulpleito8 to TioSkrollex]
-[20:10:26] [Server thread/INFO]: Named entity ccm['Sanctuary Paladin'/11378, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=370.94, y=86.49, z=-1004.64] died: Sanctuary Paladin was slain by Pulpleito8 using [Gold Crusted Pumpkin Cutter]
-[20:13:21] [Server thread/INFO]: Named entity ccm['Sanctuary Soldier'/11781, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=216.32, y=84.00, z=-1011.27] died: Sanctuary Soldier was slain by TioSkrollex using [Basic Blade]
-[20:13:26] [Server thread/INFO]: Named entity ccm['Sanctuary Keeper'/11788, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=219.72, y=84.00, z=-1014.30] died: Sanctuary Keeper was slain by TioSkrollex using [Basic Blade]
-[20:16:49] [Server thread/INFO]: Named entity ccm['Sanctuary Soldier'/12198, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=198.74, y=88.00, z=-1085.75] died: Sanctuary Soldier was slain by TioSkrollex using [Basic Blade]
-[20:20:19] [Server thread/INFO]: Named entity ccm['Sanctuary Keeper'/12532, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=228.22, y=85.00, z=-1086.55] died: Sanctuary Keeper was slain by TioSkrollex using [Basic Blade]
-[20:22:09] [Server thread/INFO]: Named entity cdb['Lost Soul'/13028, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=275.56, y=86.31, z=-1109.73] died: Lost Soul was slain by TioSkrollex using [Basic Blade]
+[02:25:39] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:25:41] [Worker-Main-1/ERROR]: Couldn't load tag delta:no_collision as it is missing following references: minecraft:grass (from file/delta_datapack.zip)
+[02:25:43] [ServerMain/INFO]: Loaded 7 recipes
+[02:25:43] [ServerMain/ERROR]: Couldn't load tag minecraft:cartographer/events/enchantments/ranged/frost as it is missing following references: cartographer_custom_enchantments:events/debug/enchantments/ranged/frost (from file/Cartographer - Custom Enchantments.zip)
+[02:25:43] [ServerMain/INFO]: Loaded 344 advancements
+[02:25:43] [ServerMain/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:block] are present in data pack: bb:raycast
+[02:25:44] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[02:25:44] [Server thread/INFO]: Loading properties
+[02:25:44] [Server thread/INFO]: Default game type: SURVIVAL
+[02:25:44] [Server thread/INFO]: Generating keypair
+[02:25:44] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:25:44] [Server thread/INFO]: Using epoll channel type
+[02:25:44] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:25:44] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:25:44] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:25:44] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:25:44] [Server thread/INFO]: Preparing level "world"
+[02:25:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:25:46] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[02:25:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:25:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:25:46] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[02:25:46] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[02:25:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[02:25:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:25:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:25:48] [Worker-Main-1/INFO]: Preparing spawn area: 3%
+[02:25:49] [Worker-Main-3/INFO]: Preparing spawn area: 31%
+[02:25:51] [Server thread/INFO]: Time elapsed: 6218 ms
+[02:25:51] [Server thread/INFO]: Done (6.418s)! For help, type "help"
+[02:25:58] [Server thread/WARN]: UUID of added entity already exists: bmm['Marker'/1, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-1000.00, y=-36.00, z=-1000.00]
+[02:25:58] [Server thread/WARN]: UUID of added entity already exists: ccx['Skeleton'/123, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-1030.50, y=-0.50, z=-1030.50]
+[02:25:58] [Server thread/WARN]: UUID of added entity already exists: cbk['Armor Stand'/124, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-1030.50, y=-0.50, z=-1030.50]
+[02:25:58] [Server thread/WARN]: UUID of added entity already exists: bmm['Marker'/125, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=-1030.50, y=-0.50, z=-1030.50]
+[02:25:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7375ms or 147 ticks behind
+[02:25:59] [Server thread/WARN]: UUID of added entity already exists: bmm['Marker'/230, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=4206900.50, y=0.00, z=4206900.50]
+[02:25:59] [Server thread/WARN]: UUID of added entity already exists: cbk['Armor Stand'/231, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=4206900.50, y=0.00, z=4206900.50]
+[02:25:59] [Server thread/WARN]: UUID of added entity already exists: bmm['Marker'/232, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=4206900.50, y=50.00, z=4206900.50]
+[02:25:59] [Server thread/WARN]: UUID of added entity already exists: bmm['Marker'/233, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=4206900.50, y=50.00, z=4206900.50]
+[02:25:59] [Server thread/WARN]: UUID of added entity already exists: bmm['Marker'/234, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=4206900.50, y=50.00, z=4206900.50]
+[02:25:59] [Server thread/WARN]: UUID of added entity already exists: bmm['Marker'/235, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=4206900.50, y=60.00, z=4206900.50]
+[02:25:59] [Server thread/WARN]: UUID of added entity already exists: bmm['Marker'/236, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=4206900.50, y=128.00, z=4206900.50]
+[02:25:59] [Server thread/WARN]: UUID of added entity already exists: cbk['Armor Stand'/237, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=4206900.50, y=180.00, z=4206900.50]
+[02:25:59] [Server thread/WARN]: UUID of added entity already exists: cbk['Armor Stand'/238, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=4206900.50, y=180.00, z=4206900.50]
+[02:25:59] [Server thread/WARN]: UUID of added entity already exists: bmm['Marker'/239, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=4206900.50, y=-1.00, z=4206900.50]
+[02:25:59] [Server thread/WARN]: UUID of added entity already exists: bmm['Marker'/241, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=0.06, y=0.07, z=-0.03]
+[02:26:23] [Server thread/INFO]: TioSkrollex[/127.54.56.198:49111] logged in with entity id 349 at (309.5723529924933, 197.0, -736.4531524199801)
+[02:26:24] [Server thread/INFO]: TioSkrollex joined the game
+[02:27:57] [Server thread/INFO]: Pulpleito8[/127.4.210.242:46553] logged in with entity id 386 at (321.08948328173466, 197.875, -738.3649276046779)
+[02:27:57] [Server thread/INFO]: Pulpleito8 joined the game
+[02:29:21] [Server thread/INFO]: TioSkrollex lost connection: Disconnected
+[02:29:21] [Server thread/INFO]: TioSkrollex left the game
+[02:34:11] [Server thread/INFO]: TioSkrollex[/127.54.56.198:50997] logged in with entity id 414 at (312.3155418850032, 196.0, -739.6019130624461)
+[02:34:11] [Server thread/INFO]: TioSkrollex joined the game
+[02:34:24] [Server thread/ERROR]: Display entityNot a string
