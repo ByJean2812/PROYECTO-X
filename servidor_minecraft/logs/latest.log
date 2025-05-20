@@ -236,3 +236,17 @@
 [03:54:18] [Server thread/ERROR]: Display entityNot a string
 [03:55:01] [Server thread/INFO]: Named entity ccj['Calcite Ghost'/7581, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=251.30, y=168.68, z=-1389.14] died: Calcite Ghost was shot by Pulpleito8 using [Darkened Bow]
 [03:55:03] [Server thread/INFO]: Named entity ccr['Geode Bat'/7488, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=232.09, y=173.93, z=-1380.19] died: Geode Bat was shot by Pulpleito8 using [Darkened Bow]
+[03:58:29] [Server thread/INFO]: Named entity ccb['Rushcreeper'/7974, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=267.44, y=166.00, z=-1374.56] died: death.attack.magic.item
+[03:58:42] [Server thread/INFO]: Named entity ccm['Writhing Roots'/7985, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=264.81, y=52.00, z=-1388.95] died: Writhing Roots tried to swim in lava
+[03:59:00] [Server thread/INFO]: Named entity ccm['Gremlin'/7997, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=265.89, y=168.84, z=-1392.54] died: Gremlin was slain by Pulpleito8 using [Hunting Machete]
+[03:59:02] [Server thread/INFO]: Named entity ccm['Gremlin'/7998, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=266.01, y=168.84, z=-1393.13] died: Gremlin was slain by Pulpleito8 using [Hunting Machete]
+[03:59:29] [Server thread/INFO]: Named entity ccm['Writhing Roots'/8043, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=263.91, y=52.00, z=-1388.66] died: Writhing Roots tried to swim in lava
+[04:00:39] [Server thread/INFO]: Named entity ccm['Gremlin'/8102, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=272.95, y=172.84, z=-1405.18] died: Gremlin was slain by Pulpleito8 using [Hunting Machete]
+[04:00:50] [Server thread/INFO]: Named entity ccm['Gremlin'/8101, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=276.54, y=171.19, z=-1404.06] died: Gremlin was slain by Pulpleito8 using [Hunting Machete]
+[04:01:24] [Server thread/INFO]: Named entity ccr['Geode Bat'/8099, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=284.31, y=183.66, z=-1404.78] died: Geode Bat was shot by Pulpleito8 using [Darkened Bow]
+[04:03:31] [Server thread/INFO]: Named entity ccm['Writhing Roots'/8203, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=266.04, y=52.00, z=-1388.93] died: Writhing Roots tried to swim in lava
+[04:04:52] [Server thread/INFO]: Named entity ccm['Writhing Roots'/8260, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=266.94, y=52.00, z=-1389.01] died: Writhing Roots tried to swim in lava
+[04:05:24] [Server thread/INFO]: Named entity ccj['Calcite Ghost'/8266, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=292.27, y=177.02, z=-1444.28] died: Calcite Ghost was shot by Pulpleito8 using [Darkened Bow]
+[04:05:40] [Server thread/INFO]: Named entity ccm['Gremlin'/8264, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=268.07, y=168.00, z=-1431.85] died: Gremlin was slain by Pulpleito8 using [Hunting Machete]
+[04:06:55] [Server thread/INFO]: Named entity ccm['Gremlin'/8285, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=269.51, y=168.98, z=-1431.49] died: Gremlin was slain by Pulpleito8 using [Swarm Handle]
+[04:06:58] [Server thread/INFO]: Named entity ccm['Gremlin'/8263, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=269.50, y=169.00, z=-1429.15] died: Gremlin was slain by Pulpleito8 using [Swarm Handle]

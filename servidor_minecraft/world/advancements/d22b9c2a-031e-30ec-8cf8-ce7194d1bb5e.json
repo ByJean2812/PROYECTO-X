@@ -488,6 +488,12 @@
     },
     "done": true
   },
+  "entityid:entity_hurt_player": {
+    "criteria": {
+      "avoids_guardian_thorns": "2025-05-20 04:05:17 +0000"
+    },
+    "done": false
+  },
   "cartographer_mob_abilities:active/duplicator": {
     "criteria": {
       "found": "2025-05-20 03:43:10 +0000"
