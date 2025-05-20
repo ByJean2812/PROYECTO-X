@@ -146,3 +146,12 @@
 [03:25:46] [Server thread/INFO]: TioSkrollex hit the ground too hard
 [03:25:46] [Server thread/ERROR]: Input is not a list of 4 elements
 [03:25:46] [Server thread/ERROR]: Display entityNot a string
+[03:26:18] [Server thread/ERROR]: Display entityNot a string
+[03:26:18] [Server thread/INFO]: Named entity bzc['TioSkrollex's Shade (#32)'/5231, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=346.00, y=157.74, z=-1300.00] died: TioSkrollex's Shade (#32) was killed
+[03:32:49] [Server thread/INFO]: TioSkrollex tried to swim in lava
+[03:32:49] [Server thread/ERROR]: Input is not a list of 4 elements
+[03:32:49] [Server thread/ERROR]: Display entityNot a string
+[03:32:54] [Server thread/INFO]: TioSkrollex lost connection: Disconnected
+[03:32:54] [Server thread/INFO]: TioSkrollex left the game
+[03:34:44] [Server thread/ERROR]: Display entityNot a string
+[03:34:44] [Server thread/INFO]: Named entity bzc['TioSkrollex's Shade (#33)'/5941, l='ServerLevel[§l§d☠ Absolution ☠ §r| §7The CTMC]', x=405.00, y=149.74, z=-1358.00] died: TioSkrollex's Shade (#33) was killed
