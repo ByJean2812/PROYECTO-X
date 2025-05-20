@@ -470,6 +470,30 @@
     },
     "done": true
   },
+  "cartographer_custom_enchantments:passive/evasion": {
+    "criteria": {
+      "find": "2025-05-20 03:50:55 +0000"
+    },
+    "done": true
+  },
+  "cartographer_mob_abilities:active/charge": {
+    "criteria": {
+      "found": "2025-05-20 03:43:51 +0000"
+    },
+    "done": true
+  },
+  "cartographer_mob_abilities:trait/hit/zephyrous": {
+    "criteria": {
+      "found1": "2025-05-20 03:55:01 +0000"
+    },
+    "done": true
+  },
+  "cartographer_mob_abilities:active/duplicator": {
+    "criteria": {
+      "found": "2025-05-20 03:43:10 +0000"
+    },
+    "done": true
+  },
   "cartographer_custom_enchantments:melee/hunter": {
     "criteria": {
       "find": "2025-05-20 02:42:27 +0000"
@@ -479,6 +503,19 @@
   "cartographer_custom_enchantments:passive/regeneration": {
     "criteria": {
       "find": "2025-05-20 03:13:16 +0000"
+    },
+    "done": true
+  },
+  "cartographer_mob_abilities:trait/other/acrobatic": {
+    "criteria": {
+      "gap_close": "2025-05-20 03:44:28 +0000",
+      "basic": "2025-05-20 03:44:28 +0000"
+    },
+    "done": true
+  },
+  "cartographer_mob_abilities:active/spin_shot": {
+    "criteria": {
+      "found": "2025-05-20 03:44:28 +0000"
     },
     "done": true
   },
